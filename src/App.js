@@ -17,7 +17,7 @@ class App extends Component {
         <div>
           <Navigation />
             <Switch>
-             <Route path="/" component={Home} exact/>
+             <Route path="/ailab" component={Home} exact/>
              <Route path="/about" component={About}/>
              <Route path="/team" component={Team}/>
              <Route path="/projects" component={Projects}/>
