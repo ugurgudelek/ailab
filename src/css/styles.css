@@ -48,6 +48,7 @@
 }
 
 html {
+  background-color: #6c757d;
   font-family: sans-serif;
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
@@ -10113,7 +10114,7 @@ img::-moz-selection {
     transition: font-size 0.3s ease-in-out;
   }
   #mainNav .navbar-brand img {
-    height: 2rem;
+    height: 3rem;
     transition: height 0.3s ease-in-out;
   }
   #mainNav.navbar-shrink {
@@ -10140,7 +10141,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/header-bg.jpg");
+  background-image: url("../assets/img/ai.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;

@@ -3,7 +3,7 @@ import '../css/styles.css';
  
 const About = () => {
     return (
-       <div>
+       <div className="bg-secondary">
          <section className="page-section" id="about">
             <div className="container">
                 <div className="text-center">

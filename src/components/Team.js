@@ -3,7 +3,7 @@ import '../css/styles.css';
  
 const Team = () => {
     return (
-<section className="page-section bg-light" id="team">
+        <section className="page-section bg-light" id="team">
             <div className="container">
                 <div className="text-center">
                     <h2 className="section-heading text-uppercase">Our Amazing Team</h2>
