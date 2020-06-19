@@ -3,10 +3,9 @@ import '../css/styles.css';
  
 const Projects = () => {
     return (
-       <div>
-          <h1>About US</h1>
-          <p>About US page body content</p>
-       </div>
+       <section className="page-section bg-secondary">
+          <h3 className="text-center">THIS IS PROJECTS PAGE</h3>
+       </section>
     );
 }
  

@@ -3,10 +3,9 @@ import '../css/styles.css';
  
 const Publication = () => {
     return (
-       <div>
-          <h1>PUBLICATIONS</h1>
-          <p>PUBLICATIONS page body content</p>
-       </div>
+      <section className="page-section bg-secondary">
+         <h3 className="text-center">THIS IS PUBLICATIONS PAGE</h3>
+      </section>
     );
 }
  
