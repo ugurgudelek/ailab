@@ -13,5 +13,8 @@ function Member (props) {
         </div>
     );
 }
- 
+Member.defaultProps = {
+    name : "No info for now",
+    title : "No info for now"
+}
 export default Member;
