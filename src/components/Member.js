@@ -3,7 +3,7 @@ import '../css/styles.css';
 
 function Member (props) {
     return (
-        <div className="col-lg-4">
+        <div className="col-lg-3">
             <div className="team-member">
                 <a href="#!"><img className="mx-auto rounded-circle" src={require("../assets/img/team/avatar_male.png")} alt=""/></a>
                 <h4>{props.name}</h4>
