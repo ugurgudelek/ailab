@@ -3,7 +3,7 @@ import '../css/styles.css';
  
 const Publication = () => {
     return (
-      <section className="page-section bg-secondary">
+      <section className="page-section bg-light">
          <h3 className="text-center">THIS IS PUBLICATIONS PAGE</h3>
       </section>
     );

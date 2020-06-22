@@ -3,7 +3,7 @@ import '../css/styles.css';
 
 const Contact = () => {
     return (
-      <section className="page-section bg-secondary">
+      <section className="page-section bg-light">
          <h3 className="text-center">THIS IS CONTACT US PAGE</h3>
       </section>
     );
