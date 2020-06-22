@@ -47,6 +47,10 @@
   box-sizing: border-box;
 }
 
+.masthead .masthead-subheading, .masthead .masthead-heading{
+  opacity: 1;
+}
+
 html {
   background-color: #e2eff0;
   font-family: sans-serif;
@@ -10099,8 +10103,11 @@ img::-moz-selection {
 }
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
   color: black;
+  border-bottom: 0.1rem solid rgb(24, 24, 114);
 }
-
+#mainNav .navbar-nav .nav-item .nav-link{
+  transition: border-bottom 0.1s;
+}
 @media (min-width: 992px) {
   #mainNav {
     padding-top: 1.5rem;
@@ -10131,6 +10138,9 @@ img::-moz-selection {
   }
   #mainNav .navbar-nav .nav-item {
     margin-right: 1rem;
+  }
+  #mainNav li{
+    transition: border-bottom 1s;
   }
   #mainNav .navbar-nav .nav-item:last-child {
     margin-right: 0;
