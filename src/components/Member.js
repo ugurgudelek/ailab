@@ -15,6 +15,7 @@ function Member (props) {
 }
 Member.defaultProps = {
     name : "No info for now",
-    title : "No info for now"
+    title : "No info for now",
+    link : "#!"
 }
 export default Member;
