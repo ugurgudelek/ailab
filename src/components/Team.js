@@ -24,11 +24,17 @@ const Team = () => {
                     <Member/>
                     <Member/>
                     <Member/>
+                    <Member/>
+                    <Member/>
+                    <Member/>
                 </div>
                 <div className="text-left">
                     <h3>MSc Students</h3>
                 </div>
                 <div className="row">
+                    <Member/>
+                    <Member/>
+                    <Member/>
                     <Member/>
                     <Member/>
                     <Member/>
@@ -40,11 +46,17 @@ const Team = () => {
                     <Member/>
                     <Member/>
                     <Member/>
+                    <Member/>
+                    <Member/>
+                    <Member/>
                 </div>
                 <div className="text-left">
                     <h3>Alumni</h3>
                 </div>
                 <div className="row">
+                    <Member/>
+                    <Member/>
+                    <Member/>
                     <Member/>
                     <Member/>
                     <Member/>
