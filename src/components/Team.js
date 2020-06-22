@@ -14,7 +14,7 @@ const Team = () => {
                     <h3>Professors</h3>
                 </div>
                 <div className="row">
-                    <Member name="Murat Özbayoğlu" title="Assosiacte Professor"/>
+                    <Member name="Murat Özbayoğlu" title="Assosiacte Professor" link="./subDirs/Prof1"/>
                     <Member name="M.Fatih Demirci" title="Assosiacte Professor"/>
                 </div>
                 <div className="text-left">
