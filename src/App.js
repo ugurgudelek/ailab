@@ -9,6 +9,8 @@ import Navigation from './components/Navigation';
 import Projects from './components/Projects';
 import Publications from './components/Publications';
 import Team from './components/Team';
+import MuratOzbayoglu from './components/members/MuratOzbayoglu';
+import MFatihDemirci from './components/members/MFatihDemirci';
  
 class App extends Component {
   render() {
@@ -23,6 +25,8 @@ class App extends Component {
              <Route path="/projects" component={Projects}/>
              <Route path="/publications" component={Publications}/>
              <Route path="/contact" component={Contact}/>
+             <Route path="/muratozbayoglu" component={MuratOzbayoglu}/>
+             <Route path="/mfatihdemirci" component={MFatihDemirci}/>
             <Route component={Error}/>
            </Switch>
         </div> 
