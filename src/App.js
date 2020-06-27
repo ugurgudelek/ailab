@@ -13,26 +13,26 @@ import MuratOzbayoglu from './components/members/MuratOzbayoglu';
 import MFatihDemirci from './components/members/MFatihDemirci';
  
 class App extends Component {
-  render() {
-    return (      
-       <BrowserRouter>
-        <div>
-          <Navigation />
-            <Switch>
-             <Route path="/" component={Home} exact/>
-             <Route path="/about" component={About}/>
-             <Route path="/team" component={Team}/>
-             <Route path="/projects" component={Projects}/>
-             <Route path="/publications" component={Publications}/>
-             <Route path="/contact" component={Contact}/>
-             <Route path="/muratozbayoglu" component={MuratOzbayoglu}/>
-             <Route path="/mfatihdemirci" component={MFatihDemirci}/>
-            <Route component={Error}/>
-           </Switch>
-        </div> 
-      </BrowserRouter>
-    );
-  }
+    render() {
+        return (      
+            <BrowserRouter>
+            <div>
+                <Navigation />
+                <Switch>
+                    <Route path="/" component={Home} exact/>
+                    <Route path="/about" component={About}/>
+                    <Route path="/team" component={Team}/>
+                    <Route path="/projects" component={Projects}/>
+                    <Route path="/publications" component={Publications}/>
+                    <Route path="/contact" component={Contact}/>
+                    <Route path="/muratozbayoglu" component={MuratOzbayoglu}/>
+                    <Route path="/mfatihdemirci" component={MFatihDemirci}/>
+                    <Route component={Error}/>
+                </Switch>
+            </div> 
+            </BrowserRouter>
+        );
+    }
 }
  
 export default App;
