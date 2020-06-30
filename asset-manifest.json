@@ -1,32 +1,26 @@
 {
   "files": {
-    "main.css": "/ailab/static/css/main.4687e0b0.chunk.css",
-    "main.js": "/ailab/static/js/main.107f53b5.chunk.js",
-    "main.js.map": "/ailab/static/js/main.107f53b5.chunk.js.map",
+    "main.css": "/ailab/static/css/main.898fdf8e.chunk.css",
+    "main.js": "/ailab/static/js/main.2063aca0.chunk.js",
+    "main.js.map": "/ailab/static/js/main.2063aca0.chunk.js.map",
     "runtime-main.js": "/ailab/static/js/runtime-main.09ab5ebe.js",
     "runtime-main.js.map": "/ailab/static/js/runtime-main.09ab5ebe.js.map",
-    "static/js/2.ef686f49.chunk.js": "/ailab/static/js/2.ef686f49.chunk.js",
-    "static/js/2.ef686f49.chunk.js.map": "/ailab/static/js/2.ef686f49.chunk.js.map",
+    "static/js/2.1ed3396b.chunk.js": "/ailab/static/js/2.1ed3396b.chunk.js",
+    "static/js/2.1ed3396b.chunk.js.map": "/ailab/static/js/2.1ed3396b.chunk.js.map",
     "index.html": "/ailab/index.html",
-    "precache-manifest.2b04ddfb85db3ae3b66bf326b747472d.js": "/ailab/precache-manifest.2b04ddfb85db3ae3b66bf326b747472d.js",
+    "precache-manifest.244163fe6c3ce89450d21f44fa05f9cb.js": "/ailab/precache-manifest.244163fe6c3ce89450d21f44fa05f9cb.js",
     "service-worker.js": "/ailab/service-worker.js",
-    "static/css/main.4687e0b0.chunk.css.map": "/ailab/static/css/main.4687e0b0.chunk.css.map",
-    "static/js/2.ef686f49.chunk.js.LICENSE.txt": "/ailab/static/js/2.ef686f49.chunk.js.LICENSE.txt",
-    "static/media/01-thumbnail.jpg": "/ailab/static/media/01-thumbnail.eda45981.jpg",
-    "static/media/02-thumbnail.jpg": "/ailab/static/media/02-thumbnail.e52270b3.jpg",
-    "static/media/03-thumbnail.jpg": "/ailab/static/media/03-thumbnail.09c41872.jpg",
-    "static/media/04-thumbnail.jpg": "/ailab/static/media/04-thumbnail.80c8ff5c.jpg",
-    "static/media/06-thumbnail.jpg": "/ailab/static/media/06-thumbnail.20456fff.jpg",
-    "static/media/1.jpg": "/ailab/static/media/1.e0b34f6f.jpg",
-    "static/media/2.jpg": "/ailab/static/media/2.cc41e47b.jpg",
-    "static/media/3.jpg": "/ailab/static/media/3.2df43e35.jpg",
+    "static/css/main.898fdf8e.chunk.css.map": "/ailab/static/css/main.898fdf8e.chunk.css.map",
+    "static/js/2.1ed3396b.chunk.js.LICENSE.txt": "/ailab/static/js/2.1ed3396b.chunk.js.LICENSE.txt",
+    "static/media/2.jpg": "/ailab/static/media/2.a90b0f86.jpg",
     "static/media/styles.css": "/ailab/static/media/map-image.f40ed5b1.png",
-    "static/media/navbar-logo.svg": "/ailab/static/media/navbar-logo.2c061749.svg"
+    "static/media/sample.pdf": "/ailab/static/media/sample.4b41a347.pdf",
+    "static/media/tobb_etu_dikey_en.png": "/ailab/static/media/tobb_etu_dikey_en.ede12e9d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.09ab5ebe.js",
-    "static/js/2.ef686f49.chunk.js",
-    "static/css/main.4687e0b0.chunk.css",
-    "static/js/main.107f53b5.chunk.js"
+    "static/js/2.1ed3396b.chunk.js",
+    "static/css/main.898fdf8e.chunk.css",
+    "static/js/main.2063aca0.chunk.js"
   ]
 }
