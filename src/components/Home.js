@@ -3,7 +3,7 @@ import '../css/styles.css';
 
 const Home = () => {
     return (
-        <div>
+        <section>
             <header className="masthead">
                 <div className="container">
                     <div className="masthead-subheading text-dark">Welcome To Tobb ETU AI Lab!</div>
@@ -11,7 +11,7 @@ const Home = () => {
                     <a className="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="/About">Tell Me More</a>
                 </div>
             </header>
-        </div>
+        </section>
     );
 }
  
