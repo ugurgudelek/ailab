@@ -1,5 +1,6 @@
 import React from 'react';
 import '../css/styles.css';
+import Footer from './Footer';
 
 const Home = () => {
     return (
@@ -11,6 +12,7 @@ const Home = () => {
                     <a className="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="/About">Tell Me More</a>
                 </div>
             </header>
+            <Footer/>
         </section>
     );
 }
