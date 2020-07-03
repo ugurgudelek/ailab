@@ -4,11 +4,11 @@ import Footer from './Footer';
  
 const About = () => {
     return (
-        <section className="bg-light">
+        <section className="bg-light mt-4">
             <section className="page-section" id="about">
                 <div className="container">
                     <div className="text-center">
-                        <h2 className="section-heading text-uppercase">About</h2>
+                        <h3 className="section-heading text-uppercase">About</h3>
                         <h3 className="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
                     </div>
                     <ul className="timeline">

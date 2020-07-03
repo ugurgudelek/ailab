@@ -5,10 +5,10 @@ import Footer from './Footer';
  
 const Team = () => {
     return (
-        <section className="page-section bg-light" id="team">
+        <section className="page-section bg-light mt-5" id="team">
             <div className="container">
                 <div className="text-center">
-                    <h2 className="section-heading text-uppercase">Our Amazing Team</h2>
+                    <h3 className="section-heading text-uppercase">Our Amazing Team</h3>
                     <h3 className="section-subheading text-dark">Lorem ipsum dolor sit amet consectetur.</h3>
                 </div>
                 <div className="text-left">
