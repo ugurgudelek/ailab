@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
  
 import Home from './components/Home';
+import HomePage from './components/HomePage';
 import About from './components/About';
 import Contact from './components/Contact';
 import Error from './components/Error';
@@ -17,9 +18,10 @@ class App extends Component {
         return (      
             <BrowserRouter>
             <div>
-                <Navigation />
+                <Navigation/>
                 <Switch>
-                    <Route path="/" component={Home} exact/>
+                    <Route path="/" component={HomePage} exact/>   
+                    <Route path="/ailab" component={Home}/>                 
                     <Route path="/about" component={About}/>
                     <Route path="/team" component={Team}/>
                     <Route path="/projects" component={Projects}/>
