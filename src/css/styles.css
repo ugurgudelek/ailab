@@ -6179,6 +6179,9 @@ button.bg-light:focus {
 .bg-dark {
   background-color: #343a40 !important;
 }
+.bg-dark-2{
+  background-color: #50585f !important;
+}
 .bg-gray{
   background-color: rgb(196, 196, 196) !important;
 }
@@ -6307,6 +6310,9 @@ button.bg-dark:focus {
 
 .rounded-circle {
   border-radius: 50% !important;
+}
+.rounded-circle-2 {
+  border-radius: 5% !important;
 }
 
 .rounded-pill {
@@ -10465,6 +10471,12 @@ header.masthead .masthead-heading {
   border: 0.1rem solid rgba(0, 0, 0, 0.1);
   transition: all 1s;
 }
+.team-member-2 img {
+  width: 20rem;
+  height: 20rem;
+  border: 0.1rem solid rgba(0, 0, 0, 0.1);
+  transition: all 1s;
+}
 .team-member h4 {
   margin-top: 1.5rem;
   margin-bottom: 0;
@@ -10535,4 +10547,17 @@ section#contact form#contactForm :-ms-input-placeholder {
 
 .table td{
   font-size: 22px;
+}
+
+.inline{
+  display: inline-block;
+}
+
+.center{
+  margin: auto;
+  display: flex;
+}
+
+.font-30{
+  font-size: 30px;
 }
