@@ -3,6 +3,8 @@ import '../css/styles.css';
 import Footer from './Footer';
 import News from './News';
 import Profs from './Professors';
+import PublicationsHome from './PublicationsHome';
+
 
 const Home = () => {
     return (
@@ -16,6 +18,7 @@ const Home = () => {
             </header>
             <News />
             <Profs />
+            <PublicationsHome/>
             <Footer />
         </section>
     );
