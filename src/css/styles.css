@@ -6203,7 +6203,9 @@ button.bg-dark:focus {
 .bg-transparent {
   background-color: transparent !important;
 }
-
+.bg-bis{
+  background-color: rgb(252, 242, 231);
+}
 .border {
   border: 1px solid #dee2e6 !important;
 }
@@ -7814,6 +7816,9 @@ button.bg-dark:focus {
   padding-left: 3rem !important;
 }
 
+.p-6{
+  padding: 10rem;
+}
 .m-n1 {
   margin: -0.25rem !important;
 }
@@ -10595,4 +10600,12 @@ section#contact form#contactForm :-ms-input-placeholder {
 
 .font-30{
   font-size: 30px;
+}
+
+.member span{
+  font-weight: 100;
+}
+
+.member h3{
+  font-size: 1.2rem;
 }
