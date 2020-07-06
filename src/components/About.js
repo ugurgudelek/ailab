@@ -4,7 +4,7 @@ import Footer from './Footer';
  
 const About = () => {
     return (
-        <section className="bg-light mt-4 page-section">
+        <section className="bg-light mt-4 page-section pb-0">
             <h3 className="text-center bg-dark-2 text-light pt-4 pb-4 mt-0 mb-0">About</h3>
             <section className="page-section" id="about">
                 <div className="container">
