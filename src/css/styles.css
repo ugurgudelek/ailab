@@ -10491,6 +10491,11 @@ header.masthead .masthead-heading {
 .team-member img:hover {
   opacity: 0.5;
 }
+.team-header{
+  padding: 1.1rem;
+  border-bottom: 0.2rem solid black;
+  border-top: 0.2rem solid black;
+}
 .project-member {
   margin-bottom: 3rem;
   margin-left: 10rem;
