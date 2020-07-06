@@ -442,6 +442,10 @@ small,
   font-weight: 400;
 }
 
+.large{
+  font-size: 32px;
+}
+
 mark,
 .mark {
   padding: 0.2em;
@@ -7661,6 +7665,9 @@ button.bg-dark:focus {
 
 .mr-6{
   margin-right: 14rem !important;
+}
+.mb-6{
+  margin-bottom: 5rem !important;
 }
 
 .p-0 {
