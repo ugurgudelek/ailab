@@ -12,7 +12,6 @@ const Publications = () => {
             <Paper name="Paper2" date="mm.dd.yy" link={Pdf}/>
             <Paper name="Paper3" date="mm.dd.yy" link={Pdf}/>
             <Paper name="Paper4" date="mm.dd.yy" link={Pdf}/>
-            <Footer/>
         </section>
     );
 }

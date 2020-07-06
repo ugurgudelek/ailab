@@ -13,7 +13,6 @@ const Projects = () => {
             <Project/>
             <Project/>
             <Project/>
-            <Footer/>
         </section>
     );
 }

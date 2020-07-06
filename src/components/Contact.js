@@ -22,7 +22,6 @@ const Contact = () => {
                 TEL: XXXX-XXX-XX-XX <br/><br/>
                 FAX: XXXX-XXX-XX-XX
             </h2>
-            <Footer/>
         </section>
     );
 }

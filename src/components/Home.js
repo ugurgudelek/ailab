@@ -18,7 +18,6 @@ const Home = () => {
             <News />
             <Profs />
             <PublicationsHome/>
-            <Footer />
         </section>
     );
 }

@@ -59,7 +59,6 @@ const About = () => {
                     </ul>
                 </div>
             </section>
-            <Footer/>
         </section>
     );
 }
