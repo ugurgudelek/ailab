@@ -2,7 +2,6 @@ import React from 'react';
 import '../css/styles.css';
 import Paper from './Paper';
 import Pdf from './pdfs/sample.pdf';
-import Footer from './Footer';
  
 const Publications = () => {
     return (

@@ -1,6 +1,5 @@
 import React from 'react';
 import '../css/styles.css';
-import Footer from './Footer';
 import News from './News';
 import Profs from './Professors';
 import PublicationsHome from './PublicationsHome';

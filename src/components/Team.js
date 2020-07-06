@@ -1,7 +1,6 @@
 import React from 'react';
 import '../css/styles.css';
 import Member from './Member';
-import Footer from './Footer';
  
 const Team = () => {
     return (

@@ -1,6 +1,5 @@
 import React from 'react';
 import '../css/styles.css';
-import Footer from './Footer';
 import Project from './Project';
  
 const Projects = () => {
