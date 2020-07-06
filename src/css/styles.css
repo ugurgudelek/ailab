@@ -10484,6 +10484,29 @@ header.masthead .masthead-heading {
 .team-member img:hover {
   opacity: 0.5;
 }
+.project-member {
+  margin-bottom: 3rem;
+  margin-left: 10rem;
+  text-align: left;
+}
+.project-member img {
+  width: 25rem;
+  transition: all 1s;
+}
+.project-member h4 {
+  margin-top: 1.5rem;
+  margin-bottom: 0;
+}
+.project-member img:hover {
+  opacity: 0.5;
+}
+.project-member h6{
+  font-weight: 100;
+  font-size: 0.8rem;
+}
+.project-member span{
+  font-weight: 501;
+}
 section#contact {
   background-color: #212529;
   background-image: url("../assets/img/map-image.png");
