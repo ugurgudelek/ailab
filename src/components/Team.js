@@ -41,7 +41,7 @@ const Team = () => {
                     <h3 className="team-header mb-5">Undergraduate Students</h3>
                 </div>
                 <div className="row">
-                    <Member/>
+                    <Member name="Furkan Dolaşık" title="Student" link="FurkanDolasik"/>
                     <Member/>
                     <Member/>
                     <Member/>
@@ -63,7 +63,6 @@ const Team = () => {
                     <div className="col-lg-8 mx-auto text-center"><p className="large text-dark">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p></div>
                 </div>
             </div>
-            <Footer/>
         </section>
     );
 }
