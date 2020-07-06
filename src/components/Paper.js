@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom'
 const Paper = (props) => {
     return (
         <div className="card bg-light">
-            <header className="card-header bg-secondary"><Link className="text-white btn-link" to="#!">{props.name}</Link></header>
+            <header className="card-header bg-secondary large"><Link className="text-white btn-link" to="#!">{props.name}!! Lorem ipsum dolor sit amet. </Link></header>
             <div className="card-body">Writers-Writers-Writers-Writers-Writers-Writers-Writers-Writers
                 <a target="_blank" rel="noopener noreferrer" href={props.link}><i class="fas fa-download float-right text-dark btn-link display-5"></i></a>
             </div>
