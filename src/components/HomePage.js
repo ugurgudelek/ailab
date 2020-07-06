@@ -7,7 +7,7 @@ import PublicationsHome from './PublicationsHome';
 
 const Home = () => {
     return (
-        <section>
+        <section className="pb-0">
             <header className="masthead">
                 <div className="container">
                     <div className="masthead-subheading text-dark">Welcome To Tobb ETU AI Lab!</div>
