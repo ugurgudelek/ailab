@@ -10,8 +10,11 @@ import Navigation from './components/Navigation';
 import Projects from './components/Projects';
 import Publications from './components/Publications';
 import Team from './components/Team';
+import Footer from './components/Footer';
 import MuratOzbayoglu from './components/members/MuratOzbayoglu';
 import MFatihDemirci from './components/members/MFatihDemirci';
+import FurkanDolasik from './components/members/FurkanDolasik';
+
  
 class App extends Component {
     render() {
@@ -29,8 +32,10 @@ class App extends Component {
                     <Route path="/contact" component={Contact}/>
                     <Route path="/muratozbayoglu" component={MuratOzbayoglu}/>
                     <Route path="/mfatihdemirci" component={MFatihDemirci}/>
+                    <Route path="/furkandolasik" component={FurkanDolasik}/>
                     <Route component={Error}/>
                 </Switch>
+                <Footer/>
             </div> 
             </BrowserRouter>
         );
