@@ -17,10 +17,10 @@ const Contact = () => {
                 display="initial"
                 position="relative"
             />
-            <h2 className="text-center mb-4 text-secondary">
+            <h4 className="text-center mb-4 text-secondary">
                 TEL: XXXX-XXX-XX-XX <br/><br/>
                 FAX: XXXX-XXX-XX-XX
-            </h2>
+            </h4>
         </section>
     );
 }
