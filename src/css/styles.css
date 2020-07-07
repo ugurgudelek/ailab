@@ -445,7 +445,9 @@ small,
 .large{
   font-size: 32px;
 }
-
+.large-1{
+  font-size: 26px;
+}
 mark,
 .mark {
   padding: 0.2em;
