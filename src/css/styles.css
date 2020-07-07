@@ -6223,7 +6223,7 @@ button.bg-dark:focus {
 }
 
 .border-left {
-  border-left: 1px solid #dee2e6 !important;
+  border-left: 3px solid #dee2e6 !important;
 }
 
 .border-0 {
@@ -10500,6 +10500,15 @@ header.masthead .masthead-heading {
   padding: 1.1rem;
   border-bottom: 0.2rem solid black;
   border-top: 0.2rem solid black;
+}
+.team-header-2{
+  padding: 1.1rem;
+  margin-top: 1.5rem !important;
+  background-color: #343a40 !important;
+  border-bottom: 0.3rem solid black;
+  text-align: center !important;
+  color: white;
+  font-size: 2rem;
 }
 .project-member {
   margin-bottom: 3rem;
