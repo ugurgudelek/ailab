@@ -12,7 +12,7 @@ const UgurGudelek = () => {
                 <img className="m-3 w-25" src={require("../../assets/img/team/2.jpg")} alt=""/>
             </div>
             <div className="bg-light">
-                <p className="w-50 text-left inline mt-3 pl-5">username@etu.edu.tr<br/><a className="text-dark" href="http://mfdemirci.etu.edu.tr/">http://mfdemirci.etu.edu.tr/</a><br/>Tel: XXX-XXX-XX-XX</p>
+                <p className="w-50 text-left inline mt-3 pl-5">ugudelek@etu.edu.tr<br/><a className="text-dark" href="http://ugudelek.etu.edu.tr/">http://ugudelek.etu.edu.tr/</a><br/>Tel: XXX-XXX-XX-XX</p>
                 <p className="w-50 text-left inline mt-3 border-left pl-3 border-dark pr-3">
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veniam molestiae cumque adipisci quisquam excepturi hic sequi ipsam temporibus, expedita corrupti. Vitae illum quo soluta nam ea, ex quia cum deserunt expedita ipsam quidem earum, saepe voluptates aspernatur vel laboriosam quas minima? Esse obcaecati possimus magnam illum. Vitae error debitis doloremque.</p>
             </div>
