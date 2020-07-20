@@ -11,15 +11,14 @@ const Team = () => {
                     <h3 className="team-header mb-5">Professors</h3>
                 </div>
                 <div className="row">
-                    <Member name="Murat Özbayoğlu" title="Assosiate Professor" link="MuratOzbayoglu"/>
+                    <Member name="Murat Ozbayoglu" title="Assosiate Professor" link="MuratOzbayoglu"/>
                     <Member name="M.Fatih Demirci" title="Assosiate Professor" link="MFatihDemirci"/>
                 </div>
                 <div className="text-left">
                     <h3 className="team-header mb-5">PhD Students</h3>
                 </div>
                 <div className="row">
-                    <Member/>
-                    <Member/>
+                    <Member name="Ugur Gudelek" title="PhD Student" link="UgurGudelek"/>
                     <Member/>
                     <Member/>
                     <Member/>
@@ -40,7 +39,7 @@ const Team = () => {
                     <h3 className="team-header mb-5">Undergraduate Students</h3>
                 </div>
                 <div className="row">
-                    <Member name="Furkan Dolaşık" title="Student" link="FurkanDolasik"/>
+                    <Member name="Furkan Dolasik" title="Student" link="FurkanDolasik"/>
                     <Member/>
                     <Member/>
                     <Member/>
