@@ -14,6 +14,8 @@ import Footer from './components/Footer';
 import MuratOzbayoglu from './components/members/MuratOzbayoglu';
 import MFatihDemirci from './components/members/MFatihDemirci';
 import FurkanDolasik from './components/members/FurkanDolasik';
+import UgurGudelek from './components/members/UgurGudelek';
+import ScrollToTop from './ScrollToTop';
 
  
 class App extends Component {
@@ -22,6 +24,7 @@ class App extends Component {
             <BrowserRouter>
             <div>
                 <Navigation/>
+                <ScrollToTop />
                 <Switch>
                     <Route path="/" component={HomePage} exact/>   
                     <Route path="/ailab" component={Home}/>                 
@@ -33,6 +36,7 @@ class App extends Component {
                     <Route path="/muratozbayoglu" component={MuratOzbayoglu}/>
                     <Route path="/mfatihdemirci" component={MFatihDemirci}/>
                     <Route path="/furkandolasik" component={FurkanDolasik}/>
+                    <Route path="/ugurgudelek" component={UgurGudelek}/>
                     <Route component={Error}/>
                 </Switch>
                 <Footer/>
