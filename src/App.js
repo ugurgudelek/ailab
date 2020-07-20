@@ -16,6 +16,9 @@ import MFatihDemirci from './components/members/MFatihDemirci';
 import FurkanDolasik from './components/members/FurkanDolasik';
 import UgurGudelek from './components/members/UgurGudelek';
 import ScrollToTop from './ScrollToTop';
+import MustafaUcar from './components/members/MustafaUcar';
+import SelimSefaSarikan from './components/members/SelimSefaSarikan';
+import MuhammedYilmaz from './components/members/MuhammedYilmaz';
 
  
 class App extends Component {
@@ -37,6 +40,9 @@ class App extends Component {
                     <Route path="/mfatihdemirci" component={MFatihDemirci}/>
                     <Route path="/furkandolasik" component={FurkanDolasik}/>
                     <Route path="/ugurgudelek" component={UgurGudelek}/>
+                    <Route path="/mustafaucar" component={MustafaUcar}/>
+                    <Route path="/selimsefasarikan" component={SelimSefaSarikan}/>
+                    <Route path="/muhammedyilmaz" component={MuhammedYilmaz}/>
                     <Route component={Error}/>
                 </Switch>
                 <Footer/>
