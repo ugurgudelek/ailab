@@ -19,6 +19,7 @@ import ScrollToTop from './ScrollToTop';
 import MustafaUcar from './components/members/MustafaUcar';
 import SelimSefaSarikan from './components/members/SelimSefaSarikan';
 import MuhammedYilmaz from './components/members/MuhammedYilmaz';
+import IzzetBarisOzturk from './components/members/IzzetBarisOzturk';
 
  
 class App extends Component {
@@ -43,6 +44,7 @@ class App extends Component {
                     <Route path="/mustafaucar" component={MustafaUcar}/>
                     <Route path="/selimsefasarikan" component={SelimSefaSarikan}/>
                     <Route path="/muhammedyilmaz" component={MuhammedYilmaz}/>
+                    <Route path="/izzetbarisozturk" component={IzzetBarisOzturk}/>
                     <Route component={Error}/>
                 </Switch>
                 <Footer/>
