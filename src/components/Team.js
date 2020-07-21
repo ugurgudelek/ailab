@@ -4,6 +4,8 @@ import Member from './Member';
 import izzetBarisImg from '../assets/img/team/izzetbarisozturk.jpg';
 import MFatihImg from '../assets/img/team/m_fatih_demirci.jpg';
 import MuratOzbayogluImg from '../assets/img/team/murat_özbayoğlu.jpg';
+import UgurGudelekImg from '../assets/img/team/ugurgudelek.jpeg';
+import FurkanDolasikImg from '../assets/img/team/furkandolasik.jpg';
  
 const Team = () => {
     return (
@@ -21,7 +23,7 @@ const Team = () => {
                     <h3 className="team-header mb-5">PhD Students</h3>
                 </div>
                 <div className="row">
-                    <Member name="Ugur Gudelek" title="PhD Student" link="UgurGudelek"/>
+                    <Member name="Ugur Gudelek" title="PhD Student" link="UgurGudelek" img={UgurGudelekImg}/>
                     <Member name="Mustafa Ucar" title="PhD Student" link="MustafaUcar"/>
                     <Member name="Selim Sefa Sarikan" title="PhD Student" link="SelimSefaSarikan"/>
                     <Member name="Muhammed Yilmaz" title="PhD Student" link="MuhammedYilmaz"/>
@@ -41,7 +43,7 @@ const Team = () => {
                     <h3 className="team-header mb-5">Undergraduate Students</h3>
                 </div>
                 <div className="row">
-                    <Member name="Furkan Dolasik" title="Student" link="FurkanDolasik"/>
+                    <Member name="Furkan Dolasik" title="Student" link="FurkanDolasik" img={FurkanDolasikImg}/>
                     <Member/>
                     <Member/>
                     <Member/>
