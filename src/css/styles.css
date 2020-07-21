@@ -6212,7 +6212,7 @@ button.bg-dark:focus {
   background-color: rgb(252, 242, 231);
 }
 .border {
-  border: 2px solid #dee2e6 !important;
+  border: 1px solid #dee2e6 !important;
 }
 
 .border-top {
@@ -10634,4 +10634,8 @@ section#contact form#contactForm :-ms-input-placeholder {
 
 .bl-1{
   border-left: 0.5rem solid black;
+}
+
+.height-1{
+  height: 10rem;
 }
