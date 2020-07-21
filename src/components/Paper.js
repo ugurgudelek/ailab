@@ -5,12 +5,12 @@ import { Link } from 'react-router-dom'
 const Paper = (props) => {
     return (
         <div className="card bg-light">
-            <header className="card-header bg-secondary large-1"><Link className="text-white btn-link" to="#!">{props.name}!! Lorem ipsum dolor sit amet. </Link></header>
-            <div className="card-body">Writers-Writers-Writers-Writers-Writers-Writers-Writers-Writers
+            <header className="card-header bg-secondary medium-2 bl-1"><Link className="text-white btn-link" to="#!">{props.name}</Link></header>
+            <div className="card-body medium-1">{props.writers}
                 <a target="_blank" rel="noopener noreferrer" href={props.link}><i class="fas fa-download float-right text-dark btn-link display-5"></i></a>
             </div>
             <div className="card-body">{props.date}</div>
-            <div>
+            <div className="row border">
                 <img className="w-20 p-2" src={props.pdflink} alt=""/>
                 <img className="w-20 p-2" src={props.pdflink2} alt=""/>
                 <img className="w-20 p-2" src={props.pdflink3} alt=""/>
