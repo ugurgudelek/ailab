@@ -445,8 +445,11 @@ small,
 .large{
   font-size: 32px;
 }
-.large-1{
-  font-size: 26px;
+.medium-2{
+  font-size: 1.35rem;
+}
+.medium-1{
+  font-size: 1.2rem;
 }
 mark,
 .mark {
@@ -6209,7 +6212,7 @@ button.bg-dark:focus {
   background-color: rgb(252, 242, 231);
 }
 .border {
-  border: 1px solid #dee2e6 !important;
+  border: 2px solid #dee2e6 !important;
 }
 
 .border-top {
@@ -10627,4 +10630,8 @@ section#contact form#contactForm :-ms-input-placeholder {
 
 .member h3{
   font-size: 1.2rem;
+}
+
+.bl-1{
+  border-left: 0.5rem solid black;
 }
