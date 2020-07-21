@@ -1,6 +1,9 @@
 import React from 'react';
 import '../css/styles.css';
 import Member from './Member';
+import izzetBarisImg from '../assets/img/team/izzetbarisozturk.jpg';
+import MFatihImg from '../assets/img/team/m_fatih_demirci.jpg';
+import MuratOzbayogluImg from '../assets/img/team/murat_özbayoğlu.jpg';
  
 const Team = () => {
     return (
@@ -11,8 +14,8 @@ const Team = () => {
                     <h3 className="team-header mb-5">Professors</h3>
                 </div>
                 <div className="row">
-                    <Member name="Murat Ozbayoglu" title="Assosiate Professor" link="MuratOzbayoglu"/>
-                    <Member name="M.Fatih Demirci" title="Assosiate Professor" link="MFatihDemirci"/>
+                    <Member name="Murat Ozbayoglu" title="Assosiate Professor" link="MuratOzbayoglu" img={MuratOzbayogluImg}/>
+                    <Member name="M.Fatih Demirci" title="Assosiate Professor" link="MFatihDemirci" img={MFatihImg}/>
                 </div>
                 <div className="text-left">
                     <h3 className="team-header mb-5">PhD Students</h3>
@@ -27,7 +30,7 @@ const Team = () => {
                     <h3 className="team-header mb-5">MSc Students</h3>
                 </div>
                 <div className="row">
-                    <Member/>
+                    <Member name="Izzet Baris Ozturk" title="MSc Student" link="IzzetBarisOzturk" img={izzetBarisImg}/>
                     <Member/>
                     <Member/>
                     <Member/>
