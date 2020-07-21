@@ -9,7 +9,7 @@ const MFatihDemirci = () => {
                 <h3 className="p-6 text-left w-50 inline">M. Fatih Demirci<br/>
                 <span>Assosiate Professor</span><hr/>
                 <Link to="/Team" className="text-dark"><i className=" pr-3" class="fas fa-long-arrow-alt-left"></i>Back to team</Link></h3>
-                <img className="m-3 w-25" src={require("../../assets/img/team/2.jpg")} alt=""/>
+                <img className="m-3 w-25" src={require("../../assets/img/team/m_fatih_demirci.jpg")} alt=""/>
             </div>
             <div className="bg-light">
                 <p className="w-50 text-left inline mt-3 pl-5">mfdemirci@etu.edu.tr<br/><a className="text-dark" href="http://mfdemirci.etu.edu.tr/">http://mfdemirci.etu.edu.tr/</a><br/>Tel: XXX-XXX-XX-XX</p>
