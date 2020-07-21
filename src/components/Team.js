@@ -61,9 +61,6 @@ const Team = () => {
                     <Member/>
                     <Member/>
                 </div>
-                <div className="row">
-                    <div className="col-lg-8 mx-auto text-center"><p className="large text-dark">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p></div>
-                </div>
             </div>
         </section>
     );
