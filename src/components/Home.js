@@ -1,13 +1,14 @@
 import React from 'react';
 import '../css/styles.css';
-import Profs from './Professors';
 import News from './News';
+import Profs from './Professors';
 import PublicationsHome from './PublicationsHome';
+
 
 const Home = () => {
     return (
         <section>
-            <header className="masthead" id="team">
+            <header className="masthead" id="home">
                 <div className="container">
                     <div className="masthead-subheading text-dark">Welcome To Tobb ETU AI Lab!</div>
                     <div className="masthead-heading text-uppercase text-dark">It's Nice To Meet You</div>
