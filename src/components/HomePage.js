@@ -12,7 +12,7 @@ const Home = () => {
                 <div className="container">
                     <div className="masthead-subheading text-dark">Welcome To Tobb ETU AI Lab!</div>
                     <div className="masthead-heading text-uppercase text-dark">It's Nice To Meet You</div>
-                    <a className="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="/About">Tell Me More</a>
+                    <a className="btn btn-dark btn-xl text-uppercase js-scroll-trigger" href="/About">Tell Me More</a>
                 </div>
             </header>
             <News />
