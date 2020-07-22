@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1e96c98a11202cf7149ac6668d75edff",
+    "revision": "46e6a47afb3416a6af43a5d7c75ec73a",
     "url": "/ailab/index.html"
   },
   {
-    "revision": "d7bcba2bc51d5f60d933",
-    "url": "/ailab/static/css/main.4212f4cd.chunk.css"
+    "revision": "1692ef440e514ecfc07c",
+    "url": "/ailab/static/css/main.c9d65232.chunk.css"
   },
   {
     "revision": "f9bf8dd3402cdf939be7",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ailab/static/js/2.91d57f57.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d7bcba2bc51d5f60d933",
-    "url": "/ailab/static/js/main.3ad11854.chunk.js"
+    "revision": "1692ef440e514ecfc07c",
+    "url": "/ailab/static/js/main.647189bb.chunk.js"
   },
   {
     "revision": "55c9edd5316f614bebcd",
@@ -46,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5fa2ffc245e3cf6cafdbbf079684ba27",
     "url": "/ailab/static/media/furkandolasik.5fa2ffc2.jpg"
+  },
+  {
+    "revision": "6b8a83d7a48ce7f76e5b2fb8bf3cde90",
+    "url": "/ailab/static/media/homeback.6b8a83d7.jpg"
   },
   {
     "revision": "3f09a6c77f90a8a67e29421b8ae585f0",
