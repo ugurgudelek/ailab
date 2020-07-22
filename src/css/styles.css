@@ -10648,4 +10648,5 @@ section#contact form#contactForm :-ms-input-placeholder {
 #profs{
   background-image: url(../assets/img/profsback.png);
   background-attachment: fixed;
+  background-size: cover;
 }
