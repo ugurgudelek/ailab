@@ -7,8 +7,8 @@ import PublicationsHome from './PublicationsHome';
 
 const Home = () => {
     return (
-        <section className="pb-0">
-            <header className="masthead">
+        <section>
+            <header className="masthead" id="home">
                 <div className="container">
                     <div className="masthead-subheading text-dark">Welcome To Tobb ETU AI Lab!</div>
                     <div className="masthead-heading text-uppercase text-dark">It's Nice To Meet You</div>
