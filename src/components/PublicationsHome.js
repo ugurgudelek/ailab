@@ -3,8 +3,8 @@ import '../css/styles.css';
 
 const PublicationsHome = () => {
     return (
-        <section className="page-section bg-light pb-0">
-                        <div class="container">
+        <section className="page-section bg-light pb-0" id="team">
+            <div class="container">
                 <h2>Publications</h2>
                 <table class="table">
                     <tbody>

@@ -3,7 +3,7 @@ import '../css/styles.css';
 
 const News = () => {
     return (
-        <section className="page-section bg-light">
+        <section className="page-section bg-light" id="team">
             <div class="container">
                 <h2>News</h2>
                 <table class="table">
