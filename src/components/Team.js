@@ -6,6 +6,7 @@ import MFatihImg from '../assets/img/team/m_fatih_demirci.jpg';
 import MuratOzbayogluImg from '../assets/img/team/murat_özbayoğlu.jpg';
 import UgurGudelekImg from '../assets/img/team/ugurgudelek.jpeg';
 import FurkanDolasikImg from '../assets/img/team/furkandolasik.jpg';
+import BarisGuneyOzdilliImg from '../assets/img/team/barisguneyozdilli.JPG';
  
 const Team = () => {
     return (
@@ -33,11 +34,11 @@ const Team = () => {
                 </div>
                 <div className="row">
                     <Member name="Izzet Baris Ozturk" title="MSc Student" link="IzzetBarisOzturk" img={izzetBarisImg}/>
-                    <Member/>
-                    <Member/>
-                    <Member/>
-                    <Member/>
-                    <Member/>
+                    <Member name="Baris Guney Ozdilli" title="MSc Student" link="BarisGuneyOzdilli" img={BarisGuneyOzdilliImg}/>
+                    <Member name="Mustafa Mert Keskin" title="MSc Student" link="MustafaMertKeskin"/>
+                    <Member name="Erdem Karaosmanoglu" title="MSc Student" link="ErdemKaraosmanoglu"/>
+                    <Member name="Furkan Koc" title="MSc Student" link="FurkanKoc"/>
+                    <Member name="Ozgenil Meric" title="MSc Student" link="OzgenilMeric"/>
                 </div>
                 <div className="text-left">
                     <h3 className="team-header mb-5">Undergraduate Students</h3>

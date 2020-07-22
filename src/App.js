@@ -20,6 +20,11 @@ import MustafaUcar from './components/members/MustafaUcar';
 import SelimSefaSarikan from './components/members/SelimSefaSarikan';
 import MuhammedYilmaz from './components/members/MuhammedYilmaz';
 import IzzetBarisOzturk from './components/members/IzzetBarisOzturk';
+import BarisGuneyOzdilli from './components/members/BarisGuneyOzdilli';
+import MustafaMertKeskin from './components/members/MustafaMertKeskin';
+import ErdemKaraosmanoglu from './components/members/ErdemKaraosmanoğlu';
+import FurkanKoc from './components/members/FurkanKoc';
+import OzgenilMeric from './components/members/OzgenilMeric';
 
  
 class App extends Component {
@@ -45,6 +50,11 @@ class App extends Component {
                     <Route path="/selimsefasarikan" component={SelimSefaSarikan}/>
                     <Route path="/muhammedyilmaz" component={MuhammedYilmaz}/>
                     <Route path="/izzetbarisozturk" component={IzzetBarisOzturk}/>
+                    <Route path="/barisguneyozdilli" component={BarisGuneyOzdilli}/>
+                    <Route path="/mustafamertkeskin" component={MustafaMertKeskin}/>
+                    <Route path="/erdemkaraosmanoglu" component={ErdemKaraosmanoglu}/>
+                    <Route path="/furkankoc" component={FurkanKoc}/>
+                    <Route path="/ozgenilmeric" component={OzgenilMeric}/>
                     <Route component={Error}/>
                 </Switch>
                 <Footer/>
