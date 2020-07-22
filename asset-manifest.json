@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/ailab/static/css/main.7fe04906.chunk.css",
-    "main.js": "/ailab/static/js/main.543d9666.chunk.js",
-    "main.js.map": "/ailab/static/js/main.543d9666.chunk.js.map",
+    "main.css": "/ailab/static/css/main.955f0ce3.chunk.css",
+    "main.js": "/ailab/static/js/main.49922f09.chunk.js",
+    "main.js.map": "/ailab/static/js/main.49922f09.chunk.js.map",
     "runtime-main.js": "/ailab/static/js/runtime-main.09ab5ebe.js",
     "runtime-main.js.map": "/ailab/static/js/runtime-main.09ab5ebe.js.map",
-    "static/js/2.d0a4f053.chunk.js": "/ailab/static/js/2.d0a4f053.chunk.js",
-    "static/js/2.d0a4f053.chunk.js.map": "/ailab/static/js/2.d0a4f053.chunk.js.map",
+    "static/js/2.91d57f57.chunk.js": "/ailab/static/js/2.91d57f57.chunk.js",
+    "static/js/2.91d57f57.chunk.js.map": "/ailab/static/js/2.91d57f57.chunk.js.map",
     "index.html": "/ailab/index.html",
-    "precache-manifest.05d66fdc12b6e2eefe44b923455ec287.js": "/ailab/precache-manifest.05d66fdc12b6e2eefe44b923455ec287.js",
+    "precache-manifest.e169225ee12bda4bc4a0a5d127c23a02.js": "/ailab/precache-manifest.e169225ee12bda4bc4a0a5d127c23a02.js",
     "service-worker.js": "/ailab/service-worker.js",
-    "static/css/main.7fe04906.chunk.css.map": "/ailab/static/css/main.7fe04906.chunk.css.map",
-    "static/js/2.d0a4f053.chunk.js.LICENSE.txt": "/ailab/static/js/2.d0a4f053.chunk.js.LICENSE.txt",
+    "static/css/main.955f0ce3.chunk.css.map": "/ailab/static/css/main.955f0ce3.chunk.css.map",
+    "static/js/2.91d57f57.chunk.js.LICENSE.txt": "/ailab/static/js/2.91d57f57.chunk.js.LICENSE.txt",
     "static/media/2.jpg": "/ailab/static/media/2.cc41e47b.jpg",
     "static/media/styles.css": "/ailab/static/media/map-image.f40ed5b1.png",
+    "static/media/barisguneyozdilli.JPG": "/ailab/static/media/barisguneyozdilli.c019021b.JPG",
     "static/media/furkandolasik.jpg": "/ailab/static/media/furkandolasik.5fa2ffc2.jpg",
     "static/media/izzetbarisozturk.jpg": "/ailab/static/media/izzetbarisozturk.3f09a6c7.jpg",
     "static/media/m_fatih_demirci.jpg": "/ailab/static/media/m_fatih_demirci.5c33d368.jpg",
@@ -27,8 +28,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.09ab5ebe.js",
-    "static/js/2.d0a4f053.chunk.js",
-    "static/css/main.7fe04906.chunk.css",
-    "static/js/main.543d9666.chunk.js"
+    "static/js/2.91d57f57.chunk.js",
+    "static/css/main.955f0ce3.chunk.css",
+    "static/js/main.49922f09.chunk.js"
   ]
 }
