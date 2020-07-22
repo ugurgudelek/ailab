@@ -10642,4 +10642,10 @@ section#contact form#contactForm :-ms-input-placeholder {
 
 #team{
   background-image: url(../assets/img/cool-background.png) ;
+  background-attachment: fixed;
+}
+
+#profs{
+  background-image: url(../assets/img/profsback.png);
+  background-attachment: fixed;
 }

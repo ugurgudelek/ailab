@@ -3,7 +3,7 @@ import '../css/styles.css';
 
 const Professors = () => {
     return (
-        <section className="page-section bg-dark-2">
+        <section className="page-section bg-dark-2" id="profs">
             <div className="container">
                 <div className="text-left">
                     <h3 className="text-white border-top border-bottom pt-3 pb-3">Professors</h3>
