@@ -13,7 +13,7 @@ const News = () => {
                 <Report/>
                 <Report/>
                 <Report/>
-                <Link className="text-dark text-uppercase h5 non-under" to="/News"> <i class="fas fa-angle-double-right"></i> See all news</Link>
+                <Link className="text-dark text-uppercase h5 non-under" to="#!"> <i class="fas fa-angle-double-right"></i> See all news</Link>
             </div>
         </section>
     );
