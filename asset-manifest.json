@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ailab/static/css/main.c5ea1782.chunk.css",
-    "main.js": "/ailab/static/js/main.3bd415cb.chunk.js",
-    "main.js.map": "/ailab/static/js/main.3bd415cb.chunk.js.map",
+    "main.js": "/ailab/static/js/main.b17358ca.chunk.js",
+    "main.js.map": "/ailab/static/js/main.b17358ca.chunk.js.map",
     "runtime-main.js": "/ailab/static/js/runtime-main.09ab5ebe.js",
     "runtime-main.js.map": "/ailab/static/js/runtime-main.09ab5ebe.js.map",
     "static/js/2.0e57a6f4.chunk.js": "/ailab/static/js/2.0e57a6f4.chunk.js",
     "static/js/2.0e57a6f4.chunk.js.map": "/ailab/static/js/2.0e57a6f4.chunk.js.map",
     "index.html": "/ailab/index.html",
-    "precache-manifest.d21cf21c286b9bd1fe3bbd32f90332e1.js": "/ailab/precache-manifest.d21cf21c286b9bd1fe3bbd32f90332e1.js",
+    "precache-manifest.eeea925d3edb3f4504345c9913a35344.js": "/ailab/precache-manifest.eeea925d3edb3f4504345c9913a35344.js",
     "service-worker.js": "/ailab/service-worker.js",
     "static/css/main.c5ea1782.chunk.css.map": "/ailab/static/css/main.c5ea1782.chunk.css.map",
     "static/js/2.0e57a6f4.chunk.js.LICENSE.txt": "/ailab/static/js/2.0e57a6f4.chunk.js.LICENSE.txt",
@@ -30,6 +30,6 @@
     "static/js/runtime-main.09ab5ebe.js",
     "static/js/2.0e57a6f4.chunk.js",
     "static/css/main.c5ea1782.chunk.css",
-    "static/js/main.3bd415cb.chunk.js"
+    "static/js/main.b17358ca.chunk.js"
   ]
 }
