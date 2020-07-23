@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ailab/static/css/main.fbe0a64b.chunk.css",
-    "main.js": "/ailab/static/js/main.1177f8b2.chunk.js",
-    "main.js.map": "/ailab/static/js/main.1177f8b2.chunk.js.map",
+    "main.css": "/ailab/static/css/main.1651c8bd.chunk.css",
+    "main.js": "/ailab/static/js/main.2354f070.chunk.js",
+    "main.js.map": "/ailab/static/js/main.2354f070.chunk.js.map",
     "runtime-main.js": "/ailab/static/js/runtime-main.09ab5ebe.js",
     "runtime-main.js.map": "/ailab/static/js/runtime-main.09ab5ebe.js.map",
     "static/js/2.0e57a6f4.chunk.js": "/ailab/static/js/2.0e57a6f4.chunk.js",
     "static/js/2.0e57a6f4.chunk.js.map": "/ailab/static/js/2.0e57a6f4.chunk.js.map",
     "index.html": "/ailab/index.html",
-    "precache-manifest.6482281c4b8fe8412600f0f1920e1f46.js": "/ailab/precache-manifest.6482281c4b8fe8412600f0f1920e1f46.js",
+    "precache-manifest.945d27f03f7fda0a7cd6b50ed11b9502.js": "/ailab/precache-manifest.945d27f03f7fda0a7cd6b50ed11b9502.js",
     "service-worker.js": "/ailab/service-worker.js",
-    "static/css/main.fbe0a64b.chunk.css.map": "/ailab/static/css/main.fbe0a64b.chunk.css.map",
+    "static/css/main.1651c8bd.chunk.css.map": "/ailab/static/css/main.1651c8bd.chunk.css.map",
     "static/js/2.0e57a6f4.chunk.js.LICENSE.txt": "/ailab/static/js/2.0e57a6f4.chunk.js.LICENSE.txt",
     "static/media/2.jpg": "/ailab/static/media/2.cc41e47b.jpg",
     "static/media/styles.css": "/ailab/static/media/profsback.19bb7ac6.png",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.09ab5ebe.js",
     "static/js/2.0e57a6f4.chunk.js",
-    "static/css/main.fbe0a64b.chunk.css",
-    "static/js/main.1177f8b2.chunk.js"
+    "static/css/main.1651c8bd.chunk.css",
+    "static/js/main.2354f070.chunk.js"
   ]
 }
