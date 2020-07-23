@@ -1,5 +1,6 @@
 import React from 'react';
 import '../css/styles.css';
+import { Link } from 'react-router-dom'
 
 const Professors = () => {
     return (
@@ -24,9 +25,9 @@ const Professors = () => {
                         </div>
                     </div>
                 </div>
-                <a className="text-white font-30" href="/Team">See all the team
+                <Link className="text-white font-30" to="/Team">See all the team
                     <i class="fas fa-angle-double-right ml-3 font-30"></i>
-                </a>
+                </Link>
             </div>
         </section>
     );
