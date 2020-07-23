@@ -5,7 +5,7 @@ function Report (props) {
     return (
         <div>
             <hr/>
-                <p className="w-75 inline">{props.info}Lorem ipsum detur Lorem ipsum dolor sit amet. adipisicing elit. Aspernatur, modi?</p>
+                <p className="w-75 inline report-p">{props.info}Lorem ipsum detur Lorem ipsum dolor sit amet. adipisicing elit. Aspernatur, modi?</p>
         </div>
     );
 }

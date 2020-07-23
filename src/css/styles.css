@@ -10629,6 +10629,10 @@ section#contact form#contactForm :-ms-input-placeholder {
 @media (max-width: 568px) {
   .inline-read-more{
     display: block;
+    width: 100% !important;
+  }
+  .report-p{
+    width: 90% !important;
   }
 }
 
