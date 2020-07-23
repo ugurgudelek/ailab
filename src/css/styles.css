@@ -7474,7 +7474,15 @@ button.bg-dark:focus {
   width: 25% !important;
 }
 
+.w-25-project {
+  width: 25% !important;
+}
+
 .w-50 {
+  width: 50% !important;
+}
+
+.w-50-project {
   width: 50% !important;
 }
 
@@ -10656,4 +10664,27 @@ section#contact form#contactForm :-ms-input-placeholder {
   background-attachment: fixed;
   background-size: cover;
   background-position: top;
+}
+
+@media (max-width: 576px) {
+  #team{
+    width: 100%;
+  }
+
+  .project-member{
+    margin-left: 1.2rem;
+  }
+
+  .w-25-project{
+    width: 100% !important;
+  }
+
+  .w-50-project{
+    width: 100% !important;
+  }
+}
+@media (max-width: 768px) {
+  .w-25-project{
+    width: 100% !important;
+  }
 }
