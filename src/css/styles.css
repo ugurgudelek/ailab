@@ -10623,6 +10623,15 @@ section#contact form#contactForm :-ms-input-placeholder {
   display: inline-block;
 }
 
+.inline-read-more{
+  display: inline-block;
+}
+@media (max-width: 568px) {
+  .inline-read-more{
+    display: block;
+  }
+}
+
 .center{
   margin: auto;
   display: flex;
