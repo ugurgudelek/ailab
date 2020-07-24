@@ -10699,6 +10699,12 @@ section#contact form#contactForm :-ms-input-placeholder {
   .w-50-project{
     width: 100% !important;
   }
+  .member-image{
+    display: block;
+    margin: auto !important;
+    width: 60% !important;
+  }
+
 }
 @media (max-width: 768px) {
   .w-25-project{

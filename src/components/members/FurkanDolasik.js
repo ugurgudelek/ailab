@@ -9,7 +9,7 @@ const FurkanDolasik = () => {
                 <h3 className="p-6 text-left w-50 inline">Furkan Dolasik<br/>
                 <span>Student</span><hr/>
                 <Link to="/Team" className="text-dark"><i className=" pr-3" class="fas fa-long-arrow-alt-left"></i>Back to team</Link></h3>
-                <img className="m-3 w-25" src={require("../../assets/img/team/furkandolasik.jpg")} alt=""/>
+                <img className="m-3 w-25 member-image" src={require("../../assets/img/team/furkandolasik.jpg")} alt=""/>
             </div>
             <div className="bg-light">
                 <p className="w-50 text-left inline mt-3 pl-5">furkandol0640@gmail.com <br/></p>
