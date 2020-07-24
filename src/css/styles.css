@@ -10707,8 +10707,7 @@ section#contact form#contactForm :-ms-input-placeholder {
 
   .mobile-name{
     padding: 0;
-    margin-left: 30%;
-    margin-right: 30%;
+    margin-left: 1rem;
   }
 
   .mobile-info{
