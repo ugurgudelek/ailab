@@ -10711,6 +10711,19 @@ section#contact form#contactForm :-ms-input-placeholder {
     margin-right: 30%;
   }
 
+  .mobile-info{
+    display: block;
+    padding-left: 1rem !important;
+  }
+
+  .mobile-about{
+    display: block;
+    width: 90% !important;
+    border-left: none !important;
+    border-top: .1rem solid #343a40;
+    padding-top: 1rem !important;
+  }
+
 }
 @media (max-width: 768px) {
   .w-25-project{
