@@ -12,7 +12,7 @@ const IzzetBarisOzturk = () => {
                 <img className="m-3 w-25 member-image" src={require("../../assets/img/team/izzetbarisozturk.jpg")} alt=""/>
             </div>
             <div className="bg-light">
-                <p className="w-50 text-left inline mt-3 pl-5 mobile-info">izzetbarisozturk@gmail.com<br/><br/> <br/><br/><br/></p>
+                <p className="w-50 text-left inline mt-3 pl-5 mobile-info">izzetbarisozturk@gmail.com<br/></p>
                 <p className="w-50 text-left inline mt-3 border-left pl-3 border-dark pr-3 mobile-about">İzzet Barış Öztürk received his bachelor's degree in Computer Engineering from the Middle East Technical University in June 2017. He started his graduate education at the Computer Engineering Department of TOBB University of Economics and Technology and continues his education. His research interests are artificial intelligence, machine learning, computer vision, image processing and recognition, pattern recognition. Today, He is working on making accurate predictions about future tenders by using the information obtained from the old Public Tenders.</p>
             </div>
         </section>
