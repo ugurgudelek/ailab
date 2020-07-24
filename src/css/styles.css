@@ -10705,6 +10705,12 @@ section#contact form#contactForm :-ms-input-placeholder {
     width: 60% !important;
   }
 
+  .mobile-name{
+    padding: 0;
+    margin-left: 30%;
+    margin-right: 30%;
+  }
+
 }
 @media (max-width: 768px) {
   .w-25-project{

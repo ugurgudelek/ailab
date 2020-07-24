@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom'
 
 
 
-const Home = () => {
+const HomePage = () => {
     return (
         <section>
             <header className="masthead" id="home">
@@ -24,4 +24,4 @@ const Home = () => {
     );
 }
  
-export default Home;
+export default HomePage;
