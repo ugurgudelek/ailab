@@ -51,8 +51,8 @@ const About = () => {
                             </div>
                         </li>
                         <li className="timeline-inverted">
-                            <div className="timeline-image">
-                                <h4>Be Part<br />Of Our<br />Story!</h4>
+                            <div className="timeline-image bg-dark">
+                                <h4 className="text-white">Be Part<br />Of Our<br />Story!</h4>
                             </div>
                         </li>
                     </ul>

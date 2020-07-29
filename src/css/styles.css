@@ -9913,6 +9913,9 @@ a.text-light:hover, a.text-light:focus {
 .text-dark {
   color: #343a40 !important;
 }
+.text-dark-2{
+  color: #03071e !important;
+}
 
 a.text-dark:hover, a.text-dark:focus {
   color: #121416 !important;
@@ -10731,4 +10734,12 @@ section#contact form#contactForm :-ms-input-placeholder {
 }
 .non-under:hover{
   text-decoration: none;
+}
+
+.bg-paper{
+  background-color: #1d3557;
+}
+
+.bg-paper-bottom{
+  background-color: #f8f5f5;
 }
