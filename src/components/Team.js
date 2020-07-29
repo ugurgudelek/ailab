@@ -7,6 +7,7 @@ import MuratOzbayogluImg from '../assets/img/team/murat_özbayoğlu.jpg';
 import UgurGudelekImg from '../assets/img/team/ugurgudelek.jpeg';
 import FurkanDolasikImg from '../assets/img/team/furkandolasik.jpg';
 import BarisGuneyOzdilliImg from '../assets/img/team/barisguneyozdilli.JPG';
+import NehirIdilYukselImg from '../assets/img/team/nehiridilyuksel.png';
  
 const Team = () => {
     return (
@@ -45,7 +46,7 @@ const Team = () => {
                 </div>
                 <div className="row">
                     <Member name="Furkan Dolasik" title="Student" link="FurkanDolasik" img={FurkanDolasikImg}/>
-                    <Member/>
+                    <Member name="Nehir Idil Yuksel" title="Student" link="NehirIdilYuksel" img={NehirIdilYukselImg}/>
                     <Member/>
                     <Member/>
                     <Member/>
