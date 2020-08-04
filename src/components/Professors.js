@@ -14,14 +14,14 @@ const Professors = () => {
                         <div className="team-member team-member-2">
                             <img className="mx-auto rounded-circle-2 mt-4" src={require("../assets/img/team/murat_özbayoğlu.jpg")} alt=""/>
                             <h4 className="text-white">Murat Ozbayoglu</h4>
-                            <p className="text-white">Assosiacte Professor <br/>Tobb University</p>
+                            <p className="text-white">Assosiacte Professor <br/>TOBB University</p>
                         </div>
                     </div>
                     <div className="col-lg-6">
                         <div className="team-member team-member-2">
                             <img className="mx-auto rounded-circle-2 mt-4" src={require("../assets/img/team/m_fatih_demirci.jpg")} alt=""/>
                             <h4 className="text-white">Fatih Demirci</h4>
-                            <p className="text-white">Assosiacte Professor <br/>Tobb University</p>
+                            <p className="text-white">Assosiacte Professor <br/>TOBB University</p>
                         </div>
                     </div>
                 </div>
