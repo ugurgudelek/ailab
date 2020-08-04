@@ -10642,6 +10642,7 @@ section#contact form#contactForm :-ms-input-placeholder {
   }
   .report-p{
     width: 90% !important;
+    font-weight: 130px;
   }
   .btn-social{
     height: 1rem;
