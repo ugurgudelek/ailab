@@ -6564,10 +6564,16 @@ button.bg-dark:focus {
 .embed-responsive {
   position: relative;
   display: block;
-  width: 100%;
+  width: 50%;
   padding: 0;
   overflow: hidden;
 }
+
+.margin-auto{
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
 .embed-responsive::before {
   display: block;
   content: "";
@@ -7483,7 +7489,7 @@ button.bg-dark:focus {
 }
 
 .w-50-project {
-  width: 50% !important;
+  width: 35% !important;
 }
 
 .w-75 {

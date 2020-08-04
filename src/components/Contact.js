@@ -9,13 +9,12 @@ const Contact = () => {
             <h4 className="text-center text-uppercase text-secondary">You can found us here</h4>
             <h4 className="text-center text-secondary large"><i class="fas fa-long-arrow-alt-down"></i></h4>
             <Iframe
-                url="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d6120.141958965037!2d32.79781952634139!3d39.91742774641664!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1zdG9iYiBldMO8!5e0!3m2!1str!2str!4v1593622037783!5m2!1str!2str"
-                width="600px"
+                url="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12239.5900466651!2d32.7988233!3d39.9213097!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xdf1bcdf3b364e3d8!2sTOBB%20University%20of%20Economics%20and%20Technology!5e0!3m2!1sen!2str!4v1596127040504!5m2!1sen!2str"
+                width="400px"
                 height="350px"
                 id="myId"
-                className="embed-responsive"
-                display="initial"
-                position="relative"
+                className="embed-responsive margin-auto"
+                
             />
             <h4 className="text-center mb-4 text-secondary">
                 TEL: XXXX-XXX-XX-XX <br/><br/>
