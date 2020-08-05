@@ -10689,7 +10689,7 @@ section#contact form#contactForm :-ms-input-placeholder {
 #home{
   background-image: url(../assets/img/homeback.jpg);
   background-attachment: fixed;
-  background-size: cover;
+  background-size: auto;
   background-position: top;
 }
 
