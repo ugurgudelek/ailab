@@ -10698,6 +10698,10 @@ section#contact form#contactForm :-ms-input-placeholder {
     width: 100%;
   }
 
+  #home{
+    background-size: cover;
+  }
+
   .project-member{
     margin-left: 1.2rem;
   }
