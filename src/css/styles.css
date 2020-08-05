@@ -10750,3 +10750,7 @@ section#contact form#contactForm :-ms-input-placeholder {
 .bg-paper-bottom{
   background-color: #f8f5f5;
 }
+
+.tel-fax{
+  font-size: 1.3rem;
+}

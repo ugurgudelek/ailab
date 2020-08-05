@@ -16,7 +16,7 @@ const Contact = () => {
                 className="embed-responsive margin-auto"
                 
             />
-            <h4 className="text-center mb-4 text-secondary">
+            <h4 className="text-center mb-4 text-secondary tel-fax">
                 TEL: XXXX-XXX-XX-XX <br/><br/>
                 FAX: XXXX-XXX-XX-XX
             </h4>
