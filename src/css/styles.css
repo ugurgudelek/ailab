@@ -10168,7 +10168,7 @@ img::-moz-selection {
   border-bottom: 0.1rem solid rgb(231, 231, 238);
 }
 #mainNav .navbar-nav .nav-item .nav-link{
-  transition: border-bottom 0.1s;
+  transition: border-bottom 0.8s;
 }
 @media (min-width: 992px) {
   #mainNav {
