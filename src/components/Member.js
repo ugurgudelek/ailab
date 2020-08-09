@@ -8,7 +8,7 @@ function Member (props) {
         <div className="col-lg-3">
             <div className="team-member">
                 <Link to={props.link}><img className="mx-auto rounded-circle" src={props.img} alt=""/></Link>
-                <h5>{props.name}</h5>
+                <Link className="text-dark non-under" to={props.link}><h5>{props.name}</h5></Link>
                 <p className="text-dark">{props.title}</p>
                 <a className="btn btn-dark btn-social mx-2" href="#!"><i className="fab fa-twitter"></i></a><a className="btn btn-dark btn-social mx-2" href="#!"><i className="fab fa-facebook-f"></i></a><a className="btn btn-dark btn-social mx-2" href="#!"><i className="fab fa-linkedin-in"></i></a>
             </div>
