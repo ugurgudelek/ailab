@@ -10750,6 +10750,10 @@ section#contact form#contactForm :-ms-input-placeholder {
     padding-top: 1rem !important;
   }
 
+  .project-member img{
+    width: 22rem;
+  }
+
 }
 @media (max-width: 768px) {
   .w-25-project{
