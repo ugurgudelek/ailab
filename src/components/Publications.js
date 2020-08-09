@@ -290,131 +290,566 @@ const Publications = () => {
                 pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
             />
             <Paper 
-                name="" 
-                writers=""
-                date="" 
+                name="Design of a Customer's Type Based Algorithm for Partner Selection Problem of Virtual Enterprise" 
+                writers="S. Nikghadam, A.M. Ozbayoglu, H.O. Unver, S.E. Kilic"
+                date="Procedia - Computer Sciences - Complex Adaptive Systems, Vol. 95, pp.467-474. 2-4 November. Los Angeles, CA, USA." 
                 link={Pdf} 
                 pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
             />
             <Paper 
-                name="" 
-                writers=""
-                date="" 
+                name="Yapay Sinir Ağları ile Kullanıcı Profilleme ve Konfor Seviyesi Tahmini." 
+                writers="Güneş, U., Elbir, Ö., Özbayoğlu, A.M."
+                date="International Artificial Intelligence and Data Processing Symposium (IDAP- 16), pp. 413-418, İnönü University, Malatya, Türkiye, 17-18 September, 2016." 
                 link={Pdf} 
                 pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
             />
             <Paper 
-                name="" 
-                writers=""
-                date="" 
+                name="Opinion Mining of Microblog Texts on Hadoop Ecosystem." 
+                writers="M. Akif, Agca, Senol Atac, M. Mert Yucesan, Gokhan Y. Kucukayan, A. Murat Özbayoglu and Erdogan Dogdu."
+                date="International Journal of Cloud Computing, vol 5, No:1-2, pp. 79-90." 
                 link={Pdf} 
                 pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
             />
             <Paper 
-                name="" 
-                writers=""
-                date="" 
+                name="Rastlantısal Su¨rec¸ ve Genetik Algoritmalar ile Algoritmik Kompozisyon." 
+                writers="Özbayoğlu, A.M., Yavuz, M.H."
+                date="International Conference on Mathematics and Mathematics Education (ICMME-2016), Fırat University, Elazığ, Turkey, 12-14 May, 2016." 
                 link={Pdf} 
                 pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
             />
             <Paper 
-                name="" 
-                writers=""
-                date="" 
+                name="An ontology-based multi-agent virtual enterprise system (OMAVE): part 1: domain modelling and rule management" 
+                writers="Bahram Lotfi Sadigh, Hakki Ozgur Unver, Shahrzad Nikghadam, Erdogan Dogdu, A. Murat Ozbayoglu and S. Engin Kilic"
+                date="International Journal of Computer Integrated Manufacturing, 19 Feb 2016" 
                 link={Pdf} 
                 pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
             />
             <Paper 
-                name="" 
-                writers=""
-                date="" 
+                name="Evaluation of Partner Companies based on Fuzzy Inference System for Establishing Virtual Enterprise Consortium" 
+                writers="Nikghadam, S., B. Lotfi Sadigh, Ozbayoglu, A. M, Unver, H. O. and Kilic. S. E."
+                date="Lecture Notes in Computer Science – CCIS Communications in Computer Science vol 577, pp. 104-115, 15 Dec 2015." 
                 link={Pdf} 
                 pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
             />
             <Paper 
-                name="" 
-                writers=""
-                date="" 
+                name="Estimation of the Number of Participants in Government Tenders with Computational Intelligence" 
+                writers="Y.S. Demiray, A.M. Ozbayoglu, B.K.O. Tas"
+                date="3rd Workshop on Social and Algorithmic Issues in Business Support (SAIBS), 2015, pp.433-437. 27-29 November. Poznan, Poland." 
                 link={Pdf} 
                 pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
             />
             <Paper 
-                name="" 
-                writers=""
-                date="" 
+                name="A survey of partner selection methodologies for virtual enterprises and development of a goal programming– based approach" 
+                writers="S. Nikghadam, B.Lotfi Sadigh, A.M. Özbayoğlu, H.Ö. Ünver and S. E. Kılıç"
+                date="International Journal of Advanced Manufacturing Technology, pp. 1-22, 12 Nov 2015" 
                 link={Pdf} 
                 pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
             />
             <Paper 
-                name="" 
-                writers=""
-                date="" 
+                name="Clustering Quality Improvement of K-means Using a Hybrid Evolutionary Model" 
+                writers="J. Karimov, M. Ozbayoglu"
+                date="Procedia - Computer Sciences - Complex Adaptive Systems, Vol. 61, pp.38-45. 2-4 November. San Jose, CA, USA." 
                 link={Pdf} 
                 pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
             />
             <Paper 
-                name="" 
-                writers=""
-                date="" 
+                name="High quality clustering of big data and solving empty-clustering problem with an evolutionary hybrid algorithm" 
+                writers="J. Karimov, M. Ozbayoglu"
+                date="IEEE International Conference on Big Data, 2015, 29 October-1 November. Santa Clara, CA, USA." 
                 link={Pdf} 
                 pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
             />
             <Paper 
-                name="" 
-                writers=""
-                date="" 
+                name="Generic Menu Optimization for Multi-profile Customer Systems" 
+                writers="J. Karimov, M. Ozbayoglu, E. Dogdu and B.Tavlı"
+                date="IEEE International Symposium on Systems Engineering (ISSE) 2015, pp. 163-169. 28-30 September. Rome, Italy." 
                 link={Pdf} 
                 pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
             />
             <Paper 
-                name="" 
-                writers=""
-                date="" 
+                name="k-means Performance Improvements with Centroid Calculation Heuristics both for Serial and Parallel environments." 
+                writers="Karimov, J., M. Ozbayoglu, and E. Dogdu."
+                date="2015 IEEE Big Data Congress. 27 June-2 July. New York, USA." 
                 link={Pdf} 
                 pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
             />
             <Paper 
-                name="" 
-                writers=""
-                date="" 
+                name="Partner selection in formation of virtual enterprises using fuzzy logic." 
+                writers="Nikghadam, S., B.Lotfi Sadigh, Ozbayoglu, A. M., H. O. Unver, and S. E. Kilic."
+                date="International Conference on Operations Research and Enterprise Systems, ICORES 2015, 10-12 January 2015, Lisbon, Portugal, pp. 82– 88." 
                 link={Pdf} 
                 pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
             />
             <Paper 
-                name="" 
-                writers=""
-                date="" 
+                name="A new model to determine the two phase drilling Fluid Behaviors through Horizontal Eccentric Annular Geometry, Part A: Flow Pattern Identification and Liquid Holdup Estimation." 
+                writers="Osgouei, R.E., Özbayoglu, E., Özbayoglu, M. and Yüksel, E."
+                date="Energy Sources, Part A: Recovery, Utilization, and Environmental Effects, Volume 37, Issue 15, pp. 1663-1673" 
                 link={Pdf} 
                 pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
             />
             <Paper 
-                name="" 
-                writers=""
-                date="" 
+                name="A new model to determine the two phase drilling Fluid Behaviors through Horizontal Eccentric Annular Geometry, Part B: Frictional Pressure Losses Estimation." 
+                writers="Osgouei, R.E., Özbayoglu, E., Özbayoglu, M. and Yüksel. E."
+                date="Energy Sources, Part A: Recovery, Utilization, and Environmental Effects, Volume 37, Issue 16, pp. 1756-1765" 
                 link={Pdf} 
                 pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
             />
             <Paper 
-                name="" 
-                writers=""
-                date="" 
+                name="Pressure drop estimation in horizontal annuli for liquid–gas 2 phase flow: Comparison of mechanistic models and computational intelligence techniques." 
+                writers="Osgouei, Reza Ettehadi, Ozbayoglu, A. Murat, Ozbayoglu Evren M., Yuksel Ertan, Eresen, Aydin."
+                date="Computers & Fluids 112, pp. 108-115" 
                 link={Pdf} 
                 pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
             />
             <Paper 
-                name="" 
-                writers=""
-                date="" 
+                name="Support Vector Regression and Computational Fluid Dynamics Modeling of Newtonian and Non-Newtonian Fluids in Annulus With Pipe Rotation." 
+                writers="Sorgun, Mehmet, Ozbayoglu, A Murat, and Ozbayoglu M Evren."
+                date="Journal of Energy Resources Technology 137.3, p. 032901." 
                 link={Pdf} 
                 pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
             />
             <Paper 
-                name="" 
-                writers=""
-                date="" 
+                name="Developing a Two Level Options Trading Strategy Based on Option Pair Optimization of Spread Strategies with Evolutionary Algorithms." 
+                writers="Ucar, I., Ozbayoglu, M., and M. Ucar."
+                date="IEEE Congress on Evolutionary Computation, CEC 2015. May 25-28. Sendai, Japan." 
                 link={Pdf} 
                 pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
             />
+            <Paper 
+                name="Finansal Islemler için Evrimsel Hesaplamalar yoluyla Egilimden Arındırılmıs Bagıl Güç Endeksi Göstergesi." 
+                writers="Sahin, Ugur and Özbayoglu, A.Murat."
+                date="MATDER, 14. Matematik Sempozyumu, 14-16 Mayıs, Nigde, Turkey." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Ontology-based Data Modelling and Decision Support in Smart Grid Applications." 
+                writers="Dogdu, Erdogan, A. Murat Özbayoglu, Okan Benli, Hülya Erdener Akınç, Erdeniz Erol, Tugrul Atasoy, Ozan Gurec, and Özden Erçin."
+                date="Proc. of the 2014 IEEE International Conference on Intelligent Energy and Power Systems. IEEE. June 2-6, 2014, Kyiv, Ukraine." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Conceptualization of a Web-based Software Platform that enables Clean Production and Industrial Symbiosis." 
+                writers="Gumus, Tuna, Hugi Christoph, Dirk Hengevoss, Engin Kılıç, Guillaume Massard, Özbayoglu, Murat, and Ozgur Unver."
+                date="16th International Conference on Machine Design and Production, UMTIK 2014, Izmir, Turkey." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Why the Names? Anubanini and His Clan in the Cuthaean Legend." 
+                writers="Selim F. Adalı, M. Fatih Demirci, A. Murat Özbayoglu and Oguz Ergin."
+                date="Journal of the Ancient History and Cultures of the Eastern Mediterranean vol. 11, pp. 15–29." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="A Multi-agent System Model for Partner Selection Process in Virtual Enterprise." 
+                writers="Sadigh, B Lotfi, F Arikan, Ozbayoglu, AM, HO Unver, and SE Kilic."
+                date="Procedia Computer Science, Complex Adaptive Systems, CAS 2014. Vol. 36, pp. 367–372." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="TN-RSI: Trend-normalized RSI Indicator for Stock Trading Systems with Evolutionary Computation." 
+                writers="Sahin, Ugur and Ozbayoglu, A Murat."
+                date="Procedia Computer Science, Complex Adaptive Systems, CAS 2014. Vol. 36, pp. 240–245." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Three phase flow characteristics in Inclined Eccentric Annuli." 
+                writers="Osgouei, R.E., M.E. Özbayoglu, Özbayoglu, A.M, and T. Eren."
+                date="2013 IADC/SPE Drilling Technology Conference and Exhibition (MEDT), Dubai, UAE." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Towards the Automated Autograph and the Recognition of Cuneiform Signs: Preliminary Results 2013. Law and (Dis)order in the Ancient Near East" 
+                writers="Selim F., Adali, M. Fatih Demirci, A. Murat Özbayoglu, and Mustafa Uçar."
+                date="59th Rencontre Assyriologique Internationale, July 15- 19, Ghent University" 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Comparison of Classifiers for Chatter Detection." 
+                writers="Tugçi, R., B. Çelen, and Özbayoglu, A.M."
+                date="IEEE Sinyal Isleme ve Iletisim Uygulamaları Konferansı (SIU 2013)." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="The Determination of Two Phase Liquid-Gas Flow Behavior Through Horizontal Eccentric Annular Geometry by Modification of Beggs & Brill and Lockhart & Martinelli Models." 
+                writers="Osgouei, Reza Ettehadi, Mehmet Evren Ozbayoglu, Ozbayoglu, Murat, and Ertan H Yuksel."
+                date="ASME 2013 Fluids Engineering Division Summer Meeting. American Society of Mechanical Engineers, V01CT17A008–V01CT17A008." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="A Two-Stage Water-Gas Shift Reactor Model To Obtain Desired Synthesis Gas Characteristics With Adjustable Reactor Parameters." 
+                writers="AM Ozbayoglu, C Kasnakoglu, A Gungor, A Biyikoglu, and BZ Uysal."
+                date="Journal of The Faculty of Engineering And Architecture of Gazi University 28.2, pp. 339-351." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Gas-Liquid Flow Through Horizontal Eccentric Annuli: CFD and Experiments Compared" 
+                writers="Sorgun, Mehmet, Osgouei, Reza E, Ozbayoglu, M Evren and Ozbayoglu, A Murat."
+                date="Energy Sources, Part A: Recovery, Utilization, and Environmental Effects 35.10, pp. 891-899." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="A Two-Level Cascade Evolutionary Computation Based Covered Call Trading Model." 
+                writers="Ucar, Mustafa, Ilknur Bayram, and Ozbayoglu, A Murat."
+                date="Procedia Computer Science, Complex Adaptive Systems Conference. ASME." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Note and Timbre Classification by Local Features of Spectrogram." 
+                writers="Guven, Erhan and Ozbayoglu, A Murat."
+                date="Procedia Computer Science, Complex Adaptive Systems, CAS 2012. Vol. 12. Elsevier, pp. 182–187." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Estimation of the Burned Area in Forest Fires Using Computational Intelligence Techniques." 
+                writers="Özbayoglu, A Murat and Recep Bozer."
+                date="Procedia Computer Science, Complex Adaptive Systems, CAS 2012. Vol. 12, pp. 282–287." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Comparison of Gross Calorific Value Estimation of Turkish Coals using Regression and Neural Networks Techniques." 
+                writers="Ozbayoglu, A.Murat, M.Evren Ozbayoglu, and Gulhan Ozbayoglu."
+                date="XXVIth International Mineral Processing Congress (IMPC 2012)." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="A parametric study on coal gasification for the production of syngas" 
+                writers="Gungor, Afsin, Ozbayoglu, Murat, Kasnakoglu, Cosku, Biyikoglu, Atilla and Uysal, Bekir Zuhtu."
+                date="Chemical Papers 66.7,pp. 677-683." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Analysis of gas–liquid behavior in eccentric horizontal annuli with image processing and artificial intelligence techniques." 
+                writers="Ozbayoglu, A Murat and Yuksel, H Ertan."
+                date="Journal of Petroleum Science and Engineering 81.1, pp. 31-40." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Hole Cleaning Performance of Gasified Drilling Fluids in Horizontal Well Sections." 
+                writers="Ozbayoglu, Mehmet, Osgouei, Reza, Ozbayoglu, Murat, and Yuksel, Ertan."
+                date="SPE Journal 17.3, pp. 912-923." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Regression Techniques and Neural Network for the Estimation of Gross Calorific Value of Turkish Coals." 
+                writers="Ozbayoglu, A.Murat, M.Evren Ozbayoglu, and Gulhan Ozbayoglu."
+                date="XIIth International Mineral Processing Symposium, September 24-27. New Delhi, India, pp. 1175–1180." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Estimation of Frictional Pressure Losses in Annulus with Pipe Rotation Using Neural Networks and Computational Fluid Dynamics." 
+                writers="Sorgun, Mehmet, Ozbayoglu, Murat, and Evren Ozbayoglu."
+                date="10th International Conference on Advances in Civil Engineering, ACE 2012, Ankara, Turkey." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Hierarchical rule-based neural network for multiobject classification using invariant features." 
+                writers="Imamoglu, N, A Eresen, and Ozbayoglu, AM."
+                date="Innovations in Intelligent Systems and Applications (INISTA), 2011 International Symposium on. IEEE, pp. 296–299." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Gas-Liquid Flow Through Horizontal Eccentric Annuli: CFD and Experiments Compared." 
+                writers="Mehmet, Sorgun, Ozbayoglu, A.Murat, and Ozbayoglu M. Evren."
+                date="ASME-JSME-KSME Joint Fluids Engineering Conference 2011." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Determination of Cuttings Transport Properties of Aerated Drilling Fluids." 
+                writers="Özbayoglu, A.M., Osgouei R.E., M.E. Özbayoglu, and H.E. Yüksel."
+                date="IPETGAS 2011, Ankara-Turkey." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Sinyal Gücüne Baglı Bina içi Konum Tespiti Modelleri Karsılastırılması." 
+                writers="Özbayoglu, A.M and I.S Kök."
+                date="Fırat Üniversitesi Elektrik-Elektronik Bilgisayar Sempozyumu (FEEB 2011), pp. 99– 104." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Determination of Air/Fuel and Steam/Fuel Ratio for Coal Gasification Process to Produce Synthesis Gas." 
+                writers="A. Güngör, A.M Ozbayoglu, C. Kasnakoglu, A. Biyikoglu, and B.Z Uysal."
+                date="Journal of Environmental Science and Engineering vol. 5.5, pp. 799–804, June 2011." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Estimation of Multiphase Flow Properties using Computational Intelligence Models." 
+                writers="Ozbayoglu, A Murat and H Ertan Yuksel."
+                date="Procedia Computer Science, Complex Adaptive Systems, CAS 2011. Vol. 6, pp. 493–498." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Effect of Operation Parameters on Gasification For The Production of Synthesis Gas." 
+                writers="Bıyıkoglu, Atilla, Afsin Güngör, Cosku Kasnakoglu, Özbayoglu, Murat, and Zühtü Uysal."
+                date="27th Annual International Pittsburgh Coal Conference." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Determination of Air/Fuel and Steam/Fuel ratio for Coal Gasification process to produce Synthesis Gas." 
+                writers="Gungor, Afsin, Ozbayoglu, Murat, Cosku Kasnakoglu, Atilla Biyikoglu, and Bekir Zuhtu Uysal."
+                date="2nd International Conference on Nuclear and Renewable Energy Sources." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Hole Cleaning Performance of Gasified Drilling Fluids in Horizontal Well Sections. Paper SPE 131378," 
+                writers="Osgouei, R.E, M.E Ozbayoglu, Ozbayoglu, A.M, and E Yuksel."
+                date="SPE International Oil and Gas Conference & Exhibition." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Flow pattern identification of gas-liquid flow through horizontal annular geometries. Paper SPE 129123," 
+                writers="Osgouei, Reza Ettehadi, ME Ozbayoglu, Ozbayoglu, MA, and E Yuksel."
+                date="SPE oil and gas conference and exhibition, Mumbai, India." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Regression Techniques and Neural Network for the Estimation of Gross Calorific Value of Turkish Coals." 
+                writers="Özbayoglu, A.M., M.E. Özbayoglu, and G. Özbayoglu."
+                date="XIIth International Mineral Processing Symposium, Cappadocia-Nevsehir, Turkey." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Determination of Coal Gasification parameters for the production of Synthesis Gas." 
+                writers="Bıyıkoglu, Atilla, Cosku Kasnakoglu, Özbayoglu, A. Murat, Afsin Güngör, D.Ö Özgür, and B. Zühtü Uysal."
+                date="9th National Chemical Engineering Congress (UKMK-9)." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Stock Market Technical Indicator Optimization by Genetic Algorithms." 
+                writers="Ozbayoglu, A.Murat and Umur Erkut."
+                date="Artificial Neural Networks for Engineering 2010 (ANNIE 2010). ASME Press, pp. 589–596." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="An Analysis of Water Gas-Shift Reactor Battery System for Synthesis Gas Refinement." 
+                writers="Ozbayoglu, Murat, Cosku Kasnakoglu, Afsin Gungor, Atilla Biyikoglu, and Bekir Zuhtu Uysal."
+                date="11th International Combustion Symposium." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Estimation of very-difficult-to-identify data for hole cleaning, cuttings transport and pressure drop estimation in directional and horizontal drilling." 
+                writers="Ozbayoglu, Mehmet Evren, Reza Ettehadi Osgouei, Ozbayoglu, Ahmet, Ertan Yuksel."
+                date="IADC/SPE Asia Pacific Drilling Technology Conference and Exhibition. Society of Petroleum Engineers." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Performance Analysis of Moments in Invariant Object Classification." 
+                writers="Imamoglu, N, A Eresen, A Yagcı, and Ozbayoglu, A.M."
+                date="Intelligent Engineering Systems Through Artificial Neural Networks. ASME, pp. 447–454." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Determination of Cutting Concentration through Horizontal Annular Geometry by using Image Processing Techniques." 
+                writers="M.E., Ozbayoglu, Ozbayoglu A.M., Osgouei R.E., and Yuksel E."
+                date="IPETGAS 09, Ankara - Turkey." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Determination of Liquid Hold up through Horizontal Annular Geometry by using Image Processing Techniques." 
+                writers="M.E., Ozbayoglu, Ozbayoglu A.M., Osgouei R.E., and Yuksel E."
+                date="IPETGAS 09, Ankara-Turkey." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Estimating flow patterns and frictional pressure losses of two-phase fluids in horizontal wellbores using artificial neural networks." 
+                writers="Ozbayoglu, EM and Ozbayoglu, MA."
+                date="Petroleum Science and Technology 27.2, pp. 135-149." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Estimation of Hardgrove grindability index of Turkish coals by neural networks." 
+                writers="Özbayoglu, Gülhan, Özbayoglu, A Murat, and Özbayoglu, M Evren."
+                date="International Journal of Mineral Processing 85.4, pp. 93-100." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Comparison of Bayesian Estimation and Neural Network Model in Stock Market Trading." 
+                writers="Ozbayoglu, A.M and I Bahadır."
+                date="Intelligent Engineering Systems Through Artificial Neural Networks. ASME, pp. 581–586." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Hardgrove Grindability Index Estimation using Neural Networks" 
+                writers="Özbayoglu, A.M. and G. Özbayoglu."
+                date="International Mineral Processing Symposium (IMPS 2008). International Mineral Processing Symposium (IMPS 2008), Antalya, Turkey." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Neural network and genetic programming in pressure loss estimation in eccentric pipe flow." 
+                writers="Ozbayoglu, A.Murat, Z Aydiner, C Kasnakoglu, and M.E. Ozbayoglu."
+                date="Intelligent Engineering Systems Through Artificial Neural Networks. ASME, pp. 163–170." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Neural based Technical Analysis in Stock Market Forecasting." 
+                writers="Ozbayoglu, A.Murat."
+                date="Intelligent Engineering Systems Through Artificial Neural Networks. ASME, pp. 261–266." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Using Neural Networks For Flow Pattern And Frictional Loss Estimation For Aerated Drilling Fluids." 
+                writers="Ozbayoglu, AM, ME Ozbayoglu"
+                date="Canadian International Petroleum Conference. Petroleum Society of Canada." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Flow pattern and frictional-pressure-loss estimation using neural networks for UBD operations." 
+                writers="Ozbayoglu, M.Evren and Ozbayoglu, A.Murat."
+                date="IADC/SPE Managed Pressure Drilling & Underbalanced Operations." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Akıllı aracıların e-saglıkta kullanımı: Hastalık teshis modelleri." 
+                writers="Özbayoglu, A.M."
+                date="2. E-Saglık Çalıstayı." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="CS0: TOBB ETÜ’de Bilgisayar Mühendisligine Giris Dersi." 
+                writers="Erten, Murat, Özbayoglu, Murat, and Bülent Tavlı."
+                date="Akademik Bilisim 2007." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Yapay Sinir Agları kullanarak hazırlanan bir Hisse senedi deger tahmini uygulaması." 
+                writers="Özbayoglu, A.M."
+                date="TOK 06, Otomatik Kontrol Ulusal Toplantısı, pp. 149–152." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Estimation of Foam Stability Properties Using Image Processing and Artificial Neural Networks." 
+                writers="Strauss, H, Ozbayoglu, A.M, and M.E Ozbayoglu."
+                date="5th North American Conference on Multiphase Technology." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Yönsel Bant geçiren filtre ve yapay sinir agları yardımıyla otomatik parmak izi sınıflandırma ve tanıma islemi." 
+                writers="Özbayoglu, A.M."
+                date="II. Polis Bilisim Sempozyumu, pp. 234–237." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Unsupervised hierarchical fingerprint matching." 
+                writers="Murat Ozbayoglu, A and CH Dagli."
+                date="Neural Networks, 1997., International Conference on. Vol. 3. IEEE, pp. 1439–1442." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Hierarchical fingerprint identification based on an unsupervised neural network model." 
+                writers="Ozbayoglu, Ahmet Murat."
+                date="PhD thesis. Engineering Management Dept, University of Missouri-Rolla." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="An Application to Speaker Identification Using SimNet." 
+                writers="Enke, D, HC Lee, Ozbayoglu, AM, A Thammano, and CH Dagli."
+                date="Intelligence Engineering Systems Through Artificial Neural Networks. Vol. 5." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="SimNet: Sınıflandırma uygulamaları için bir yapay sinir agı." 
+                writers="Özbayoglu, A.M, H.C Lee, C.H Daglı, F Erçal, and D. Enke."
+                date="XVIIth National Conference on Operational Research and Industrial Engineering Conference." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="SimNet: A Parallel Neuro-Fuzzy Paradigm for Data Clustering." 
+                writers="Lee, HC, CH Dagli, F Ercal, and Ozbayoglu, AM."
+                date="OAI Neural Networks Symposium and Workshop (OAINN’95)." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Ögütme Devresinin Yapay Sinir Agları ile Modellenmesi." 
+                writers="Sönmezer, O, G Özbayoglu, Ü Atalay, Özbayoglu, M, and C. Daglı."
+                date="Madencilikte Bilgisayar Uygulamaları Sempozyumu, pp. 211–217." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Automated visual inspection system based on Hausdorff-Vioronoi network (HAVNET) architecture." 
+                writers="Burkett, K, Ozbayoglu, MA, and CH Dagli."
+                date="Proceedings-SPIE The International Society For Optical Engineering, pp. 2344–2347." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Automated visual inspection system based on HAVNET architecture." 
+                writers="Burkett, K, Ozbayoglu, Murat A, and Cihan H Dagli."
+                date="Photonics for Industrial Applications. International Society for Optics and Photonics, pp. 361–371." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="A hierarchial neural network implementation for forecasting." 
+                writers="Ozbayoglu, MA, CH Dagli, and B Fulkerson."
+                date="Neural Networks, 1994. IEEE World Congress on Computational Intelligence., 1994 IEEE International Conference on. Vol. 5, pp. 3184–3189." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+            <Paper 
+                name="Autonomous parts assembly: comparison of ART and neocognitron." 
+                writers="Rosandich, Ryan G, Ozbayoglu, Murat A, Eric W Roddiger, and Cihan H Dagli."
+                date="Optical Engineering and Photonics in Aerospace Sensing. International Society for Optics and Photonics, pp. 480–490." 
+                link={Pdf} 
+                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+            />
+
             
         </section>
     );
