@@ -26,6 +26,8 @@ import ErdemKaraosmanoglu from './components/members/ErdemKaraosmanoğlu';
 import FurkanKoc from './components/members/FurkanKoc';
 import OzgenilMeric from './components/members/OzgenilMeric';
 import NehirIdilYuksel from './components/members/NehirIdilYuksel';
+import AyhanAkbas from './components/members/AyhanAkbas';
+import OmerBeratSezer from './components/members/OmerBeratSezer';
 
  
 class App extends Component {
@@ -57,6 +59,8 @@ class App extends Component {
                     <Route path="/furkankoc" component={FurkanKoc}/>
                     <Route path="/ozgenilmeric" component={OzgenilMeric}/>
                     <Route path="/nehiridilyuksel" component={NehirIdilYuksel}/>
+                    <Route path="/omerberatsezer" component={OmerBeratSezer}/>
+                    <Route path="/ayhanakbas" component={AyhanAkbas}/>
                     <Route component={Error}/>
                 </Switch>
                 <Footer/>

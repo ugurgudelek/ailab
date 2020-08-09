@@ -18,8 +18,8 @@ const Team = () => {
                     <h3 className="team-header mb-5">Professors</h3>
                 </div>
                 <div className="row">
-                    <Member name="Murat Ozbayoglu" title="Assosiate Professor" link="MuratOzbayoglu" img={MuratOzbayogluImg}/>
-                    <Member name="M.Fatih Demirci" title="Assosiate Professor" link="MFatihDemirci" img={MFatihImg}/>
+                    <Member name="Murat Ozbayoglu" title="Associate Professor" link="MuratOzbayoglu" img={MuratOzbayogluImg}/>
+                    <Member name="M.Fatih Demirci" title="Associate Professor" link="MFatihDemirci" img={MFatihImg}/>
                 </div>
                 <div className="text-left">
                     <h3 className="team-header mb-5">PhD Students</h3>
@@ -29,6 +29,8 @@ const Team = () => {
                     <Member name="Mustafa Ucar" title="PhD Student" link="MustafaUcar"/>
                     <Member name="Selim Sefa Sarikan" title="PhD Student" link="SelimSefaSarikan"/>
                     <Member name="Muhammed Yilmaz" title="PhD Student" link="MuhammedYilmaz"/>
+                    <Member name="Omer Berat Sezer" title="PhD Student (Graduation: May 2018)" link="OmerBeratSezer"/>
+                    <Member name="Ayhan Akbas" title="PhD Student (Graduation: April 2016)" link="AyhanAkbas"/>
                 </div>
                 <div className="text-left">
                     <h3 className="team-header mb-5">MSc Students</h3>
@@ -47,18 +49,11 @@ const Team = () => {
                 <div className="row">
                     <Member name="Furkan Dolasik" title="Student" link="FurkanDolasik" img={FurkanDolasikImg}/>
                     <Member name="Nehir Idil Yuksel" title="Student" link="NehirIdilYuksel" img={NehirIdilYukselImg}/>
-                    <Member/>
-                    <Member/>
-                    <Member/>
-                    <Member/>
                 </div>
                 <div className="text-left">
                     <h3 className="team-header mb-5">Alumni</h3>
                 </div>
                 <div className="row">
-                    <Member/>
-                    <Member/>
-                    <Member/>
                     <Member/>
                     <Member/>
                     <Member/>
