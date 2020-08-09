@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "51c3e3401dd8de8dd08b9b0801fb5705",
+    "revision": "bbe0d56133e076af3267f906b83f89f4",
     "url": "/ailab/index.html"
   },
   {
-    "revision": "2cbe5ed384d7da347e52",
-    "url": "/ailab/static/css/main.4e0fc6bd.chunk.css"
+    "revision": "2aac9b6ef33ca3b24326",
+    "url": "/ailab/static/css/main.848c61b3.chunk.css"
   },
   {
-    "revision": "dcc85f826186407c1546",
-    "url": "/ailab/static/js/2.c4821825.chunk.js"
+    "revision": "0a9b1e3af88e8b80bcc4",
+    "url": "/ailab/static/js/2.a4c4823d.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/ailab/static/js/2.c4821825.chunk.js.LICENSE.txt"
+    "url": "/ailab/static/js/2.a4c4823d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2cbe5ed384d7da347e52",
-    "url": "/ailab/static/js/main.fd2bc4f1.chunk.js"
+    "revision": "2aac9b6ef33ca3b24326",
+    "url": "/ailab/static/js/main.ffa20d19.chunk.js"
   },
   {
     "revision": "55c9edd5316f614bebcd",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "944c7c5e2563beb733d002522c560ffe",
     "url": "/ailab/static/media/cool-background.944c7c5e.png"
+  },
+  {
+    "revision": "32a0c63cc9d3f7cd8494c8c3584d0e04",
+    "url": "/ailab/static/media/financial-market.32a0c63c.jpg"
   },
   {
     "revision": "5fa2ffc245e3cf6cafdbbf079684ba27",
