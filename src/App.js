@@ -28,6 +28,11 @@ import OzgenilMeric from './components/members/OzgenilMeric';
 import NehirIdilYuksel from './components/members/NehirIdilYuksel';
 import AyhanAkbas from './components/members/AyhanAkbas';
 import OmerBeratSezer from './components/members/OmerBeratSezer';
+import DervisUtkuUfuk from './components/members/DervisUtkuUfuk';
+import ArasCanOnal from './components/members/ArasCanOnal';
+import MustafaSari from './components/members/MustafaSari';
+import GokhanKucukayan from './components/members/GokhanKucukayan';
+import JeyhunKarimov from './components/members/JeyhunKarimov';
 
  
 class App extends Component {
@@ -61,6 +66,11 @@ class App extends Component {
                     <Route path="/nehiridilyuksel" component={NehirIdilYuksel}/>
                     <Route path="/omerberatsezer" component={OmerBeratSezer}/>
                     <Route path="/ayhanakbas" component={AyhanAkbas}/>
+                    <Route path="/dervisutkuufuk" component={DervisUtkuUfuk}/>
+                    <Route path="/arascanonal" component={ArasCanOnal}/>
+                    <Route path="/mustafasari" component={MustafaSari}/>
+                    <Route path="/gokhankucukayan" component={GokhanKucukayan}/>
+                    <Route path="/jeyhunkarimov" component={JeyhunKarimov}/>
                     <Route component={Error}/>
                 </Switch>
                 <Footer/>

@@ -42,6 +42,11 @@ const Team = () => {
                     <Member name="Erdem Karaosmanoglu" title="MSc Student" link="ErdemKaraosmanoglu"/>
                     <Member name="Furkan Koc" title="MSc Student" link="FurkanKoc"/>
                     <Member name="Ozgenil Meric" title="MSc Student" link="OzgenilMeric"/>
+                    <Member name="Dervis Utku Ufuk" title="MSc Student (Graduation: March 2019)" link="DervisUtkuUfuk"/>
+                    <Member name="Aras Can Onal" title="MSc Student (Graduation: March 2019)" link="ArasCanOnal"/>
+                    <Member name="Mustafa Sari" title="MSc Student (Graduation: December 2018)" link="MustafaSari"/>
+                    <Member name="Gokhan Kucukayan" title="MSc Student (Graduation: April 2016)" link="GokhanKucukayan"/>
+                    <Member name="Jeyhun Karimov" title="MSc Student (Graduation: December 2015)" link="JeyhunKarimov"/>
                 </div>
                 <div className="text-left">
                     <h3 className="team-header mb-5">Undergraduate Students</h3>
