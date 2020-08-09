@@ -1,17 +1,85 @@
 import React from 'react';
 import '../css/styles.css';
 import Project from './Project';
+import FinancialMarketImg from '../assets/img/projects-image/financial-market.jpg';
+
  
 const Projects = () => {
     return (
         <section className="page-section bg-light mt-4 pb-0" id="team">
             <h3 className="text-center bg-dark-2 text-light pt-4 pb-4 mt-0 mb-5 coloumn">PROJECTS</h3>
-            <Project/>
-            <Project/>
-            <Project/>
-            <Project/>
-            <Project/>
-            <Project/>
+            <div className="container">
+                <div className="text-left">
+                    <h3 className="team-header mb-5">Principal Investigator</h3>
+                </div>
+                <Project
+                    img={FinancialMarketImg}
+                    name="A Multi-Agent Simulation and Backtesting Workbench Software for Deep Learning and Evolutionary Algorithm based Options Trading Strategy Optimization"
+                    fundedby="The Scientific and Technological Council of Turkey, TUBITAK 1001 project"
+                    budget="489.000 TL"
+                    period="01/05/2016 - 01/05/2019"
+                    scope="Analysis and optimization of different option strategies for various market conditions using deep learning and evolutionary computation methodologies"
+                    team="Dr. A. Murat Özbayoğlu, Dr. Ekin Tokat, Mustafa Uçar, Uğur Şahin, Uğur Güdelek, Efe Arın, Kaan Kaya"
+                    keywords="Deep Learning, financial markets, stock and option trading, multi-agent systems, evolutionary computation, options strategy optimization"
+                />
+                <Project 
+                    name="ATM User Profiling and Menu Optimization"
+                    fundedby="Ministry of Science, Industry and Technology SANTEZ project with PROVUS, A.S."
+                    budget="125.960 TL"
+                    period="01/03/2014 - 15/01/2016"
+                    scope="Creating customized user ATM menus optimized for faster navigation. The aim is to minimize the number of clicks and/or the time spent for transaction processing"
+                    team="Dr. A. Murat Özbayoğlu, Dr. Erdoğan Doğdu, Jeyhun Karimov, Erkan Akın"
+                    keywords="Menu optimization, ETL, clustering, machine learning, evolutionary computation, computational intelligence, Hadoop Mapreduce, transaction forecasting"
+                />
+                <Project 
+                    name="Determination Of Cuttings Transport Properties Of Gasified Drilling Fluids"
+                    fundedby="The Scientific and Technological Council of Turkey, TUBITAK 1001 project"
+                    budget="116.000 TL"
+                    period="01/05/2008 - 01/02/2011"
+                    scope="Analysis of multiphase gas-liquid-cuttings flow in eccentric annuli for extracting flow characteristics using image processing and computational intelligence techniques"
+                    team="Dr. A. Murat Özbayoğlu, Dr. Evren Özbayoğlu, Reza Ettehadi Osgouei, Mehmet Sorgun, Ertan Yüksel"
+                    keywords="Gas-liquid-cuttings flow, image processing, machine learning, computational intelligence, liquid holdup estimation, pressure drop estimation, horizontal or inclined annuli"
+                />
+                <div className="text-left">
+                    <h3 className="team-header mb-5">Researcher</h3>
+                </div>
+                <Project 
+                    name="Development of Advanced Machining Monitoring and Prediction Algorithms using Deep Learning for Industry 4.0"
+                    fundedby="The Scientific and Technological Council of Turkey, TUBITAK 1001 project"
+                    budget="220.000 TL"
+                    period="01/11/2018 - 01/11/2020"
+                    scope="Developing deep learning based prediction models between process control and monitoring parameters and process consequaneces such as tool wear, tool breakage, and chatter for preventive maintenance"
+                    team="1 Principal Investigator, 1 researcher, 1 PhD and 1 graduate student"
+                    keywords="Deep Learning, advanced process monitoring, computational intelligence, tool condition monitoring, Industry 4.0"
+                />
+                <Project 
+                    name="Establishing Crop Information System for Wheat Production to Sustain Food Security"
+                    fundedby="The Scientific and Technological Council of Turkey, TUBITAK 3001 project"
+                    budget="60.000 TL"
+                    period="01/10/2015 - 01/10/2018"
+                    scope="Analysis of wheat crop data using classical and machine learning techniques and provide a crop information system and database with a web interface"
+                    team="1 Principal Investigator, 3 researchers, 1 graduate student"
+                    keywords="Crop information system, computational intelligence, field yield estimation, GIS"
+                />
+                <Project 
+                    name="ECOMANINDUSTRY"
+                    fundedby="European Union FP7-LEAD-ERA Project"
+                    budget="330.000 Euro"
+                    period="01/04/2013 - 01/04/2016"
+                    scope="36 month project to create a web based software for data collection and identfying clean production and industrial symbiosis potentials for companies"
+                    team="3 international partners, 6 researchers, 2 programmers, 2 graduate students, Dr. Christoph Hugi, Dr. H. Özgür Ünver, Dr. A. Murat Özbayoğlu, Dr. Engin Kılıç, Dr. Guillaume Massard, Dirk Hengevoos, Tuna Gümüş, Çiğdem Tambağ, M. Zeynel Dağlı, Okan Çıran, Catherine Moser, Emily Vuylsteke"
+                    keywords="Clean Production, Industrial Symbiosis, software development, database, GIS"
+                />
+                <Project 
+                    name=""
+                    fundedby=""
+                    budget=""
+                    period=""
+                    scope=""
+                    team=""
+                    keywords=""
+                />
+            </div>
         </section>
     );
 }
