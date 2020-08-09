@@ -7492,6 +7492,14 @@ button.bg-dark:focus {
   width: 35% !important;
 }
 
+.w-60-project {
+  width: 60% !important;
+}
+
+.w-75-project {
+  width: 75% !important;
+}
+
 .w-75 {
   width: 75% !important;
 }
@@ -10542,11 +10550,10 @@ header.masthead .masthead-heading {
 }
 .project-member {
   margin-bottom: 3rem;
-  margin-left: 10rem;
   text-align: left;
 }
 .project-member img {
-  width: 25rem;
+  width: 33rem;
   transition: all 1s;
 }
 .project-member h4 {
@@ -10713,6 +10720,12 @@ section#contact form#contactForm :-ms-input-placeholder {
   .w-50-project{
     width: 100% !important;
   }
+  .w-75-project{
+    width: 100% !important;
+  }
+  .w-60-project{
+    width: 100% !important;
+  }
   .member-image{
     display: block;
     margin: auto !important;
@@ -10757,4 +10770,8 @@ section#contact form#contactForm :-ms-input-placeholder {
 
 .tel-fax{
   font-size: 1.3rem;
+}
+
+.project-name{
+  color: #03045e;
 }
