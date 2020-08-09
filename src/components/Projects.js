@@ -31,15 +31,6 @@ const Projects = () => {
                     team="Dr. A. Murat Özbayoğlu, Dr. Erdoğan Doğdu, Jeyhun Karimov, Erkan Akın"
                     keywords="Menu optimization, ETL, clustering, machine learning, evolutionary computation, computational intelligence, Hadoop Mapreduce, transaction forecasting"
                 />
-                <Project 
-                    name="Determination Of Cuttings Transport Properties Of Gasified Drilling Fluids"
-                    fundedby="The Scientific and Technological Council of Turkey, TUBITAK 1001 project"
-                    budget="116.000 TL"
-                    period="01/05/2008 - 01/02/2011"
-                    scope="Analysis of multiphase gas-liquid-cuttings flow in eccentric annuli for extracting flow characteristics using image processing and computational intelligence techniques"
-                    team="Dr. A. Murat Özbayoğlu, Dr. Evren Özbayoğlu, Reza Ettehadi Osgouei, Mehmet Sorgun, Ertan Yüksel"
-                    keywords="Gas-liquid-cuttings flow, image processing, machine learning, computational intelligence, liquid holdup estimation, pressure drop estimation, horizontal or inclined annuli"
-                />
                 <div className="text-left">
                     <h3 className="team-header mb-5">Researcher</h3>
                 </div>
@@ -71,13 +62,43 @@ const Projects = () => {
                     keywords="Clean Production, Industrial Symbiosis, software development, database, GIS"
                 />
                 <Project 
-                    name=""
-                    fundedby=""
-                    budget=""
-                    period=""
-                    scope=""
-                    team=""
-                    keywords=""
+                    name="A Virtual Factory Framework for SMEs"
+                    fundedby="Ministry of Science, Industry and Technology SANTEZ project with OSTIM Teknoloji, A.S."
+                    budget="660.000 TL"
+                    period="01/04/2012 - 01/10/2015"
+                    scope="36 month project for development of an Ontology based Multi-Agent Operational Virtual Factory Framework for Production High Value Added Products by SMEs"
+                    team="Dr. H. Özgür Ünver, Dr. A. Murat Özbayoğlu, Dr. Engin Kılıç, Dr. Erdoğan Doğdu, Bahram Lotfi Sadigh, Shahrzad Nikghadam, Maria Moradnezhad"
+                    keywords="Virtual Enterprise, ontology, multi-agent systems, partner selection, high value added products manufacturing"
+                />
+                <div className="text-left">
+                    <h3 className="team-header mb-5">Consultant</h3>
+                </div>
+                <Project 
+                    name="CyDecSys - Advanced Cybersecurity Decision Support System Development, STM Technology"
+                    fundedby="The Scientific and Technological Council of Turkey, TUBITAK TEYDEB project with STM Technology"
+                    budget="-"
+                    period="01/10/2016 - 01/12/2017"
+                    scope="Developing Machine Learning models for Cybersecurity problems and integrating the solutions into Decision Support System"
+                    team="STM Technology Research Engineers and 2 consultants from TOBB ETU"
+                    keywords="Machine Learning for Cybersecurity, Precondition, Postcondition Analysis, Vulnerability Classification"
+                />
+                <Project 
+                    name="Big Data Analytics, STM Technology"
+                    fundedby="STM Technology"
+                    budget="-"
+                    period="01/01/2015 - 01/01/2017"
+                    scope="Technical consultancy in Big Data Analytics projects"
+                    team="STM Technology Big Data Department Researchers and Engineers"
+                    keywords="Traffic Flow Analysis, Social Network Analysis, Forecasting Models, Data Science"
+                />
+                <Project 
+                    name="SEAS - Smart Energy Awareness System"
+                    fundedby="European Union H2020 Project"
+                    budget="3,5 Million Euro"
+                    period="01/05/2014 - 01/05/2017"
+                    scope="36 month project to develop a framework for smart grids for energy efficiency in producer-consumer networks and demonstrating the system on a micro-grid located in Ankara"
+                    team="21 international partners, 3 consultants from TOBB ETU: Dr. Erdoğan Doğdu, Dr. Murat Özbayoğlu ve Dr. Nilgün Fesçioğlu Ünver"
+                    keywords="Smart Grid, Energy Efficiency, ontology, pattern recognition"
                 />
             </div>
         </section>
