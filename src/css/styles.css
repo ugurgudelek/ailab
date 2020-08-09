@@ -10779,3 +10779,11 @@ section#contact form#contactForm :-ms-input-placeholder {
 .project-name{
   color: #03045e;
 }
+
+.project-header-bg{
+  background-color: #e9ecef;
+}
+
+.project-header{
+  color: #081c15;
+}
