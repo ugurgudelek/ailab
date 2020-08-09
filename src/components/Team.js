@@ -15,14 +15,14 @@ const Team = () => {
             <h3 className="text-center bg-dark-2 text-light pt-4 pb-4 mt-0 mb-5 w-100">TEAM</h3>
             <div className="container">
                 <div className="text-left">
-                    <h3 className="team-header mb-5">Professors</h3>
+                    <h3 className="team-header mb-5 project-header-bg">Professors</h3>
                 </div>
                 <div className="row">
                     <Member name="Murat Ozbayoglu" title="Associate Professor" link="MuratOzbayoglu" img={MuratOzbayogluImg}/>
                     <Member name="M.Fatih Demirci" title="Associate Professor" link="MFatihDemirci" img={MFatihImg}/>
                 </div>
                 <div className="text-left">
-                    <h3 className="team-header mb-5">PhD Students</h3>
+                    <h3 className="team-header mb-5 project-header-bg">PhD Students</h3>
                 </div>
                 <div className="row">
                     <Member name="Ugur Gudelek" title="PhD Student" link="UgurGudelek" img={UgurGudelekImg}/>
@@ -33,7 +33,7 @@ const Team = () => {
                     <Member name="Ayhan Akbas" title="PhD Student (Graduation: April 2016)" link="AyhanAkbas"/>
                 </div>
                 <div className="text-left">
-                    <h3 className="team-header mb-5">MSc Students</h3>
+                    <h3 className="team-header mb-5 project-header-bg">MSc Students</h3>
                 </div>
                 <div className="row">
                     <Member name="Izzet Baris Ozturk" title="MSc Student" link="IzzetBarisOzturk" img={izzetBarisImg}/>
@@ -49,14 +49,14 @@ const Team = () => {
                     <Member name="Jeyhun Karimov" title="MSc Student (Graduation: December 2015)" link="JeyhunKarimov"/>
                 </div>
                 <div className="text-left">
-                    <h3 className="team-header mb-5">Undergraduate Students</h3>
+                    <h3 className="team-header mb-5 project-header-bg">Undergraduate Students</h3>
                 </div>
                 <div className="row">
                     <Member name="Furkan Dolasik" title="Student" link="FurkanDolasik" img={FurkanDolasikImg}/>
                     <Member name="Nehir Idil Yuksel" title="Student" link="NehirIdilYuksel" img={NehirIdilYukselImg}/>
                 </div>
                 <div className="text-left">
-                    <h3 className="team-header mb-5">Alumni</h3>
+                    <h3 className="team-header mb-5 project-header-bg">Alumni</h3>
                 </div>
                 <div className="row">
                     <Member/>

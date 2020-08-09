@@ -9,8 +9,8 @@ const Projects = () => {
         <section className="page-section bg-light mt-4 pb-0" id="team">
             <h3 className="text-center bg-dark-2 text-light pt-4 pb-4 mt-0 mb-5 coloumn">PROJECTS</h3>
             <div className="container">
-                <div className="text-left">
-                    <h3 className="team-header mb-5">Principal Investigator</h3>
+                <div className="text-left project-header-bg">
+                    <h3 className="team-header mb-5 project-header">Principal Investigator</h3>
                 </div>
                 <Project
                     img={FinancialMarketImg}
@@ -31,8 +31,8 @@ const Projects = () => {
                     team="Dr. A. Murat Özbayoğlu, Dr. Erdoğan Doğdu, Jeyhun Karimov, Erkan Akın"
                     keywords="Menu optimization, ETL, clustering, machine learning, evolutionary computation, computational intelligence, Hadoop Mapreduce, transaction forecasting"
                 />
-                <div className="text-left">
-                    <h3 className="team-header mb-5">Researcher</h3>
+                <div className="text-left project-header-bg">
+                    <h3 className="team-header mb-5 project-header">Researcher</h3>
                 </div>
                 <Project 
                     name="Development of Advanced Machining Monitoring and Prediction Algorithms using Deep Learning for Industry 4.0"
@@ -70,8 +70,8 @@ const Projects = () => {
                     team="Dr. H. Özgür Ünver, Dr. A. Murat Özbayoğlu, Dr. Engin Kılıç, Dr. Erdoğan Doğdu, Bahram Lotfi Sadigh, Shahrzad Nikghadam, Maria Moradnezhad"
                     keywords="Virtual Enterprise, ontology, multi-agent systems, partner selection, high value added products manufacturing"
                 />
-                <div className="text-left">
-                    <h3 className="team-header mb-5">Consultant</h3>
+                <div className="text-left project-header-bg">
+                    <h3 className="team-header mb-5 project-header">Consultant</h3>
                 </div>
                 <Project 
                     name="CyDecSys - Advanced Cybersecurity Decision Support System Development, STM Technology"
