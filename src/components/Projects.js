@@ -2,8 +2,12 @@ import React from 'react';
 import '../css/styles.css';
 import Project from './Project';
 import FinancialMarketImg from '../assets/img/projects-image/financial-market.jpg';
+import CropImg from '../assets/img/projects-image/crop.png';
+import BigDataImg from '../assets/img/projects-image/big-data.jpeg';
+import SmartEnergyImg from '../assets/img/projects-image/smart-energy.png';
+import CybersecurityImg from '../assets/img/projects-image/cyber-security-2.png';
+import AlgoImg from '../assets/img/projects-image/algo.png';
 
- 
 const Projects = () => {
     return (
         <section className="page-section bg-light mt-4 pb-0" id="team">
@@ -22,7 +26,7 @@ const Projects = () => {
                     team="Dr. A. Murat Özbayoğlu, Dr. Ekin Tokat, Mustafa Uçar, Uğur Şahin, Uğur Güdelek, Efe Arın, Kaan Kaya"
                     keywords="Deep Learning, financial markets, stock and option trading, multi-agent systems, evolutionary computation, options strategy optimization"
                 />
-                <Project 
+                <Project
                     name="ATM User Profiling and Menu Optimization"
                     fundedby="Ministry of Science, Industry and Technology SANTEZ project with PROVUS, A.S."
                     budget="125.960 TL"
@@ -34,7 +38,8 @@ const Projects = () => {
                 <div className="text-left project-header-bg">
                     <h3 className="team-header mb-5 project-header">Researcher</h3>
                 </div>
-                <Project 
+                <Project
+                    img={AlgoImg}
                     name="Development of Advanced Machining Monitoring and Prediction Algorithms using Deep Learning for Industry 4.0"
                     fundedby="The Scientific and Technological Council of Turkey, TUBITAK 1001 project"
                     budget="220.000 TL"
@@ -43,7 +48,8 @@ const Projects = () => {
                     team="1 Principal Investigator, 1 researcher, 1 PhD and 1 graduate student"
                     keywords="Deep Learning, advanced process monitoring, computational intelligence, tool condition monitoring, Industry 4.0"
                 />
-                <Project 
+                <Project
+                    img={CropImg}
                     name="Establishing Crop Information System for Wheat Production to Sustain Food Security"
                     fundedby="The Scientific and Technological Council of Turkey, TUBITAK 3001 project"
                     budget="60.000 TL"
@@ -73,7 +79,8 @@ const Projects = () => {
                 <div className="text-left project-header-bg">
                     <h3 className="team-header mb-5 project-header">Consultant</h3>
                 </div>
-                <Project 
+                <Project
+                    img={CybersecurityImg}
                     name="CyDecSys - Advanced Cybersecurity Decision Support System Development, STM Technology"
                     fundedby="The Scientific and Technological Council of Turkey, TUBITAK TEYDEB project with STM Technology"
                     budget="-"
@@ -82,7 +89,8 @@ const Projects = () => {
                     team="STM Technology Research Engineers and 2 consultants from TOBB ETU"
                     keywords="Machine Learning for Cybersecurity, Precondition, Postcondition Analysis, Vulnerability Classification"
                 />
-                <Project 
+                <Project
+                    img={BigDataImg}
                     name="Big Data Analytics, STM Technology"
                     fundedby="STM Technology"
                     budget="-"
@@ -91,7 +99,8 @@ const Projects = () => {
                     team="STM Technology Big Data Department Researchers and Engineers"
                     keywords="Traffic Flow Analysis, Social Network Analysis, Forecasting Models, Data Science"
                 />
-                <Project 
+                <Project
+                    img={SmartEnergyImg}
                     name="SEAS - Smart Energy Awareness System"
                     fundedby="European Union H2020 Project"
                     budget="3,5 Million Euro"
