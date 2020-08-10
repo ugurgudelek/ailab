@@ -10554,6 +10554,7 @@ header.masthead .masthead-heading {
 }
 .project-member img {
   width: 33rem;
+  max-height: 22rem;
   transition: all 1s;
 }
 .project-member h4 {
