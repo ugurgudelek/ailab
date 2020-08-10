@@ -10553,8 +10553,7 @@ header.masthead .masthead-heading {
   text-align: left;
 }
 .project-member img {
-  width: 33rem;
-  max-height: 22rem;
+  width: 30rem;
   transition: all 1s;
 }
 .project-member h4 {

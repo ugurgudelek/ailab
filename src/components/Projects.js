@@ -7,6 +7,9 @@ import BigDataImg from '../assets/img/projects-image/big-data.jpeg';
 import SmartEnergyImg from '../assets/img/projects-image/smart-energy.png';
 import CybersecurityImg from '../assets/img/projects-image/cyber-security-2.png';
 import AlgoImg from '../assets/img/projects-image/algo.png';
+import CompIntImg from '../assets/img/projects-image/comp-int.png';
+import IndustImg from '../assets/img/projects-image/indust-symb.png';
+import MultiAgentImg from '../assets/img/projects-image/multi-agent.png';
 
 const Projects = () => {
     return (
@@ -27,6 +30,7 @@ const Projects = () => {
                     keywords="Deep Learning, financial markets, stock and option trading, multi-agent systems, evolutionary computation, options strategy optimization"
                 />
                 <Project
+                    img={CompIntImg}
                     name="ATM User Profiling and Menu Optimization"
                     fundedby="Ministry of Science, Industry and Technology SANTEZ project with PROVUS, A.S."
                     budget="125.960 TL"
@@ -58,7 +62,8 @@ const Projects = () => {
                     team="1 Principal Investigator, 3 researchers, 1 graduate student"
                     keywords="Crop information system, computational intelligence, field yield estimation, GIS"
                 />
-                <Project 
+                <Project
+                    img={IndustImg}
                     name="ECOMANINDUSTRY"
                     fundedby="European Union FP7-LEAD-ERA Project"
                     budget="330.000 Euro"
@@ -67,7 +72,8 @@ const Projects = () => {
                     team="3 international partners, 6 researchers, 2 programmers, 2 graduate students, Dr. Christoph Hugi, Dr. H. Özgür Ünver, Dr. A. Murat Özbayoğlu, Dr. Engin Kılıç, Dr. Guillaume Massard, Dirk Hengevoos, Tuna Gümüş, Çiğdem Tambağ, M. Zeynel Dağlı, Okan Çıran, Catherine Moser, Emily Vuylsteke"
                     keywords="Clean Production, Industrial Symbiosis, software development, database, GIS"
                 />
-                <Project 
+                <Project
+                    img={MultiAgentImg}
                     name="A Virtual Factory Framework for SMEs"
                     fundedby="Ministry of Science, Industry and Technology SANTEZ project with OSTIM Teknoloji, A.S."
                     budget="660.000 TL"
