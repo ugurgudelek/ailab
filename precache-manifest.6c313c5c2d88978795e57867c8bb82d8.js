@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bbe0d56133e076af3267f906b83f89f4",
+    "revision": "2e728aaced6d9c55e4d62cc6e0f0c74d",
     "url": "/ailab/index.html"
   },
   {
-    "revision": "2aac9b6ef33ca3b24326",
-    "url": "/ailab/static/css/main.848c61b3.chunk.css"
+    "revision": "c745c7fdd5f058875908",
+    "url": "/ailab/static/css/main.07014c0c.chunk.css"
   },
   {
-    "revision": "0a9b1e3af88e8b80bcc4",
-    "url": "/ailab/static/js/2.a4c4823d.chunk.js"
+    "revision": "7483ec2b339601f8e57c",
+    "url": "/ailab/static/js/2.240c176c.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/ailab/static/js/2.a4c4823d.chunk.js.LICENSE.txt"
+    "url": "/ailab/static/js/2.240c176c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2aac9b6ef33ca3b24326",
-    "url": "/ailab/static/js/main.ffa20d19.chunk.js"
+    "revision": "c745c7fdd5f058875908",
+    "url": "/ailab/static/js/main.91e9bb19.chunk.js"
   },
   {
     "revision": "55c9edd5316f614bebcd",
@@ -36,12 +36,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ailab/static/media/ai.1031d263.png"
   },
   {
+    "revision": "dc6d95fc33c2a2e3b21b3b494de66e76",
+    "url": "/ailab/static/media/algo.dc6d95fc.png"
+  },
+  {
     "revision": "c019021bde53160358a64791668ec06c",
     "url": "/ailab/static/media/barisguneyozdilli.c019021b.JPG"
   },
   {
+    "revision": "d36fdf75d0f58bada2a24e501a212b70",
+    "url": "/ailab/static/media/big-data.d36fdf75.jpeg"
+  },
+  {
+    "revision": "b8251f7bcebf59bdae9c1350627e8bbe",
+    "url": "/ailab/static/media/comp-int.b8251f7b.png"
+  },
+  {
     "revision": "944c7c5e2563beb733d002522c560ffe",
     "url": "/ailab/static/media/cool-background.944c7c5e.png"
+  },
+  {
+    "revision": "f5fa33b9b82db51f7438e1373609210c",
+    "url": "/ailab/static/media/crop.f5fa33b9.png"
+  },
+  {
+    "revision": "d9f614239f8d1720f35632ea9196e05b",
+    "url": "/ailab/static/media/cyber-security-2.d9f61423.png"
   },
   {
     "revision": "32a0c63cc9d3f7cd8494c8c3584d0e04",
@@ -56,6 +76,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ailab/static/media/homeback.6b8a83d7.jpg"
   },
   {
+    "revision": "086a089ccce42281c9a6036ff521744d",
+    "url": "/ailab/static/media/indust-symb.086a089c.png"
+  },
+  {
     "revision": "3f09a6c77f90a8a67e29421b8ae585f0",
     "url": "/ailab/static/media/izzetbarisozturk.3f09a6c7.jpg"
   },
@@ -66,6 +90,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f40ed5b1e791e9d2479ba8b5e67f2df8",
     "url": "/ailab/static/media/map-image.f40ed5b1.png"
+  },
+  {
+    "revision": "f5a263f62b0bd83ca54004e8cd0643fb",
+    "url": "/ailab/static/media/multi-agent.f5a263f6.png"
   },
   {
     "revision": "cffce3567a8413c5c3ae6186b52368c9",
@@ -94,6 +122,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4b41a3475132bd861b30a878e30aa56a",
     "url": "/ailab/static/media/sample.4b41a347.pdf"
+  },
+  {
+    "revision": "93f1ea8d3a080b646d0f299416744819",
+    "url": "/ailab/static/media/smart-energy.93f1ea8d.png"
   },
   {
     "revision": "ede12e9de2d66e8e5e2268d21b7e3480",
