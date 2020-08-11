@@ -29,11 +29,86 @@ import BurnedAreainForestFiresPrev1 from '../assets/img/pdf_preview/BurnedAreain
 import BurnedAreainForestFiresPrev2 from '../assets/img/pdf_preview/BurnedAreainForestFires/prev2.png';
 import BurnedAreainForestFiresPrev3 from '../assets/img/pdf_preview/BurnedAreainForestFires/prev3.png';
 import BurnedAreainForestFiresPrev4 from '../assets/img/pdf_preview/BurnedAreainForestFires/prev4.png';
-import StockTradingSystem2 from './pdfs/1712.09592.pdf';
+import StockTradingSystem2 from './pdfs/StockTradingSystem2.pdf';
 import StockTradingSystem2Prev1 from '../assets/img/pdf_preview/StockTradingSystem2/prev1.png';
 import StockTradingSystem2Prev2 from '../assets/img/pdf_preview/StockTradingSystem2/prev2.png';
 import StockTradingSystem2Prev3 from '../assets/img/pdf_preview/StockTradingSystem2/prev3.png';
 import StockTradingSystem2Prev4 from '../assets/img/pdf_preview/StockTradingSystem2/prev4.png';
+import ImageConversionApproach from './pdfs/ImageConversionApproach.pdf';
+import ImageConversionApproachPrev1 from '../assets/img/pdf_preview/ImageConversionApproach/prev1.png';
+import ImageConversionApproachPrev2 from '../assets/img/pdf_preview/ImageConversionApproach/prev2.png';
+import ImageConversionApproachPrev3 from '../assets/img/pdf_preview/ImageConversionApproach/prev3.png';
+import ImageConversionApproachPrev4 from '../assets/img/pdf_preview/ImageConversionApproach/prev4.png';
+import HighwayAccidentDetectionModel from './pdfs/HighwayAccidentDetectionModel.pdf';
+import HighwayAccidentDetectionModelPrev1 from '../assets/img/pdf_preview/HighwayAccidentDetectionModel/prev1.png';
+import HighwayAccidentDetectionModelPrev2 from '../assets/img/pdf_preview/HighwayAccidentDetectionModel/prev2.png';
+import HighwayAccidentDetectionModelPrev3 from '../assets/img/pdf_preview/HighwayAccidentDetectionModel/prev3.png';
+import HighwayAccidentDetectionModelPrev4 from '../assets/img/pdf_preview/HighwayAccidentDetectionModel/prev4.png';
+import ExtendedIoTFramework from './pdfs/ExtendedIoTFramework.pdf';
+import ExtendedIoTFrameworkPrev1 from '../assets/img/pdf_preview/ExtendedIoTFramework/prev1.png';
+import ExtendedIoTFrameworkPrev2 from '../assets/img/pdf_preview/ExtendedIoTFramework/prev2.png';
+import ExtendedIoTFrameworkPrev3 from '../assets/img/pdf_preview/ExtendedIoTFramework/prev3.png';
+import ExtendedIoTFrameworkPrev4 from '../assets/img/pdf_preview/ExtendedIoTFramework/prev4.png';
+import ClusteringQualityImp from './pdfs/ClusteringQualityImp.pdf';
+import ClusteringQualityImpPrev1 from '../assets/img/pdf_preview/ClusteringQualityImp/prev1.png';
+import ClusteringQualityImpPrev2 from '../assets/img/pdf_preview/ClusteringQualityImp/prev2.png';
+import ClusteringQualityImpPrev3 from '../assets/img/pdf_preview/ClusteringQualityImp/prev3.png';
+import ClusteringQualityImpPrev4 from '../assets/img/pdf_preview/ClusteringQualityImp/prev4.png';
+import CNNTrend from './pdfs/CNNTrend.pdf';
+import CNNTrendPrev1 from '../assets/img/pdf_preview/CNNTrend/prev1.png';
+import CNNTrendPrev2 from '../assets/img/pdf_preview/CNNTrend/prev2.png';
+import CNNTrendPrev3 from '../assets/img/pdf_preview/CNNTrend/prev3.png';
+import CNNTrendPrev4 from '../assets/img/pdf_preview/CNNTrend/prev4.png';
+import SensorFault from './pdfs/SensorFault.pdf';
+import SensorFaultPrev1 from '../assets/img/pdf_preview/SensorFault/prev1.png';
+import SensorFaultPrev2 from '../assets/img/pdf_preview/SensorFault/prev2.png';
+import SensorFaultPrev3 from '../assets/img/pdf_preview/SensorFault/prev3.png';
+import SensorFaultPrev4 from '../assets/img/pdf_preview/SensorFault/prev4.png';
+import AutomatedVehicleClass from './pdfs/AutomatedVehicleClass.pdf';
+import AutomatedVehicleClassPrev1 from '../assets/img/pdf_preview/AutomatedVehicleClass/prev1.png';
+import AutomatedVehicleClassPrev2 from '../assets/img/pdf_preview/AutomatedVehicleClass/prev2.png';
+import AutomatedVehicleClassPrev3 from '../assets/img/pdf_preview/AutomatedVehicleClass/prev3.png';
+import AutomatedVehicleClassPrev4 from '../assets/img/pdf_preview/AutomatedVehicleClass/prev4.png';
+import SurveySemantic from './pdfs/SurveySemantic.pdf';
+import SurveySemanticPrev1 from '../assets/img/pdf_preview/SurveySemantic/prev1.png';
+import SurveySemanticPrev2 from '../assets/img/pdf_preview/SurveySemantic/prev2.png';
+import SurveySemanticPrev3 from '../assets/img/pdf_preview/SurveySemantic/prev3.png';
+import SurveySemanticPrev4 from '../assets/img/pdf_preview/SurveySemantic/prev4.png';
+import OntologyBased1 from './pdfs/OntologyBased1.pdf';
+import OntologyBased1Prev1 from '../assets/img/pdf_preview/OntologyBased1/prev1.png';
+import OntologyBased1Prev2 from '../assets/img/pdf_preview/OntologyBased1/prev2.png';
+import OntologyBased1Prev3 from '../assets/img/pdf_preview/OntologyBased1/prev3.png';
+import OntologyBased1Prev4 from '../assets/img/pdf_preview/OntologyBased1/prev4.png';
+import RSIIndicator from './pdfs/RSIIndicator.pdf';
+import RSIIndicatorPrev1 from '../assets/img/pdf_preview/RSIIndicator/prev1.png';
+import RSIIndicatorPrev2 from '../assets/img/pdf_preview/RSIIndicator/prev2.png';
+import RSIIndicatorPrev3 from '../assets/img/pdf_preview/RSIIndicator/prev3.png';
+import RSIIndicatorPrev4 from '../assets/img/pdf_preview/RSIIndicator/prev4.png';
+import SurveyOfPartner from './pdfs/SurveyOfPartner.pdf';
+import SurveyOfPartnerPrev1 from '../assets/img/pdf_preview/SurveyOfPartner/prev1.png';
+import SurveyOfPartnerPrev2 from '../assets/img/pdf_preview/SurveyOfPartner/prev2.png';
+import SurveyOfPartnerPrev3 from '../assets/img/pdf_preview/SurveyOfPartner/prev3.png';
+import SurveyOfPartnerPrev4 from '../assets/img/pdf_preview/SurveyOfPartner/prev4.png';
+import HighQualityClust from './pdfs/HighQualityClust.pdf';
+import HighQualityClustPrev1 from '../assets/img/pdf_preview/HighQualityClust/prev1.png';
+import HighQualityClustPrev2 from '../assets/img/pdf_preview/HighQualityClust/prev2.png';
+import HighQualityClustPrev3 from '../assets/img/pdf_preview/HighQualityClust/prev3.png';
+import HighQualityClustPrev4 from '../assets/img/pdf_preview/HighQualityClust/prev4.png';
+import MultiAgentSystem from './pdfs/MultiAgentSystem.pdf';
+import MultiAgentSystemPrev1 from '../assets/img/pdf_preview/MultiAgentSystem/prev1.png';
+import MultiAgentSystemPrev2 from '../assets/img/pdf_preview/MultiAgentSystem/prev2.png';
+import MultiAgentSystemPrev3 from '../assets/img/pdf_preview/MultiAgentSystem/prev3.png';
+import MultiAgentSystemPrev4 from '../assets/img/pdf_preview/MultiAgentSystem/prev4.png';
+import GasLiquidFlow from './pdfs/GasLiquidFlow.pdf';
+import GasLiquidFlowPrev1 from '../assets/img/pdf_preview/GasLiquidFlow/prev1.png';
+import GasLiquidFlowPrev2 from '../assets/img/pdf_preview/GasLiquidFlow/prev2.png';
+import GasLiquidFlowPrev3 from '../assets/img/pdf_preview/GasLiquidFlow/prev3.png';
+import GasLiquidFlowPrev4 from '../assets/img/pdf_preview/GasLiquidFlow/prev4.png';
+import AutomatedGen from './pdfs/AutomatedGen.pdf';
+import AutomatedGenPrev1 from '../assets/img/pdf_preview/AutomatedGen/prev1.png';
+import AutomatedGenPrev2 from '../assets/img/pdf_preview/AutomatedGen/prev2.png';
+import AutomatedGenPrev3 from '../assets/img/pdf_preview/AutomatedGen/prev3.png';
+import AutomatedGenPrev4 from '../assets/img/pdf_preview/AutomatedGen/prev4.png';
 
  
 const Publications = () => {
@@ -164,8 +239,16 @@ const Publications = () => {
                 name="Algorithmic Financial Trading with Deep Convolutional Neural Networks: Time Series to Image Conversion Approach" 
                 writers="Ömer Berat Sezer, A. Murat Ozbayoglu"
                 date="Applied Soft Computing, volume 70, September 2018, pp. 525-538" 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={ImageConversionApproach} 
+                pdflink={ImageConversionApproachPrev1} pdflink2={ImageConversionApproachPrev2} pdflink3={ImageConversionApproachPrev3} pdflink4={ImageConversionApproachPrev4}
+                abstract="Computational intelligence techniques for financial trading systems have always been quite popular. In
+                the last decade, deep learning models start getting more attention, especially within the image processing
+                community. In this study, we propose a novel algorithmic trading model CNN-TA using a 2-D convolutional neural network based on image processing properties. In order to convert financial time series
+                into 2-D images, 15 different technical indicators each with different parameter selections are utilized.
+                Each indicator instance generates data for a 15 day period. As a result, 15 × 15 sized 2-D images are constructed. Each image is then labeled as Buy, Sell or Hold depending on the hills and valleys of the original
+                time series. The results indicate that when compared with the Buy & Hold Strategy and other common
+                trading systems over a long out-of-sample period, the trained model provides better results for stocks
+                and ETFs."
             />
             <Paper 
                 name="Satellite Image Band Registration with Dynamic Time Warping and Discrete Wavelet Transform" 
@@ -197,8 +280,26 @@ const Publications = () => {
                 name="Automated Generation of Attack Graphs Using NVD" 
                 writers="M. Ugur Aksu, Kemal Bicakci, M. Hadi Dilek, A. Murat Ozbayoglu"
                 date="CODASPY '18, The 8th ACM Conference on Data and Application Security and Privacy, pp. 135-142, 19-21 March, Tempe, AZ, USA." 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={AutomatedGen} 
+                pdflink={AutomatedGenPrev1} pdflink2={AutomatedGenPrev2} pdflink3={AutomatedGenPrev3} pdflink4={AutomatedGenPrev4}
+                abstract="Today’s computer networks are prone to sophisticated multi-step,
+                multi-host attacks. Common approaches of identifying vulnerabilities and analyzing the security of such networks with naive methods such as counting the number of vulnerabilities, or examining the
+                vulnerabilities independently produces incomprehensive and limited security assessment results. On the other hand, attack graphs
+                generated from the identified vulnerabilities at a network illustrate
+                security risks via attack paths that are not apparent with the results
+                of the primitive approaches. One common technique of generating attack graphs requires well established definitions and data of
+                prerequisites and postconditions for the known vulnerabilities. A
+                number of works suggest prerequisite and postcondition categorization schemes for software vulnerabilities. However, generating
+                them in an automated way is an open issue. In this paper, we first
+                define a model that evolves over the previous works to depict the
+                requirements of exploiting vulnerabilities for generating attack
+                graphs. Then we describe and compare the results of two different
+                novel approaches (rule-based and machine learning-employed) that
+                we propose for generating attacker privilege fields as prerequisites
+                and postconditions from the National Vulnerability Database (NVD)
+                in an automated way. We observe that prerequisite and postcondition privileges can be generated with overall accuracy rates of
+                88,8 % and 95,7 % with rule-based and machine learning-employed
+                (Multilayer Perceptron) models respectively."
             />
             <Paper 
                 name="Context Aware Computing, Learning and Big Data in Internet of Things: A Survey" 
@@ -218,8 +319,21 @@ const Publications = () => {
                 name="Weather Data Analysis and Sensor Fault Detection using an Extended IoT Framework with Semantics, Big Data, and Machine Learning" 
                 writers="A.C. Onal, O.B. Sezer, M. Ozbayoglu, E. Dogdu"
                 date="IEEE International Conference on Big Data, 2017, 13-15 December, Boston, MA, USA." 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={SensorFault} 
+                pdflink={SensorFaultPrev1} pdflink2={SensorFaultPrev2} pdflink3={SensorFaultPrev3} pdflink4={SensorFaultPrev4}
+                abstract="In recent years, big data and Internet of Things
+                (IoT) implementations started getting more attention. Researchers focused on developing big data analytics solutions using
+                machine learning models. Machine learning is a rising trend
+                in this field due to its ability to extract hidden features and
+                patterns even in highly complex datasets. In this study, we used
+                our Big Data IoT Framework in a weather data analysis use
+                case. We implemented weather clustering and sensor anomaly
+                detection using a publicly available dataset. We provided the
+                implementation details of each framework layer (acquisition,
+                ETL, data processing, learning and decision) for this particular
+                use case. Our chosen learning model within the library is ScikitLearn based k-means clustering. The data analysis results indicate
+                that it is possible to extract meaningful information from a
+                relatively complex dataset using our framework."
             />
             <Paper 
                 name="Estimation of Parameters for the Free-Form Machining with Deep Neural Net" 
@@ -232,8 +346,30 @@ const Publications = () => {
                 name="A Deep Learning based Stock Trading Model with 2-D CNN Trend Detection" 
                 writers="M.U. Güdelek, S.A. Bölük, A.M. Özbayoğlu"
                 date="IEEE Computational Intelligence in Financial Engineering (IEEE CIFEr 2017) in IEEE Symposium Series on Computational Intelligence (IEEE SSCI 2017), Honolulu, HI, USA, 27 November-1 December, 2017." 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={CNNTrend} 
+                pdflink={CNNTrendPrev1} pdflink2={CNNTrendPrev2} pdflink3={CNNTrendPrev3} pdflink4={CNNTrendPrev4}
+                abstract="The success of convolutional neural networks in the
+                field of computer vision has attracted the attention of many
+                researchers from other fields. One of the research areas in
+                which neural networks is actively used is financial forecasting.
+                In this paper, we propose a novel method for predicting stock
+                price movements using CNN. To avoid the high volatility of the
+                market and to maximize the profit, ETFs are used as primary
+                financial assets. We extract commonly used trend indicators and
+                momentum indicators from financial time series data and use
+                these as our features. Adopting a sliding window approach,
+                we generate our images by taking snapshots that are bounded
+                by the window over a daily period. We then perform daily
+                predictions, namely, regression for predicting the ETF prices and
+                classification for predicting the movement of the prices on the
+                next day, which can be modified to estimate weekly or monthly
+                trends. To increase the number of images, we use numerous ETFs.
+                Finally, we evaluate our method by performing paper trading
+                and calculating the final capital. We also compare our method’s
+                performance to commonly used classical trading strategies. Our
+                results indicate that we can predict the next day’s prices with
+                72% accuracy and end up with 5:1 of our initial capital, taking
+                realistic values of transaction costs into account."
             />
             <Paper 
                 name="Quora Duplicate Query Elimination" 
@@ -273,8 +409,15 @@ const Publications = () => {
                 name="Automated Vehicle Classification with Image Processing and Computational Intelligence" 
                 writers="S.S. Sarikan, A.M. Ozbayoglu, O. Zilci"
                 date="Procedia - Computer Sciences - Complex Adaptive Systems, vol 114, pp. 515-522, 30 October-1 November, Chicago, IL, USA, 2017." 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={AutomatedVehicleClass} 
+                pdflink={AutomatedVehicleClassPrev1} pdflink2={AutomatedVehicleClassPrev2} pdflink3={AutomatedVehicleClassPrev3} pdflink4={AutomatedVehicleClassPrev4}
+                abstract="Classification of vehicles is an important part of an Intelligent Transportation System. In this study, image processing and
+                machine learning techniques are used to classify vehicles in dedicated lanes. Images containing side view profile of vehicles are
+                constructed using a commercially available light curtain. This capability makes the results robust to the variations in operational
+                and environmental conditions. Time warping is applied to compensate for speed variations in traffic. Features such as windows
+                and hollow areas are extracted to discriminate motorcycles against automobiles. The circularity and skeleton complexity values
+                are used as features for the classifier. K-nearest neighbor and decision tree are chosen as the classifier models. The proposed
+                method is evaluated on a public highway and promising classification results are achieved."
             />
             <Paper 
                 name="Feature diverse hierarchical classification of human gait with CW radar for assisted living" 
@@ -335,22 +478,80 @@ const Publications = () => {
                 name="An Extended IoT Framework with Semantics, Big Data, and Analytics" 
                 writers="O.B. Sezer, E. Dogdu, M. Ozbayoglu, A.C. Onal"
                 date="IEEE International Conference on Big Data, 2016, pp.1849-1856. 5-8 December. Washington, DC, USA." 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={ExtendedIoTFramework} 
+                pdflink={ExtendedIoTFrameworkPrev1} pdflink2={ExtendedIoTFrameworkPrev2} pdflink3={ExtendedIoTFrameworkPrev3} pdflink4={ExtendedIoTFrameworkPrev4}
+                abstract="Many experts claim that data will be the most
+                valuable commodity in the 21st century. At the same time, two of
+                the most influential components of this era, Big Data and IoT are
+                moving very fast, on a collision course with the methodologies that
+                are associated with conventional data processing and database
+                systems. As a result, new approaches like NoSQL databases,
+                distributed architectures, etc. started appearing on the stage.
+                Meanwhile, another technology, ontology and semantic data
+                processing can be a very convenient catalyzer that might assist in
+                smoothly providing this transformation process. In this paper, we
+                propose a combined framework that brings Big Data, IoT, and
+                semantic web together to build an augmented framework for this
+                new era. We not only list the components of such a system and
+                define the necessary bindings that needs to be integrated together,
+                but also provide a realistic use case that demonstrates how the
+                model can implement the desired functionality and achieve the
+                goals of such a model."
             />
             <Paper 
                 name="A Real-Time Autonomous Highway Accident Detection Model Based on Big Data Processing and Computational Intelligence" 
                 writers="M. Ozbayoglu, G. Küçükayan, E. Doğdu"
                 date="IEEE International Conference on Big Data, 2016, pp. 1807-1813. 5-8 December. Washington, DC, USA." 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={HighwayAccidentDetectionModel} 
+                pdflink={HighwayAccidentDetectionModelPrev1} pdflink2={HighwayAccidentDetectionModelPrev2} pdflink3={HighwayAccidentDetectionModelPrev3} pdflink4={HighwayAccidentDetectionModelPrev4}
+                abstract="Due to increasing urban population and growing
+                number of motor vehicles, traffic congestion is becoming a major
+                problem of the 21st century. One of the main reasons behind traffic congestion is accidents which can not only result in casualties
+                and losses for the participants, but also in wasted and lost time
+                for the others that are stuck behind the wheels. Early detection of
+                an accident can save lives, provides quicker road openings, hence
+                decreases wasted time and resources, and increases efficiency.
+                In this study, we propose a preliminary real-time autonomous
+                accident-detection system based on computational intelligence
+                techniques. Istanbul City traffic-flow data for the year 2015 from
+                various sensor locations are populated using big data processing
+                methodologies. The extracted features are then fed into a nearest
+                neighbor model, a regression tree, and a feed-forward neural
+                network model. For the output, the possibility of an occurrence
+                of an accident is predicted. The results indicate that even though
+                the number of false alarms dominates the real accident cases, the
+                system can still provide useful information that can be used for
+                status verification and early reaction to possible accidents."
             />
             <Paper 
                 name="A Survey on Semantic Web and Big Data Technologies for Social Network Analysis" 
                 writers="S. Kulcu, E. Doğdu, M. Ozbayoglu"
                 date="IEEE International Conference on Big Data, 2016, pp.1768-1777. 5-8 December. Washington, DC, USA." 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={SurveySemantic} 
+                pdflink={SurveySemanticPrev1} pdflink2={SurveySemanticPrev2} pdflink3={SurveySemanticPrev3} pdflink4={SurveySemanticPrev4}
+                abstract="Social Network Analysis (SNA) has become a very
+                important and increasingly popular topic among researchers
+                in recent years especially after emerging Semantic Web
+                and Big Data technologies. Social networking services such
+                as Facebook, Google+, Twitter, etc. provide large amounts
+                of data that can be used for social network analysis by
+                researchers. Semantic Web technology plays an important
+                role for collecting, merging, and aggregating social network
+                data from heterogeneous sources more easily, robustly and
+                in an interoperable manner. Today, data scientists use several
+                different frameworks for querying, integrating and analyzing
+                datasets located at different sources. Meanwhile, most of the big
+                social data is in unstructured or semi-structured format. Big
+                data architectures allow researchers to analyze unstructured
+                data in a time and cost-efficient way. New approaches for
+                SNA are needed to combine Semantic Web and Big Data
+                technologies in order to utilize and add capabilities to existing
+                solutions. To be able to analyze large scale social networks,
+                algorithms should have scalable designs in order to benefit
+                from the emerging Big Data technologies. This survey focuses
+                on recently developed systems for SNA and summarizes the
+                state-of-the-art technologies used by them and points out to
+                future research directions."
             />
             <Paper 
                 name="A Structurally Enhanced Fuzzy Inference System Partner Selection Technique In Forming Virtual Enterprise" 
@@ -391,8 +592,20 @@ const Publications = () => {
                 name="An ontology-based multi-agent virtual enterprise system (OMAVE): part 1: domain modelling and rule management" 
                 writers="Bahram Lotfi Sadigh, Hakki Ozgur Unver, Shahrzad Nikghadam, Erdogan Dogdu, A. Murat Ozbayoglu and S. Engin Kilic"
                 date="International Journal of Computer Integrated Manufacturing, 19 Feb 2016" 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={OntologyBased1} 
+                pdflink={OntologyBased1Prev1} pdflink2={OntologyBased1Prev2} pdflink3={OntologyBased1Prev3} pdflink4={OntologyBased1Prev4}
+                abstract="New advancements in computers and information technologies have yielded novel ideas to create more effective virtual
+                collaboration platforms for multiple enterprises. Virtual enterprise (VE) is a collaboration model between multiple
+                independent business partners in a value chain and is particularly suited to small and medium-sized enterprises (SMEs).
+                The most challenging problem in implementing VE systems is ineffcient and inflexible data storage and management
+                techniques for VE systems. In this research, an ontology-based multi-agent virtual enterprise (OMAVE) system is proposed
+                to help SMEs shift from the classical trend of manufacturing part pieces to producing high-value-added, high-tech,
+                innovative products. OMAVE targets improvement in the flexibility of VE business processes in order to enhance
+                integration with available enterprise resource planning (ERP) systems. The architecture of OMAVE supports the requisite
+                flexibility and enhances the reusability of the data and knowledge created in a VE system. In this article, a detailed
+                description of system features along with the rule-based reasoning and decision support capabilities of OMAVE system are
+                presented. To test and verify the functionality and operation of this system, a sample product was manufactured using
+                OMAVE applications and tools with the contribution of three SMEs."
             />
             <Paper 
                 name="Evaluation of Partner Companies based on Fuzzy Inference System for Establishing Virtual Enterprise Consortium" 
@@ -409,25 +622,68 @@ const Publications = () => {
                 pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
             />
             <Paper 
-                name="A survey of partner selection methodologies for virtual enterprises and development of a goal programming– based approach" 
+                name="A survey of partner selection methodologies for virtual enterprises and development of a goal programming–based approach" 
                 writers="S. Nikghadam, B.Lotfi Sadigh, A.M. Özbayoğlu, H.Ö. Ünver and S. E. Kılıç"
                 date="International Journal of Advanced Manufacturing Technology, pp. 1-22, 12 Nov 2015" 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={SurveyOfPartner} 
+                pdflink={SurveyOfPartnerPrev1} pdflink2={SurveyOfPartnerPrev2} pdflink3={SurveyOfPartnerPrev3} pdflink4={SurveyOfPartnerPrev4}
+                abstract="A virtual enterprise (VE) is a platform that enables
+                dynamic collaboration among manufacturers and service providers with complementary capabilities in order to enhance
+                their market competitiveness. The performance of a VE as a
+                system depends highly on the performance of its partner enterprises. Hence, choosing an appropriate methodology for
+                evaluating and selecting partners is a crucial step toward creating a successful VE. In this paper, we begin by presenting an
+                extensive review of articles that address the VE partner selection problem. To fill a significant research gap, we develop a
+                new goal programming (GP)–based approach that can be applied in extreme bidding conditions such as tight delivery
+                timelines for large demand volumes. In this technique, fuzzy
+                analytic hierarchy process (F-AHP) is used to determine customer preferences for four main criteria: proposed unit price,
+                on-time delivery reliability, enterprises’ past performance, and
+                service quality. These weights are then incorporated into the
+                GP model to evaluate bidders based on customers’ preferences and goals. We present a case study in which we implement the F-AHP-GP technique and verify the model’s applicability, as it provides a more flexible platform for matching
+                customers’ preferences."
             />
             <Paper 
                 name="Clustering Quality Improvement of K-means Using a Hybrid Evolutionary Model" 
                 writers="J. Karimov, M. Ozbayoglu"
                 date="Procedia - Computer Sciences - Complex Adaptive Systems, Vol. 61, pp.38-45. 2-4 November. San Jose, CA, USA." 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={ClusteringQualityImp} 
+                pdflink={ClusteringQualityImpPrev1} pdflink2={ClusteringQualityImpPrev2} pdflink3={ClusteringQualityImpPrev3} pdflink4={ClusteringQualityImpPrev4}
+                abstract="Choosing good candidates for the initial centroid selection process for compact clustering algorithms, such as k-means, is essential
+                for clustering quality and performance. In this study, a novel hybrid evolutionary model for k-means clustering (HE-kmeans) is
+                proposed. This model uses meta-heuristic methods to identify the “good candidates” for initial centroid selection in k-means
+                clustering method. The results indicate that the clustering quality is improved by approximately 30% compared to the standard
+                random selection of initial centroids. We also experimentally compare our method with the other heuristics proposed for initial
+                centroid selection and the experimental results show that our method performs better in most cases. "
             />
             <Paper 
                 name="High quality clustering of big data and solving empty-clustering problem with an evolutionary hybrid algorithm" 
                 writers="J. Karimov, M. Ozbayoglu"
                 date="IEEE International Conference on Big Data, 2015, 29 October-1 November. Santa Clara, CA, USA." 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={HighQualityClust} 
+                pdflink={HighQualityClustPrev1} pdflink2={HighQualityClustPrev2} pdflink3={HighQualityClustPrev3} pdflink4={HighQualityClustPrev4}
+                abstract="Achieving high quality clustering is one of the
+                most well-known problems in data mining. k-means is by far
+                the most commonly used clustering algorithm. It converges
+                fairly quickly, but achieving a good solution is not guaranteed.
+                The clustering quality is highly dependent on the selection of
+                the initial centroid selections. Moreover, when the number of
+                clusters increases, it starts to suffer from ”empty clustering”.
+                The motivation in this study is two-fold. We not only aim at
+                improving the k-means clustering quality, but at the same time
+                not being effected by the empty cluster issue. For achieving
+                this purpose, we developed a hybrid model, H(EC)
+                2S, Hybrid Evolutionary Clustering with Empty Clustering Solution.
+                Firstly, it selects representative points to eliminate Empty
+                Clustering problem. Then, the hybrid algorithm uses only
+                these points during centroid selection. The proposed model
+                combines Fireworks and Cuckoo-search based evolutionary
+                algorithm with some centroid-calculation heuristics. The model
+                is implemented using a Hadoop Mapreduce algorithm for
+                achieving scalability when faced with a Big Data clustering
+                problem. The advantages of the developed model is particularly
+                attractive when the amount, dimensionality and number of
+                cluster parameters tend to increase. The results indicate that
+                considerable clustering quality performance improvement is
+                achieved using the proposed model."
             />
             <Paper 
                 name="Generic Menu Optimization for Multi-profile Customer Systems" 
@@ -517,15 +773,33 @@ const Publications = () => {
                 name="A Multi-agent System Model for Partner Selection Process in Virtual Enterprise." 
                 writers="Sadigh, B Lotfi, F Arikan, Ozbayoglu, AM, HO Unver, and SE Kilic."
                 date="Procedia Computer Science, Complex Adaptive Systems, CAS 2014. Vol. 36, pp. 367–372." 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={MultiAgentSystem} 
+                pdflink={MultiAgentSystemPrev1} pdflink2={MultiAgentSystemPrev2} pdflink3={MultiAgentSystemPrev3} pdflink4={MultiAgentSystemPrev4}
+                abstract="Virtual Enterprise (VE) is a collaboration model between multiple business partners in a value chain. VE information system deals
+                with highly dynamic information from heterogeneous data sources. In order to manage and store dynamic VE information in the
+                database, an ontology based VE model has been developed. To select winner enterprises in VE, a Multi Agent System (MAS) has
+                been developed. Communication and data transition among agents and system entities are based on defined rules in VE ontology
+                model. One of the most important contributions of agents in VE system is in partner selection step of VE formation phase. In this
+                step several agents with different goals and strategies are collaborating and competing each other to win the negotiation procedure
+                or maximize the profit for their assigned enterprise. Different strategies are developed for the agents depending on their appetite
+                for winning the auction against maximizing the profit. Several simulations were run and the results are stored. These results are fed
+                into a neural network in order to predict which enterprise will win the auction and what will be the profit margin. The motivation
+                is to provide a forecasting agent for the customers about the outcomes of the auctions so that they can plan ahead and take the
+                necessary action. Early results indicate such simulated multi-agent VE formations can be used in real systems."
             />
             <Paper 
                 name="TN-RSI: Trend-normalized RSI Indicator for Stock Trading Systems with Evolutionary Computation." 
                 writers="Sahin, Ugur and Ozbayoglu, A Murat."
                 date="Procedia Computer Science, Complex Adaptive Systems, CAS 2014. Vol. 36, pp. 240–245." 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={RSIIndicator} 
+                pdflink={RSIIndicatorPrev1} pdflink2={RSIIndicatorPrev2} pdflink3={RSIIndicatorPrev3} pdflink4={RSIIndicatorPrev4}
+                abstract="RSI is a commonly used indicator preferred by stock traders. However, even though it works well when the market is trendless, during bull or bear
+                market conditions (when there is a clear trend) its performance degrades. In this study, we developed a trading model using a modified RSI using
+                trend-removed stock data. The model has several parameters including, the trend detection period, RSI buy-sell trigger levels and periods. These
+                parameters are optimized using genetic algorithms; then the trading performance is compared against B&H and standard RSI indicator usage. 9
+                different ETFs are selected for evaluating trading performance. The results indicate there is a performance improvement both in profit and success
+                rates using this new model. As future work, other indicators might be modelled in a similar fashion in order to see if it is possible to find one
+                indicator that can work under any market condition."
             />
             <Paper 
                 name="Three phase flow characteristics in Inclined Eccentric Annuli." 
@@ -566,8 +840,21 @@ const Publications = () => {
                 name="Gas-Liquid Flow Through Horizontal Eccentric Annuli: CFD and Experiments Compared" 
                 writers="Sorgun, Mehmet, Osgouei, Reza E, Ozbayoglu, M Evren and Ozbayoglu, A Murat."
                 date="Energy Sources, Part A: Recovery, Utilization, and Environmental Effects 35.10, pp. 891-899." 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={GasLiquidFlow} 
+                pdflink={GasLiquidFlowPrev1} pdflink2={GasLiquidFlowPrev2} pdflink3={GasLiquidFlowPrev3} pdflink4={GasLiquidFlowPrev4}
+                abstract="Although flow of two-phase fluids is studied in detailed for
+                pipes, there exists a lack of information about aerated fluid flow
+                behavior inside a wellbore. This study aims to simulate gasliquid flow inside horizontal eccentric annulus using an
+                Eulerian- Eulerian computational fluid dynamics (CFD) model
+                for two-phase flow patterns i.e., dispersed bubble, dispersed
+                annular, plug, slug, churn, wavy annular. To perform
+                experiments using air-water mixtures for various in-situ air and
+                water flow rates, a flow loop was constructed. A digital high
+                speed camera is used for recording each test dynamically for
+                identification of the liquid holdup and flow patterns. Results
+                showed that CFD model predicts frictional pressure losses with
+                an error less than 20% for all two-phase flow patterns when
+                compared with experimental data."
             />
             <Paper 
                 name="A Two-Level Cascade Evolutionary Computation Based Covered Call Trading Model." 
