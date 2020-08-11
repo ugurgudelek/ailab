@@ -11,12 +11,12 @@ const Paper = (props) => {
             </div>
             <div className="card-body">{props.date}</div>
             <div className="row mb-3">
-                <img className="w-20 center border height-1" src={props.pdflink2} alt=""/>
-                <img className="w-20 center border height-1" src={props.pdflink3} alt=""/>
-                <img className="w-20 center border height-1" src={props.pdflink4} alt=""/>
-                <img className="w-20 center border height-1" src={props.pdflink} alt=""/>
+                <img className="w-20-paper center border" src={props.pdflink} alt=""/>
+                <img className="w-20-paper center border" src={props.pdflink2} alt=""/>
+                <img className="w-20-paper center border" src={props.pdflink3} alt=""/>
+                <img className="w-20-paper center border" src={props.pdflink4} alt=""/>
             </div>
-            <div className="card-body bg-paper-bottom">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Qui adipisci reprehenderit, nihil sunt atque explicabo iure quaerat tenetur, nemo molestiae repudiandae consequatur quod voluptatem architecto, id facilis! Magnam, nihil in.lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint adipisci cumque, numquam ipsam eius inventore illum non laudantium sed ab doloribus quos voluptas ipsa esse fuga quae, facere accusantium facilis! Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, officiis nemo. Magni quidem quod neque eius dolorum nobis. Minima exercitationem illum explicabo necessitatibus consectetur quibusdam sunt cum ratione eaque rem!</div>
+            <div className="card-body bg-paper-bottom">{props.abstract}</div>
         </div>
     );
 }
