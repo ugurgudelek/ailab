@@ -4,6 +4,37 @@ import Paper from './Paper';
 import Pdf from './pdfs/sample.pdf';
 import PdfPrev from '../assets/img/pdf_preview/pdfsample.png';
 import PdfPrev2 from '../assets/img/pdf_preview/pdfsample2.png';
+import StockTradingSystem from './pdfs/1712.09592.pdf';
+import StockTradingSystemPrev1 from '../assets/img/pdf_preview/StockTradingSystem/prev1.png';
+import StockTradingSystemPrev2 from '../assets/img/pdf_preview/StockTradingSystem/prev2.png';
+import StockTradingSystemPrev3 from '../assets/img/pdf_preview/StockTradingSystem/prev3.png';
+import StockTradingSystemPrev4 from '../assets/img/pdf_preview/StockTradingSystem/prev4.png';
+import AlgorithmicFinancialTrading from './pdfs/1560578401_E11311-e-tarjome.pdf';
+import AlgorithmicFinancialTradingPrev1 from '../assets/img/pdf_preview/AlgorithmicFinancialTrading/prev1.png';
+import AlgorithmicFinancialTradingPrev2 from '../assets/img/pdf_preview/AlgorithmicFinancialTrading/prev2.png';
+import AlgorithmicFinancialTradingPrev3 from '../assets/img/pdf_preview/AlgorithmicFinancialTrading/prev3.png';
+import AlgorithmicFinancialTradingPrev4 from '../assets/img/pdf_preview/AlgorithmicFinancialTrading/prev4.png';
+import ConvolutionalAutoencoder from './pdfs/Seyfioglu_CAE_TAES2018.pdf';
+import ConvolutionalAutoencoderPrev1 from '../assets/img/pdf_preview/ConvolutionalAutoencoder/prev1.png';
+import ConvolutionalAutoencoderPrev2 from '../assets/img/pdf_preview/ConvolutionalAutoencoder/prev2.png';
+import ConvolutionalAutoencoderPrev3 from '../assets/img/pdf_preview/ConvolutionalAutoencoder/prev3.png';
+import ConvolutionalAutoencoderPrev4 from '../assets/img/pdf_preview/ConvolutionalAutoencoder/prev4.png';
+import MicroDoppler from './pdfs/micro-doppler.pdf';
+import MicroDopplerPrev1 from '../assets/img/pdf_preview/MicroDoppler/prev1.png';
+import MicroDopplerPrev2 from '../assets/img/pdf_preview/MicroDoppler/prev2.png';
+import MicroDopplerPrev3 from '../assets/img/pdf_preview/MicroDoppler/prev3.png';
+import MicroDopplerPrev4 from '../assets/img/pdf_preview/MicroDoppler/prev4.png';
+import BurnedAreainForestFires from './pdfs/BurnedAreainForestFires.pdf';
+import BurnedAreainForestFiresPrev1 from '../assets/img/pdf_preview/BurnedAreainForestFires/prev1.png';
+import BurnedAreainForestFiresPrev2 from '../assets/img/pdf_preview/BurnedAreainForestFires/prev2.png';
+import BurnedAreainForestFiresPrev3 from '../assets/img/pdf_preview/BurnedAreainForestFires/prev3.png';
+import BurnedAreainForestFiresPrev4 from '../assets/img/pdf_preview/BurnedAreainForestFires/prev4.png';
+import StockTradingSystem2 from './pdfs/1712.09592.pdf';
+import StockTradingSystem2Prev1 from '../assets/img/pdf_preview/StockTradingSystem2/prev1.png';
+import StockTradingSystem2Prev2 from '../assets/img/pdf_preview/StockTradingSystem2/prev2.png';
+import StockTradingSystem2Prev3 from '../assets/img/pdf_preview/StockTradingSystem2/prev3.png';
+import StockTradingSystem2Prev4 from '../assets/img/pdf_preview/StockTradingSystem2/prev4.png';
+
  
 const Publications = () => {
     return (
@@ -55,8 +86,16 @@ const Publications = () => {
                 name="Financial Trading Model with Stock Bar Image Time Series with Deep Convolutional Neural Networks" 
                 writers="Ömer Berat Sezer, A. Murat Ozbayoglu"
                 date="Intelligent Automation and Soft Computing, in press" 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={AlgorithmicFinancialTrading} 
+                pdflink={AlgorithmicFinancialTradingPrev1} pdflink2={AlgorithmicFinancialTradingPrev2} pdflink3={AlgorithmicFinancialTradingPrev3} pdflink4={AlgorithmicFinancialTradingPrev4}
+                abstract="Computational intelligence techniques for financial trading systems have always been quite popular. In
+                the last decade, deep learning models start getting more attention, especially within the image processing
+                community. In this study, we propose a novel algorithmic trading model CNN-TA using a 2-D convolutional neural network based on image processing properties. In order to convert financial time series
+                into 2-D images, 15 different technical indicators each with different parameter selections are utilized.
+                Each indicator instance generates data for a 15 day period. As a result, 15 × 15 sized 2-D images are constructed. Each image is then labeled as Buy, Sell or Hold depending on the hills and valleys of the original
+                time series. The results indicate that when compared with the Buy & Hold Strategy and other common
+                trading systems over a long out-of-sample period, the trained model provides better results for stocks
+                and ETFs."
             />
             <Paper 
                 name="Neural Network based Instant Parameter Prediction for Wireless Sensor Network Optimization Models" 
@@ -139,8 +178,20 @@ const Publications = () => {
                 name="Deep Convolutional Autoencoder for Radar-Based Classification of Similar Aided and Unaided Human Activities" 
                 writers="M.S. Seyfioğlu, A.M. Ozbayoglu, S.Z. Gürbüz"
                 date="IEEE Transactions on Aerospace and Electronic Systems, volume 54, Issue 4, August 2018, pp. 1709-1723" 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={ConvolutionalAutoencoder} 
+                pdflink={ConvolutionalAutoencoderPrev1} pdflink2={ConvolutionalAutoencoderPrev2} pdflink3={ConvolutionalAutoencoderPrev3} pdflink4={ConvolutionalAutoencoderPrev4}
+                abstract="Radar-based activity recognition is a problem that has been of
+                great interest due to applications such as border control and security, pedestrian identification for automotive safety, and remote
+                health monitoring. This paper seeks to show the efficacy of microDoppler analysis to distinguish even those gaits whose micro-Doppler
+                signatures are not visually distinguishable. Moreover, a three-layer,
+                deep convolutional autoencoder (CAE) is proposed, which utilizes
+                unsupervised pretraining to initialize the weights in the subsequent
+                convolutional layers. This architecture is shown to be more effective
+                than other deep learning architectures, such as convolutional neural
+                networks and autoencoders, as well as conventional classifiers employing predefined features, such as support vector machines (SVM),
+                random forest, and extreme gradient boosting. Results show the performance of the proposed deep CAE yields a correct classification rate
+                of 94.2% for micro-Doppler signatures of 12 different human activities measured indoors using a 4 GHz continuous wave radar—17.3%
+                improvement over SVM."
             />
             <Paper 
                 name="Automated Generation of Attack Graphs Using NVD" 
@@ -209,8 +260,14 @@ const Publications = () => {
                 name="A Deep Neural-Network Based Stock Trading System Based on Evolutionary Optimized Technical Analysis Parameters" 
                 writers="O.B. Sezer, M. Ozbayoglu, E. Dogdu"
                 date="Procedia - Computer Sciences - Complex Adaptive Systems, vol 114, pp. 473-480, 30 October-1 November, Chicago, IL, USA, 2017." 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={StockTradingSystem2} 
+                pdflink={StockTradingSystem2Prev1} pdflink2={StockTradingSystem2Prev2} pdflink3={StockTradingSystem2Prev3} pdflink4={StockTradingSystem2Prev4}
+                abstract="In this study, we propose a stock trading system based on optimized technical analysis parameters for creating buy-sell points
+                using genetic algorithms. The model is developed utilizing Apache Spark big data platform. The optimized parameters are then
+                passed to a deep MLP neural network for buy-sell-hold predictions. Dow 30 stocks are chosen for model validation. Each Dow
+                stock is trained separately using daily close prices between 1996-2016 and tested between 2007-2016. The results indicate that
+                optimizing the technical indicator parameters not only enhances the stock trading performance but also provides a model that
+                might be used as an alternative to Buy and Hold and other standard technical analysis models."
             />
             <Paper 
                 name="Automated Vehicle Classification with Image Processing and Computational Intelligence" 
@@ -244,15 +301,28 @@ const Publications = () => {
                 name="Deep learning of micro-Doppler features for aided and unaided gait recognition" 
                 writers="Mehmet Saygın Seyfioğlu, Sevgi Zübeyde Gürbüz, Ahmet Murat Özbayoğlu, Melda Yüksel"
                 date="IEEE 2017 Radar Conference, pp. 1125-1130. 8-12 May. Seattle, WA, USA, 2017." 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={MicroDoppler} 
+                pdflink={MicroDopplerPrev1} pdflink2={MicroDopplerPrev2} pdflink3={MicroDopplerPrev3} pdflink4={MicroDopplerPrev4}
+                abstract="Remote health monitoring is a topic that has
+                gained increased interest as a way to improve the quality and
+                reduce costs of health care, especially for the elderly. Falling is
+                one of the leading causes for injury and death among the
+                elderly, and gait recognition can be used to detect and monitor
+                neuromuscular diseases as well as emergency events such as
+                heart attack and seizures. In this work, the potential for radar
+                to discriminate a large number of classes of human aided and
+                unaided motion is demonstrated. Deep learning of microDoppler features is used with a 3-layer auto-encoder structure
+                to achieve 89% correct classification, a 17% improvement in
+                performance over the benchmark support vector machine
+                classifier supplied with 127 pre-defined features."
             />
             <Paper 
                 name="An Artificial Neural Network-based Stock Trading System Using Technical Analysis and Big Data Framework" 
                 writers="O.B. Sezer, M. Ozbayoglu, E. Dogdu"
                 date="ACM Southeast Conference, ACMSE 2017, 13-15 April, Kennesaw State University, GA, USA." 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={StockTradingSystem} 
+                pdflink={StockTradingSystemPrev1} pdflink2={StockTradingSystemPrev2} pdflink3={StockTradingSystemPrev3} pdflink4={StockTradingSystemPrev4}
+                abstract="In this paper, a neural network-based stock price prediction and trading system using technical analysis indicators is presented. The model developed first converts the financial time series data into a series of buy-sell-hold trigger signals using the most commonly preferred technical analysis indicators. Then, a Multilayer Perceptron (MLP) artificial neural network (ANN) model is trained in the learning stage on the daily stock prices between 1997 and 2007 for all of the Dow30 stocks. Apache Spark big data framework is used in the training stage. The trained model is then tested with data from 2007 to 2017. The results indicate that by choosing the most appropriate technical indicators, the neural network model can achieve comparable results against the Buy and Hold strategy in most of the cases. Furthermore, fine tuning the technical indicators and/or optimization strategy can enhance the overall trading performance."
             />
             <Paper 
                 name="An ontology-based multi-agent virtual enterprise system (OMAVE): part 2: partner selection" 
@@ -517,8 +587,18 @@ const Publications = () => {
                 name="Estimation of the Burned Area in Forest Fires Using Computational Intelligence Techniques." 
                 writers="Özbayoglu, A Murat and Recep Bozer."
                 date="Procedia Computer Science, Complex Adaptive Systems, CAS 2012. Vol. 12, pp. 282–287." 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={BurnedAreainForestFires} 
+                pdflink={BurnedAreainForestFiresPrev1} pdflink2={BurnedAreainForestFiresPrev2} pdflink3={BurnedAreainForestFiresPrev3} pdflink4={BurnedAreainForestFiresPrev4}
+                abstract="Forest fires have environmental impacts that create economic problems as well as ecological damage. Developing a means to
+                predict the possible size of a fire shortly after it first breaks out has the potential to guide proper resource allocation for improved
+                fire control and was the main motivation of this research. In this study, the burned areas resulting from possible forest fires were
+                estimated using historical forest fire records which contained parameters like geographical conditions of the existing
+                environment, date and time when the fire broke out, meteorological data such as temperature, humidity and wind speed, and the
+                type and number of trees in a unit area. The data was from the Department of Forestry in Turkey and contained 7,920 forest fire
+                records from 2000 and 2009. The output from the estimation methods implemented in this work predicted the size of the area lost
+                due to the fire and the corresponding fire size, i.e. big, medium, or small fire. Some of the estimation methods investigated were
+                Multilayer Perceptron (MLP), Radial Basis Function Networks (RBFN), Support Vector Machines (SVM) and fuzzy logic. The
+                results of these estimates are presented and compared to similar studies in literature."
             />
             <Paper 
                 name="Comparison of Gross Calorific Value Estimation of Turkish Coals using Regression and Neural Networks Techniques." 
