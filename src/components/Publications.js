@@ -109,6 +109,21 @@ import AutomatedGenPrev1 from '../assets/img/pdf_preview/AutomatedGen/prev1.png'
 import AutomatedGenPrev2 from '../assets/img/pdf_preview/AutomatedGen/prev2.png';
 import AutomatedGenPrev3 from '../assets/img/pdf_preview/AutomatedGen/prev3.png';
 import AutomatedGenPrev4 from '../assets/img/pdf_preview/AutomatedGen/prev4.png';
+import SmartGridApp from './pdfs/SmartGridApp.pdf';
+import SmartGridAppPrev1 from '../assets/img/pdf_preview/SmartGridApp/prev1.png';
+import SmartGridAppPrev2 from '../assets/img/pdf_preview/SmartGridApp/prev2.png';
+import SmartGridAppPrev3 from '../assets/img/pdf_preview/SmartGridApp/prev3.png';
+import SmartGridAppPrev4 from '../assets/img/pdf_preview/SmartGridApp/prev4.png';
+import OntologyBased2 from './pdfs/OntologyBased2.pdf';
+import OntologyBased2Prev1 from '../assets/img/pdf_preview/OntologyBased2/prev1.png';
+import OntologyBased2Prev2 from '../assets/img/pdf_preview/OntologyBased2/prev2.png';
+import OntologyBased2Prev3 from '../assets/img/pdf_preview/OntologyBased2/prev3.png';
+import OntologyBased2Prev4 from '../assets/img/pdf_preview/OntologyBased2/prev4.png';
+import OptionPairOpt from './pdfs/OptionPairOpt.pdf';
+import OptionPairOptPrev1 from '../assets/img/pdf_preview/OptionPairOpt/prev1.png';
+import OptionPairOptPrev2 from '../assets/img/pdf_preview/OptionPairOpt/prev2.png';
+import OptionPairOptPrev3 from '../assets/img/pdf_preview/OptionPairOpt/prev3.png';
+import OptionPairOptPrev4 from '../assets/img/pdf_preview/OptionPairOpt/prev4.png';
 
  
 const Publications = () => {
@@ -471,8 +486,21 @@ const Publications = () => {
                 name="An ontology-based multi-agent virtual enterprise system (OMAVE): part 2: partner selection" 
                 writers="Bahram Lotfi Sadigh, Shahrzad Nikghadam, A. Murat Ozbayoglu, Hakki Ozgur Unver, Erdogan Dogdu and S. Engin Kilic"
                 date="International Journal of Computer Integrated Manufacturing, 31 January 2017" 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={OntologyBased2} 
+                pdflink={OntologyBased2Prev1} pdflink2={OntologyBased2Prev2} pdflink3={OntologyBased2Prev3} pdflink4={OntologyBased2Prev4}
+                abstract="A virtual enterprise (VE) is a collaboration model between multiple business partners in a value chain. The VE model is
+                particularly feasible and appropriate for small- and medium-sized enterprises (SMEs) and industrial parks containing
+                multiple SMEs that have different vertical competencies. The VE consortium’s success highly depends on its members.
+                Therefore, it is crucial to select the most appropriate enterprises when forming a VE consortium. In this study, a new multiagent hybrid partner selection algorithm is developed for application in the development of an ontology-based multi-agent
+                virtual enterprise (OMAVE) system. In this platform, the agent’s interactions are supported by agent ontology, which
+                provides concepts, properties and all message formats for the agents. Different types of agents collaborate and compete with
+                each other so that unqualified or inefficient enterprises are eliminated from the enterprise pool. Only the remaining
+                enterprises would be allowed to enter the negotiation process and propose in the bidding. The agent-based auctioning
+                platform is coupled with a fuzzy–AHP–TOPSIS algorithm to evaluate partners based on their proposals and background.
+                Accordingly, the winning enterprise for each task is identified and the whole project can be accomplished by assigning tasks
+                to the responsible partners. To test and verify the functionality of the developed OMAVE system, a sample module using
+                OMAVE applications and tools was manufactured. The last section of this paper presents the results of this case study,
+                which validate the applicability of the proposed technique."
             />
             <Paper 
                 name="An Extended IoT Framework with Semantics, Big Data, and Analytics" 
@@ -738,8 +766,19 @@ const Publications = () => {
                 name="Developing a Two Level Options Trading Strategy Based on Option Pair Optimization of Spread Strategies with Evolutionary Algorithms." 
                 writers="Ucar, I., Ozbayoglu, M., and M. Ucar."
                 date="IEEE Congress on Evolutionary Computation, CEC 2015. May 25-28. Sendai, Japan." 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={OptionPairOpt} 
+                pdflink={OptionPairOptPrev1} pdflink2={OptionPairOptPrev2} pdflink3={OptionPairOptPrev3} pdflink4={OptionPairOptPrev4}
+                abstract="In this study, a two level options trading strategy
+                is modelled and optimized with Genetic Algorithms and Particle
+                Swarm Optimization for profit maximization. In the first level,
+                the trend is found and in the second level, options trading
+                strategies for the particular trend are determined. The strike
+                prices and expiration dates of the traded options are optimized
+                and tested on 5 different Exchange Traded Funds (ETFs) (DIA,
+                IWM, SPY, XLE, XLF). The performance of the proposed model
+                is compared with Buy and Hold and commonly used technical
+                analysis indicators and the results indicate using optimized
+                options increased the overall profit with less drawdown risk."
             />
             <Paper 
                 name="Finansal Islemler için Evrimsel Hesaplamalar yoluyla Egilimden Arındırılmıs Bagıl Güç Endeksi Göstergesi." 
@@ -752,8 +791,25 @@ const Publications = () => {
                 name="Ontology-based Data Modelling and Decision Support in Smart Grid Applications." 
                 writers="Dogdu, Erdogan, A. Murat Özbayoglu, Okan Benli, Hülya Erdener Akınç, Erdeniz Erol, Tugrul Atasoy, Ozan Gurec, and Özden Erçin."
                 date="Proc. of the 2014 IEEE International Conference on Intelligent Energy and Power Systems. IEEE. June 2-6, 2014, Kyiv, Ukraine." 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={SmartGridApp} 
+                pdflink={SmartGridAppPrev1} pdflink2={SmartGridAppPrev2} pdflink3={SmartGridAppPrev3} pdflink4={SmartGridAppPrev4}
+                abstract="Conventional electricity distribution grids are
+                getting smarter by coupling operation technologies with
+                advanced information and communication technologies (ICT).
+                This provides a better, reliable, cost effective and efficient service
+                to the consumer while requiring an immense two way data
+                transfer between consumer and distribution service operator
+                (DSO). This paper gives a brief summary of the current situation
+                of DSOs in Turkey after the privatization of the market and also
+                the state of operational technologies (OT) in use. The integration
+                of OT with ICT is the first step in building a smart grid, and the
+                decision support systems (DSS) are becoming crucial in this
+                integration and operational effectiveness. A major component in
+                the smart grid integration efforts is a common information model
+                as pointed out in earlier work. We restate the case of ontologies
+                in information modeling towards building a smart grid and
+                present the requirements for using ontologies in smart grid
+                information systems and DSSs."
             />
             <Paper 
                 name="Conceptualization of a Web-based Software Platform that enables Clean Production and Industrial Symbiosis." 
