@@ -139,6 +139,107 @@ import CoalGasificationPrev1 from '../assets/img/pdf_preview/CoalGasification/pr
 import CoalGasificationPrev2 from '../assets/img/pdf_preview/CoalGasification/prev2.png';
 import CoalGasificationPrev3 from '../assets/img/pdf_preview/CoalGasification/prev3.png';
 import CoalGasificationPrev4 from '../assets/img/pdf_preview/CoalGasification/prev4.png';
+import AnomalyDetect from './pdfs/AnomalyDetect.pdf';
+import AnomalyDetectPrev1 from '../assets/img/pdf_preview/AnomalyDetect/prev1.png';
+import AnomalyDetectPrev2 from '../assets/img/pdf_preview/AnomalyDetect/prev2.png';
+import AnomalyDetectPrev3 from '../assets/img/pdf_preview/AnomalyDetect/prev3.png';
+import AnomalyDetectPrev4 from '../assets/img/pdf_preview/AnomalyDetect/prev4.png';
+import CustomersType from './pdfs/CustomersType.pdf';
+import CustomersTypePrev1 from '../assets/img/pdf_preview/CustomersType/prev1.png';
+import CustomersTypePrev2 from '../assets/img/pdf_preview/CustomersType/prev2.png';
+import CustomersTypePrev3 from '../assets/img/pdf_preview/CustomersType/prev3.png';
+import CustomersTypePrev4 from '../assets/img/pdf_preview/CustomersType/prev4.png';
+import CentroidCalc from './pdfs/CentroidCalc.pdf';
+import CentroidCalcPrev1 from '../assets/img/pdf_preview/CentroidCalc/prev1.png';
+import CentroidCalcPrev2 from '../assets/img/pdf_preview/CentroidCalc/prev2.png';
+import CentroidCalcPrev3 from '../assets/img/pdf_preview/CentroidCalc/prev3.png';
+import CentroidCalcPrev4 from '../assets/img/pdf_preview/CentroidCalc/prev4.png';
+import ModularIntelligentServer from './pdfs/ModularIntelligentServer.pdf';
+import ModularIntelligentServerPrev1 from '../assets/img/pdf_preview/ModularIntelligentServer/prev1.png';
+import ModularIntelligentServerPrev2 from '../assets/img/pdf_preview/ModularIntelligentServer/prev2.png';
+import ModularIntelligentServerPrev3 from '../assets/img/pdf_preview/ModularIntelligentServer/prev3.png';
+import ModularIntelligentServerPrev4 from '../assets/img/pdf_preview/ModularIntelligentServer/prev4.png';
+import LoadAndPv from './pdfs/LoadAndPv.pdf';
+import LoadAndPvPrev1 from '../assets/img/pdf_preview/LoadAndPv/prev1.png';
+import LoadAndPvPrev2 from '../assets/img/pdf_preview/LoadAndPv/prev2.png';
+import LoadAndPvPrev3 from '../assets/img/pdf_preview/LoadAndPv/prev3.png';
+import LoadAndPvPrev4 from '../assets/img/pdf_preview/LoadAndPv/prev4.png';
+import EstimationOfParameters from './pdfs/EstimationOfParameters.pdf';
+import EstimationOfParametersPrev1 from '../assets/img/pdf_preview/EstimationOfParameters/prev1.png';
+import EstimationOfParametersPrev2 from '../assets/img/pdf_preview/EstimationOfParameters/prev2.png';
+import EstimationOfParametersPrev3 from '../assets/img/pdf_preview/EstimationOfParameters/prev3.png';
+import EstimationOfParametersPrev4 from '../assets/img/pdf_preview/EstimationOfParameters/prev4.png';
+import NoteAndTimbre from './pdfs/NoteAndTimbre.pdf';
+import NoteAndTimbrePrev1 from '../assets/img/pdf_preview/NoteAndTimbre/prev1.png';
+import NoteAndTimbrePrev2 from '../assets/img/pdf_preview/NoteAndTimbre/prev2.png';
+import NoteAndTimbrePrev3 from '../assets/img/pdf_preview/NoteAndTimbre/prev3.png';
+import NoteAndTimbrePrev4 from '../assets/img/pdf_preview/NoteAndTimbre/prev4.png';
+import WaterGasShiftReactor from './pdfs/WaterGasShiftReactor.pdf';
+import WaterGasShiftReactorPrev1 from '../assets/img/pdf_preview/WaterGasShiftReactor/prev1.png';
+import WaterGasShiftReactorPrev2 from '../assets/img/pdf_preview/WaterGasShiftReactor/prev2.png';
+import WaterGasShiftReactorPrev3 from '../assets/img/pdf_preview/WaterGasShiftReactor/prev3.png';
+import WaterGasShiftReactorPrev4 from '../assets/img/pdf_preview/WaterGasShiftReactor/prev4.png';
+import WhyTheNames from './pdfs/WhyTheNames.pdf';
+import WhyTheNamesPrev1 from '../assets/img/pdf_preview/WhyTheNames/prev1.png';
+import WhyTheNamesPrev2 from '../assets/img/pdf_preview/WhyTheNames/prev2.png';
+import WhyTheNamesPrev3 from '../assets/img/pdf_preview/WhyTheNames/prev3.png';
+import WhyTheNamesPrev4 from '../assets/img/pdf_preview/WhyTheNames/prev4.png';
+import ThreePhaseFlow from './pdfs/ThreePhaseFlow.pdf';
+import ThreePhaseFlowPrev1 from '../assets/img/pdf_preview/ThreePhaseFlow/prev1.png';
+import ThreePhaseFlowPrev2 from '../assets/img/pdf_preview/ThreePhaseFlow/prev2.png';
+import ThreePhaseFlowPrev3 from '../assets/img/pdf_preview/ThreePhaseFlow/prev3.png';
+import ThreePhaseFlowPrev4 from '../assets/img/pdf_preview/ThreePhaseFlow/prev4.png';
+import EffectofParameters from './pdfs/EffectofParameters.pdf';
+import EffectofParametersPrev1 from '../assets/img/pdf_preview/EffectofParameters/prev1.png';
+import EffectofParametersPrev2 from '../assets/img/pdf_preview/EffectofParameters/prev2.png';
+import EffectofParametersPrev3 from '../assets/img/pdf_preview/EffectofParameters/prev3.png';
+import EffectofParametersPrev4 from '../assets/img/pdf_preview/EffectofParameters/prev4.png';
+import PressureLossEstimation from './pdfs/PressureLossEstimation.pdf';
+import PressureLossEstimationPrev1 from '../assets/img/pdf_preview/PressureLossEstimation/prev1.png';
+import PressureLossEstimationPrev2 from '../assets/img/pdf_preview/PressureLossEstimation/prev2.png';
+import PressureLossEstimationPrev3 from '../assets/img/pdf_preview/PressureLossEstimation/prev3.png';
+import PressureLossEstimationPrev4 from '../assets/img/pdf_preview/PressureLossEstimation/prev4.png';
+import FinancialForecasting from './pdfs/FinancialForecasting.pdf';
+import FinancialForecastingPrev1 from '../assets/img/pdf_preview/FinancialForecasting/prev1.png';
+import FinancialForecastingPrev2 from '../assets/img/pdf_preview/FinancialForecasting/prev2.png';
+import FinancialForecastingPrev3 from '../assets/img/pdf_preview/FinancialForecasting/prev3.png';
+import FinancialForecastingPrev4 from '../assets/img/pdf_preview/FinancialForecasting/prev4.png';
+import SatelliteImageDecomp from './pdfs/SatelliteImageDecomp.pdf';
+import SatelliteImageDecompPrev1 from '../assets/img/pdf_preview/SatelliteImageDecomp/prev1.png';
+import SatelliteImageDecompPrev2 from '../assets/img/pdf_preview/SatelliteImageDecomp/prev2.png';
+import SatelliteImageDecompPrev3 from '../assets/img/pdf_preview/SatelliteImageDecomp/prev3.png';
+import SatelliteImageDecompPrev4 from '../assets/img/pdf_preview/SatelliteImageDecomp/prev4.png';
+import CWRadar from './pdfs/CWRadar.pdf';
+import CWRadarPrev1 from '../assets/img/pdf_preview/CWRadar/prev1.png';
+import CWRadarPrev2 from '../assets/img/pdf_preview/CWRadar/prev2.png';
+import CWRadarPrev3 from '../assets/img/pdf_preview/CWRadar/prev3.png';
+import CWRadarPrev4 from '../assets/img/pdf_preview/CWRadar/prev4.png';
+import OpinionMining from './pdfs/OpinionMining.pdf';
+import OpinionMiningPrev1 from '../assets/img/pdf_preview/OpinionMining/prev1.png';
+import OpinionMiningPrev2 from '../assets/img/pdf_preview/OpinionMining/prev2.png';
+import OpinionMiningPrev3 from '../assets/img/pdf_preview/OpinionMining/prev3.png';
+import OpinionMiningPrev4 from '../assets/img/pdf_preview/OpinionMining/prev4.png';
+import GenericMenuOpt from './pdfs/GenericMenuOpt.pdf';
+import GenericMenuOptPrev1 from '../assets/img/pdf_preview/GenericMenuOpt/prev1.png';
+import GenericMenuOptPrev2 from '../assets/img/pdf_preview/GenericMenuOpt/prev2.png';
+import GenericMenuOptPrev3 from '../assets/img/pdf_preview/GenericMenuOpt/prev3.png';
+import GenericMenuOptPrev4 from '../assets/img/pdf_preview/GenericMenuOpt/prev4.png';
+import AutomatedImage from './pdfs/AutomatedImage.pdf';
+import AutomatedImagePrev1 from '../assets/img/pdf_preview/AutomatedImage/prev1.png';
+import AutomatedImagePrev2 from '../assets/img/pdf_preview/AutomatedImage/prev2.png';
+import AutomatedImagePrev3 from '../assets/img/pdf_preview/AutomatedImage/prev3.png';
+import AutomatedImagePrev4 from '../assets/img/pdf_preview/AutomatedImage/prev4.png';
+import SatelliteImageBand from './pdfs/SatelliteImageBand.pdf';
+import SatelliteImageBandPrev1 from '../assets/img/pdf_preview/SatelliteImageBand/prev1.png';
+import SatelliteImageBandPrev2 from '../assets/img/pdf_preview/SatelliteImageBand/prev2.png';
+import SatelliteImageBandPrev3 from '../assets/img/pdf_preview/SatelliteImageBand/prev3.png';
+import SatelliteImageBandPrev4 from '../assets/img/pdf_preview/SatelliteImageBand/prev4.png';
+import VirtualEnterprisesUsingFuzzyLogic from './pdfs/VirtualEnterprisesUsingFuzzyLogic.pdf';
+import VirtualEnterprisesUsingFuzzyLogicPrev1 from '../assets/img/pdf_preview/VirtualEnterprisesUsingFuzzyLogic/prev1.png';
+import VirtualEnterprisesUsingFuzzyLogicPrev2 from '../assets/img/pdf_preview/VirtualEnterprisesUsingFuzzyLogic/prev2.png';
+import VirtualEnterprisesUsingFuzzyLogicPrev3 from '../assets/img/pdf_preview/VirtualEnterprisesUsingFuzzyLogic/prev3.png';
+import VirtualEnterprisesUsingFuzzyLogicPrev4 from '../assets/img/pdf_preview/VirtualEnterprisesUsingFuzzyLogic/prev4.png';
+
 
 const Publications = () => {
     return (
@@ -162,8 +263,24 @@ const Publications = () => {
                 name="Financial Forecasting using Deep Learning with an optimized trading strategy" 
                 writers="A. Maratkhan, I. Ilyassov, M. Aitzhanov, M.F. Demirci, A.M. Ozbayoglu"
                 date="IEEE Congress on Evolutionary Computation, CEC 2019, 10-13 June 2019, Wellington, New Zealand." 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={FinancialForecasting} 
+                pdflink={FinancialForecastingPrev1} pdflink2={FinancialForecastingPrev2} pdflink3={FinancialForecastingPrev3} pdflink4={FinancialForecastingPrev4}
+                abstract="Financial forecasting using computational intelligence nowadays remains a hot topic. Recent improvements
+                in deep neural networks allow us to predict financial market
+                behavior. In our work we first implement a novel approach
+                of [1], which converts financial time-series data to 2-D images
+                and then feeds the generated images to a convolutional neural
+                network as an input. We then hypothesize that the performance of the model can be improved using different techniques.
+                Specifically, in our work, we improve the computational and
+                financial performance of the previous approach by 1) fine-tuning
+                the neural network hyperparameters, 2) creating images with
+                5 channels corresponding to indicator clusters, 3) improving
+                financial evaluation using take profit and stop loss techniques,
+                4) evolutionary optimized parameters for trading strategy. The
+                results of this study show that the above-mentioned strategies
+                improve the model considerably. We conclude with future work
+                that can be done in order to further improve the computational
+                and financial performance of the model."
             />
             <Paper 
                 name="Integrated energy-efficient machining of rotary impellers and multi-objective optimization" 
@@ -183,8 +300,17 @@ const Publications = () => {
                 name="Automated Image Analysis and Contiguity Estimation for Liquid Phase Sintered Tungsten Heavy Alloys" 
                 writers="A. Murat Ozbayoglu, Nuri Durlu, N. Kaan Caliskan"
                 date="arXiv preprint, arXiv:1902.05382" 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={AutomatedImage} 
+                pdflink={AutomatedImagePrev1} pdflink2={AutomatedImagePrev2} pdflink3={AutomatedImagePrev3} pdflink4={AutomatedImagePrev4}
+                abstract="In this study an automated software model using digital image processing techniques is proposed for extracting the image characteristics and contiguity of
+                liquid phase sintered tungsten heavy alloys. The developed model takes a typical image as input and processes it with no human intervention and provides the
+                corresponding image characteristics and contiguity value. The image processing
+                algorithm includes segmentation, binding point extraction, phase connection,
+                particle count and contiguity estimation stages. For the output, microstructural parameters such as tungsten particle size, amount of tungsten phase and
+                contiguity are determined. The model is implemented by using 6 different scanning electron microscope images of liquid phase sintered 90W-7Ni-3Fe and 93W4.9Ni-2.1Fe allloys. The results indicate that relative to the manual measurements, the automated model can correctly estimate the contiguity with an error
+                in the vicinity of 5.6% - 2.9% for these two alloys. The developed software can
+                easily be adapted to be used for other microstructures. It is also provided as
+                open-source and available for other researchers."
             />
             <Paper 
                 name="Financial Trading Model with Stock Bar Image Time Series with Deep Convolutional Neural Networks" 
@@ -228,22 +354,44 @@ const Publications = () => {
                 name="MIS-IoT: Modular Intelligent Server Based Internet of Things Framework with Big Data and Machine Learning" 
                 writers="A.C. Onal, O.B. Sezer, M. Ozbayoglu, E. Dogdu"
                 date="IEEE International Conference on Big Data, 2018, pp. 2270-2279, 10-13 December 2018, Seattle, WA, USA." 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={ModularIntelligentServer} 
+                pdflink={ModularIntelligentServerPrev1} pdflink2={ModularIntelligentServerPrev2} pdflink3={ModularIntelligentServerPrev3} pdflink4={ModularIntelligentServerPrev4}
+                abstract="Internet of Things world is getting bigger everyday
+                with new developments in all fronts. The new IoT world requires
+                better handling of big data and better usage with more intelligence integrated in all phases. Here we present MIS-IoT (Modular
+                Intelligent Server Based Internet of Things Framework with Big
+                Data and Machine Learning) framework, which is “modular”
+                and therefore open for new extensions, “intelligent” by providing
+                machine learning and deep learning methods on “big data”
+                coming from IoT objects, “server-based” in a service-oriented
+                way by offering services via standart Web protocols. We present
+                an overview of the design and implementation details of MISIoT along with a case study evaluation of the system, showing
+                the intelligence capabilities in anomaly detection over real-time
+                weather data."
             />
             <Paper 
                 name="Anomaly Detection in Vehicle Traffic with Image Processing and Machine Learning" 
                 writers="Selim Sefa Sarikan, Murat Ozbayoglu"
                 date="Complex Adaptive Systems 2018, Procedia Computer Science, vol 140, pp. 64-69, 5-7 November 2018, Chicago, USA" 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={AnomalyDetect} 
+                pdflink={AnomalyDetectPrev1} pdflink2={AnomalyDetectPrev2} pdflink3={AnomalyDetectPrev3} pdflink4={AnomalyDetectPrev4}
+                abstract="Anomaly detection is an important part of an Intelligent Transportation System. In this study, image processing and machine learning techniques are used to detect anomalies in vehicle movements. These anomalies include standing and traveling in reverse direction. Images are captured using CCTV cameras from front and rear side of the vehicle. This capability makes the results robust to the variations in operational and environmental conditions. Multiple consecutive frames are acquired for motion detection. Features such as edges and license plate corner locations are extracted for tracking purposes. Direction of the traffic flow is obtained from the trained classifier. K-nearest neighbor is chosen as the classifier model. The proposed method is evaluated on a public highway and promising detection results are achieved."
             />
             <Paper 
                 name="Optimized GPU Implementation of JPEG 2000 for Satellite Image Decompression" 
                 writers="Dervis Utku Ufuk, Alptekin Temizel, Ahmet Murat Ozbayoglu"
                 date="CSE 2018, 21st IEEE International Conference on Computational Science and Enginerering, pp. 56-61, 29-31 October 2018, Bucharest, Romania" 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={SatelliteImageDecomp} 
+                pdflink={SatelliteImageDecompPrev1} pdflink2={SatelliteImageDecompPrev2} pdflink3={SatelliteImageDecompPrev3} pdflink4={SatelliteImageDecompPrev4}
+                abstract="JPEG 2000 is a powerful yet computationally complex image compression algorithm which is widely used in remote
+                sensing applications. In this work, we focus on speeding-up the
+                decompression algorithm by applying various GPU optimization
+                techniques. We have conducted numerous experiments on highresolution satellite images in two operational modes; a synchronous mode and an asynchronous batch mode. We share our
+                experiment results and make performance evaluations regarding
+                each operational mode and optimization method separately.
+                Finally we propose an optimized GPU architecture for satellite
+                image decompression and compare the achieved performance
+                with a multi-threaded CPU architecture."
             />
             <Paper 
                 name="Classification of Turkish Documents using Paragraph Vector" 
@@ -263,8 +411,27 @@ const Publications = () => {
                 name="Load and PV Generation Forecast Based Cost Optimization for Nanogrids with PV and Battery" 
                 writers="Ugur Gudelek, Cem Cirak, Efe Arin, Erdem Sezgin, Murat Ozbayoglu and Murat Gol"
                 date="2018 53rd International Universities Power Engineering Conference (UPEC), 4-7 September 2018, Glasgow, Scotland" 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={LoadAndPv} 
+                pdflink={LoadAndPvPrev1} pdflink2={LoadAndPvPrev2} pdflink3={LoadAndPvPrev3} pdflink4={LoadAndPvPrev4}
+                abstract="Power system resiliency and robustness became
+                major concerns of the system operators and researchers after
+                the introduction of the smart grid concept. The improvements
+                in the battery storage systems (BSS) and the photovoltaic (PV)
+                systems encourage power systems operators to enable the use
+                of those systems in resiliency and robustness studies. Utilization
+                of those systems not only contributes to the robustness of the
+                power systems but also decrease the operational costs. There are
+                several methods in literature to operate the grid systems with
+                partitions of PV and BSS in the most economical way. Although
+                these methods are straightforward and work fine, they can not
+                guarantee the most economical result on a daily basis. In this
+                paper, deep learning based PV generation and load forecasts are
+                used to improve the results of optimization in terms of economic
+                aspects in nano-grid applications. In the considered system,
+                there are loads, PV generation units, BSS and grid connection.
+                Bi-directional power flow is permitted between the main grid
+                and the nano-grid system. The forecasting methodologies and
+                used optimization algorithms will be explained in this paper."
             />
             <Paper 
                 name="Predicting the pressure losses while the drillstring is buckled and rotating using artificial intelligence methods" 
@@ -292,8 +459,9 @@ const Publications = () => {
                 name="Satellite Image Band Registration with Dynamic Time Warping and Discrete Wavelet Transform" 
                 writers="D. Utku Ufuk, Ibrahim S. Acikgoz, Mustafa Teke , A. Murat Ozbayoglu"
                 date="IEEE Conference on Signal Processing and Communications Applications (SIU 2018), 2-5 May, Cesme, Izmir, Turkey." 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={SatelliteImageBand} 
+                pdflink={SatelliteImageBandPrev1} pdflink2={SatelliteImageBandPrev2} pdflink3={SatelliteImageBandPrev3} pdflink4={SatelliteImageBandPrev4}
+                abstract="Due to the imperfect physical arrangement of camera sensors, spectral bands of ground observation satellite images are usually shifted relative to each other. In order to address this issue, we propose a computationally simple band registration method which is based on Dynamic Time Warping (DTW) and Discrete Wavelet Transform (DWT) algorithms. This method has been tested on 10 frames of GÖKTÜRK-2 images and compared to a Scale-Invariant Feature Transform (SIFT) based method. In terms of quality, the proposed method have yielded very close results compared to SIFT."
             />
             <Paper 
                 name="Deep Convolutional Autoencoder for Radar-Based Classification of Similar Aided and Unaided Human Activities" 
@@ -377,8 +545,21 @@ const Publications = () => {
                 name="Estimation of Parameters for the Free-Form Machining with Deep Neural Net" 
                 writers="G. Serin, U. Güdelek, A.M. Özbayoğlu, H.Ö. Ünver"
                 date="IEEE International Conference on Big Data, 2017, 13-15 December, Boston, MA, USA." 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={EstimationOfParameters} 
+                pdflink={EstimationOfParametersPrev1} pdflink2={EstimationOfParametersPrev2} pdflink3={EstimationOfParametersPrev3} pdflink4={EstimationOfParametersPrev4}
+                abstract="Predictive Analytics is a crucial part of a Big Data application. Lately, developers have turned their attention to deep
+                learning models due to their huge success in various implementations. Meanwhile, there is lack of deep learning
+                implementations in manufacturing applications due to insufficient data. This phenomenon has been slowly shifting due to
+                the application of IoT and Industry 4.0 concept within the manufacturing industry. Streaming and batch data producing
+                sources are becoming more and more common in the machining industry. In this paper, we propose a deep learning
+                predictive analytics model based on the data generated by a particular machining process. The results indicate that using
+                such a model can make very accurate predictions and can be used as part of a real-time decision-making process in the
+                manufacturing industry. In this study, the prediction models of three crucial metrics of machining such as quality,
+                performance and energy consumption have been developed by utilizing artificial neural networks and deep learning
+                methods. Specific measures of quality, performance and energy consumption refer to material removal rate (MRR),
+                surface roughness (Ra) and specific energy consumption (SEC) respectively. The control parameters of machining are
+                selected as stepover (ae), depth of cut (ap), feed per tooth (fz) and cutting speed (Vc). In addition, variance analysis
+                (ANOVA) has been used to examine the effects of the input parameters on the output parameters."
             />
             <Paper 
                 name="A Deep Learning based Stock Trading Model with 2-D CNN Trend Detection" 
@@ -461,8 +642,9 @@ const Publications = () => {
                 name="Feature diverse hierarchical classification of human gait with CW radar for assisted living" 
                 writers="Mehmet Saygın Seyfioğlu, A. Serinoz, Ahmet Murat Özbayoğlu, Sevgi Zübeyde Gürbüz"
                 date="International Conference on Radar Systems (Radar 2017), 23-26 October. Belfast, UK, 2017." 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={CWRadar} 
+                pdflink={CWRadarPrev1} pdflink2={CWRadarPrev2} pdflink3={CWRadarPrev3} pdflink4={CWRadarPrev4}
+                abstract="Activity recognition and estimation of gait parameter are medically essential components of remote health monitoring systems that can improve quality of life, enable personalized treatments, acquire continual medical data to better inform doctors of the patient's well-being, reduce health costs, and ensure rapid response to medical emergencies. Discriminating between a large number of oftentimes similar activities using the radar micro-Doppler effect, however, requires extraction of features that can capture differences in nuances within the signatures. This optimal feature set varies according to the number and type of classes involved. Thus, this work proposes a novel feature diverse hierarchical classification structure, which prevents significant sources of confusion between classes. Our results show a 19% reduction in confusion between creeping and crawling and an elimination of confusion between falling and walking, yielding an overall 7.3% performance improvement above a multi-class support vector machine classifier."
             />
             <Paper 
                 name="Development of Superconductor Integrated Logic Circuit Design with Artificial Neural Network Structure" 
@@ -615,8 +797,19 @@ const Publications = () => {
                 name="Design of a Customer's Type Based Algorithm for Partner Selection Problem of Virtual Enterprise" 
                 writers="S. Nikghadam, A.M. Ozbayoglu, H.O. Unver, S.E. Kilic"
                 date="Procedia - Computer Sciences - Complex Adaptive Systems, Vol. 95, pp.467-474. 2-4 November. Los Angeles, CA, USA." 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={CustomersType} 
+                pdflink={CustomersTypePrev1} pdflink2={CustomersTypePrev2} pdflink3={CustomersTypePrev3} pdflink4={CustomersTypePrev4}
+                abstract="Virtual Enterprise (VE) is a temporary platform for individual enterprises to collaborate with each other, sharing their core
+                competencies to fulfill a customer demand. In order to improve the customer satisfaction, the most successful VEs select their
+                consortium’s members based on customer’s preferences. There is quite extensive literature in the field of partner selection in VE,
+                each proposing a new approach to evaluate and select the most appropriate partners among pool of enterprises. However, none of
+                the studies in literature recommend which partner selection methodology should be used in each project with a particular
+                customer attitude. In this study an algorithm is proposed which classifies the customers into three categories; passive, standard
+                and assertive. Three different approaches; Fuzzy Logic- FAHP TOPSIS and Goal programming are used for each customer type
+                respectively. This classification is beneficial since the problem’s characteristics; such as vagueness of data, change as the
+                customer’s attitude varies. The results certify that, adopting this algorithm not only helps the VE to select the most appropriate
+                partners based on customer preferences, but also the model adapts itself to each customer’s attitude. As a result, the overall
+                system flexibility is significantly improved."
             />
             <Paper 
                 name="Yapay Sinir Ağları ile Kullanıcı Profilleme ve Konfor Seviyesi Tahmini." 
@@ -629,8 +822,9 @@ const Publications = () => {
                 name="Opinion Mining of Microblog Texts on Hadoop Ecosystem." 
                 writers="M. Akif, Agca, Senol Atac, M. Mert Yucesan, Gokhan Y. Kucukayan, A. Murat Özbayoglu and Erdogan Dogdu."
                 date="International Journal of Cloud Computing, vol 5, No:1-2, pp. 79-90." 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={OpinionMining} 
+                pdflink={OpinionMiningPrev1} pdflink2={OpinionMiningPrev2} pdflink3={OpinionMiningPrev3} pdflink4={OpinionMiningPrev4}
+                abstract="Opinion mining started getting more traction due to the increasing popularity of Twitter and similar social network platforms that are producing fast and real-time responses to social events. It is a very challenging area since it is difficult, if not impossible, to identify general public sentiment towards events, entities, etc., using opinion mining techniques over huge numbers of tweets and messages automatically. In this study we present our opinion mining techniques on tweet data with early results. We apply sentiment scoring and clustering algorithms using Hadoop ecosystem for parallel processing. We classify tweets by tagging them as positive, negative, and neutral as a result."
             />
             <Paper 
                 name="Rastlantısal Su¨rec¸ ve Genetik Algoritmalar ile Algoritmik Kompozisyon." 
@@ -740,22 +934,74 @@ const Publications = () => {
                 name="Generic Menu Optimization for Multi-profile Customer Systems" 
                 writers="J. Karimov, M. Ozbayoglu, E. Dogdu and B.Tavlı"
                 date="IEEE International Symposium on Systems Engineering (ISSE) 2015, pp. 163-169. 28-30 September. Rome, Italy." 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={GenericMenuOpt} 
+                pdflink={GenericMenuOptPrev1} pdflink2={GenericMenuOptPrev2} pdflink3={GenericMenuOptPrev3} pdflink4={GenericMenuOptPrev4}
+                abstract="The use of optimal ATM menu structuring for
+                different customer profiles is essential because of usability,
+                efficiency, and customer satisfaction. Especially in competitive
+                industries such as banking, having optimal user interface
+                (UI) is a must. Determining the optimal menu structure is
+                generally accomplished through manual adjustment of the
+                menu elements. However, such an approach is inherently flawed
+                due to the overwhelming size of the optimization variables’
+                search space. Previous studies on menu optimization either
+                are based on customer questionnaires or made for only a
+                specific menu type using heuristic approaches (i.e., not generic).
+                In this paper, we propose an systematic optimization method
+                for menu structuring problem through a novel Mixed Integer
+                Programming (MIP) framework. Our optimization approach is
+                not specific to a predetermined menu class, on the contrary, the
+                MIP model is designed to be a generic optimization framework
+                that can be applied to a wide range of menu optimization
+                problems. We evaluated the performance gains on a dataset of
+                actual ATM usage logs for a period of 18 months consisting
+                of 40 million transactions. We validated our results with both
+                simulation application and mining of existing data logs. The
+                results show that the proposed optimization approach provides
+                significant reduction in the average transaction completion time
+                and the overall click count."
             />
             <Paper 
                 name="k-means Performance Improvements with Centroid Calculation Heuristics both for Serial and Parallel environments." 
                 writers="Karimov, J., M. Ozbayoglu, and E. Dogdu."
                 date="2015 IEEE Big Data Congress. 27 June-2 July. New York, USA." 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={CentroidCalc} 
+                pdflink={CentroidCalcPrev1} pdflink2={CentroidCalcPrev2} pdflink3={CentroidCalcPrev3} pdflink4={CentroidCalcPrev4}
+                abstract="k-means is the most widely used clustering algorithm due to its fairly straightforward implementations in
+                various problems. Meanwhile, when the number of clusters
+                increase, the number of iterations also tend to slightly increase.
+                However there are still opportunities for improvement as some
+                studies in the literature indicate. In this study, improved implementations of k-means algorithm with a centroid calculation
+                heuristics which results in a performance improvement over
+                traditional k-means are proposed. Two different versions of
+                the algorithm for various data sizes are configured, one for
+                small and the other one for big data implementations. Both
+                the serial and MapReduce parallel implementations of the
+                proposed algorithm are tested and analyzed using 2 different
+                data sets with various number of clusters. The results show
+                that big data implementation model outperforms the other
+                compared methods after a certain threshold level and small
+                data implementation performs better with increasing k value."
             />
             <Paper 
                 name="Partner selection in formation of virtual enterprises using fuzzy logic." 
                 writers="Nikghadam, S., B.Lotfi Sadigh, Ozbayoglu, A. M., H. O. Unver, and S. E. Kilic."
                 date="International Conference on Operations Research and Enterprise Systems, ICORES 2015, 10-12 January 2015, Lisbon, Portugal, pp. 82– 88." 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={VirtualEnterprisesUsingFuzzyLogic} 
+                pdflink={VirtualEnterprisesUsingFuzzyLogicPrev1} pdflink2={VirtualEnterprisesUsingFuzzyLogicPrev2} pdflink3={VirtualEnterprisesUsingFuzzyLogicPrev3} pdflink4={VirtualEnterprisesUsingFuzzyLogicPrev4}
+                abstract="Virtual Enterprise (VE) is a temporary cooperation among independent enterprises to build up a dynamic
+                collaboration framework for manufacturing. One of the most important steps to construct a successful VE is
+                to select the most qualified partners to take role in the project. This paper is a survey of ranking the
+                volunteer companies with respect to four evaluation criteria, proposed unit price, delivery time, quality and
+                enterprises’ past performance. Fuzzy logic method is proposed to deal with these four conflicting criteria,
+                considered as input variables of the model. As each criterion is different in nature with the other criterion,
+                various membership functions are used to fuzzify the input values. The next step is to construct the logical
+                fuzzy rules combining the inputs to conclude the output. Mamdani’s approach is adopted to evaluate the
+                output in this Fuzzy Inference System. The result of the model is the partnership chance of each partner to
+                participate in VE. A partner with highest partnership chance will be the winner of the negotiation.
+                Implementation of this model to the illustrative example of a partner selection problem in virtual enterprise
+                and comparing it with fuzzy-TOPSIS approach verifies the feasibility of the proposed approach and the
+                computational results are satisfactory. "
             />
             <Paper 
                 name="A new model to determine the two phase drilling Fluid Behaviors through Horizontal Eccentric Annular Geometry, Part A: Flow Pattern Identification and Liquid Holdup Estimation." 
@@ -845,8 +1091,13 @@ const Publications = () => {
                 name="Why the Names? Anubanini and His Clan in the Cuthaean Legend." 
                 writers="Selim F. Adalı, M. Fatih Demirci, A. Murat Özbayoglu and Oguz Ergin."
                 date="Journal of the Ancient History and Cultures of the Eastern Mediterranean vol. 11, pp. 15–29." 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={WhyTheNames} 
+                pdflink={WhyTheNamesPrev1} pdflink2={WhyTheNamesPrev2} pdflink3={WhyTheNamesPrev3} pdflink4={WhyTheNamesPrev4}
+                abstract="This article is a study of the ancient Mesopotamian literary text known as the ‘Cuthaean
+                Legend’. This Naram-Sin legend is known from several versions in the extant cuneiform corpus of
+                texts (Westenholz 1997). The names of Anubanini and members of his clan, the main protagonists, have remained puzzling in several respects. The present contribution seeks to establish the
+                reading of these names, making use of conventional cuneiform collation and analysis as well as digitial image processing. This is followed by an onomastic discussion of these names, relating them
+                to aspects of Mesopotamian religion, literature, ethnnology, and demonology. "
             />
             <Paper 
                 name="A Multi-agent System Model for Partner Selection Process in Virtual Enterprise." 
@@ -884,8 +1135,9 @@ const Publications = () => {
                 name="Three phase flow characteristics in Inclined Eccentric Annuli." 
                 writers="Osgouei, R.E., M.E. Özbayoglu, Özbayoglu, A.M, and T. Eren."
                 date="2013 IADC/SPE Drilling Technology Conference and Exhibition (MEDT), Dubai, UAE." 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={ThreePhaseFlow} 
+                pdflink={ThreePhaseFlowPrev1} pdflink2={ThreePhaseFlowPrev2} pdflink3={ThreePhaseFlowPrev3} pdflink4={ThreePhaseFlowPrev4}
+                abstract="Gasified (aerated) fluids, having two-phases, are commonly used in drilling operations, especially for achieving underbalanced conditions. While adjusting the flow rates for each phase, common application is to adjust liquid phase for proper cuttings transport, and to adjust gas phase for controlling bottomhole pressure. Unfortunately, each of these phases flow with relatively different local velocities, causing various flow patterns to occur, which leads to fluctuations in hole cleaning performance as well as frictional pressure losses. These flow patterns are influenced by hole inclination, geometry, and presence of cuttings."
             />
             <Paper 
                 name="Towards the Automated Autograph and the Recognition of Cuneiform Signs: Preliminary Results 2013. Law and (Dis)order in the Ancient Near East" 
@@ -955,8 +1207,19 @@ const Publications = () => {
                 name="Note and Timbre Classification by Local Features of Spectrogram." 
                 writers="Guven, Erhan and Ozbayoglu, A Murat."
                 date="Procedia Computer Science, Complex Adaptive Systems, CAS 2012. Vol. 12. Elsevier, pp. 182–187." 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={NoteAndTimbre} 
+                pdflink={NoteAndTimbrePrev1} pdflink2={NoteAndTimbrePrev2} pdflink3={NoteAndTimbrePrev3} pdflink4={NoteAndTimbrePrev4}
+                abstract="In recent years, very large scale online music databases containing more than 10 million tracks became prevalent as the fostered
+                availability of streaming and downloading services via the World-Wide Web. The set of access schemes, or Music Information
+                Retrieval (MIR), still poses several and partially solved problems, especially the personalization of the access, such as query by
+                humming, melody, mood, style, genre, instrument, etc. Generally the previous approaches utilized the spectral features of the
+                music track and extracted several high-level features such as pitch, cepstral coefficients, power, and the time-domain features
+                such as onset, tempo, etc. In this work, however, the low-level local features of the spectrogram partitioned by means of the Bark
+                scale are utilized to extract the quantized time-frequency-power features to be used by a Support Vector Machine to classify the
+                notes (melody) and the timbre (instrument) of 128 instruments of General Midi standard. A database of 3-second sound clips of
+                notes C4 to C5 on 7 sound cards using two software synthesizers is constructed and used for experimental note and timbre
+                classification. The preliminary results of 13-category music note and 16-category timbre classifications are promising and their
+                performance scores are surpassing the previously proposed methods."
             />
             <Paper 
                 name="Estimation of the Burned Area in Forest Fires Using Computational Intelligence Techniques." 
@@ -1067,8 +1330,9 @@ const Publications = () => {
                 name="Effect of Operation Parameters on Gasification For The Production of Synthesis Gas." 
                 writers="Bıyıkoglu, Atilla, Afsin Güngör, Cosku Kasnakoglu, Özbayoglu, Murat, and Zühtü Uysal."
                 date="27th Annual International Pittsburgh Coal Conference." 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={EffectofParameters} 
+                pdflink={EffectofParametersPrev1} pdflink2={EffectofParametersPrev2} pdflink3={EffectofParametersPrev3} pdflink4={EffectofParametersPrev4}
+                abstract="The sensitivity of operating parameters on the gasification of different Turkish coals was investigated for the production of synthesis gas. The coal properties were determined by detailed analysis in Turkish Coal Enterprises. The calculations and the analysis were carried out assuming the kinetic equilibrium model for gasification. The higher heating value of the synthesis gas produced was calculated for the evaluation of performance of the process. The effects of steam rate of water gas shift reactor, bypass ratio and coal composition on synthesis gas produced were analyzed. Moreover, integration of the gasifier with water-gas shift reactor was also investigated to obtain the desired H2/CO ratio using different coals. The model developed in this work can be used for choosing the proper set of operating parameters to produce the synthesis gas with the desired composition suitable for the purpose of its end use."
             />
             <Paper 
                 name="Determination of Air/Fuel and Steam/Fuel ratio for Coal Gasification process to produce Synthesis Gas." 
@@ -1116,8 +1380,14 @@ const Publications = () => {
                 name="An Analysis of Water Gas-Shift Reactor Battery System for Synthesis Gas Refinement." 
                 writers="Ozbayoglu, Murat, Cosku Kasnakoglu, Afsin Gungor, Atilla Biyikoglu, and Bekir Zuhtu Uysal."
                 date="11th International Combustion Symposium." 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={WaterGasShiftReactor} 
+                pdflink={WaterGasShiftReactorPrev1} pdflink2={WaterGasShiftReactorPrev2} pdflink3={WaterGasShiftReactorPrev3} pdflink4={WaterGasShiftReactorPrev4}
+                abstract="In this study, a two-stage synthesis gas (SYNGAS) refinement process is modeled through the use of a water-gasshift (WGS) reactor battery system. The process is controlled by adjusting the mixing ratio via a bypass line between
+                the inlet and exit streams of the WGS reactor battery system, and the amount of steam supply into each reactor. Steam
+                requirements and the amount of synthesis gas passing through the bypass line are determined by satisfying the
+                constraints of the ratio of hydrogen to carbon monoxide at the exit of the system. The characteristic behavior of the
+                battery system is obtained depending on the synthesis gas composition. As a result, the structured model cannot only
+                refine the synthesis gas composition, but also identify the proper process parameters for a given coal type."
             />
             <Paper 
                 name="Estimation of very-difficult-to-identify data for hole cleaning, cuttings transport and pressure drop estimation in directional and horizontal drilling." 
@@ -1179,8 +1449,21 @@ const Publications = () => {
                 name="Neural network and genetic programming in pressure loss estimation in eccentric pipe flow." 
                 writers="Ozbayoglu, A.Murat, Z Aydiner, C Kasnakoglu, and M.E. Ozbayoglu."
                 date="Intelligent Engineering Systems Through Artificial Neural Networks. ASME, pp. 163–170." 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={PressureLossEstimation} 
+                pdflink={PressureLossEstimationPrev1} pdflink2={PressureLossEstimationPrev2} pdflink3={PressureLossEstimationPrev3} pdflink4={PressureLossEstimationPrev4}
+                abstract="Studies of fluid flow in annular pipes have been popular in the petroleum
+                engineering research. Most of the work has concentrated on CFD
+                (Computational Fluid Dynamics) simulations, analytical and empirical models.
+                In this study a neural network and evolutionary programming approach is
+                developed to model the behavior of fluid flow in eccentric pipes. The model
+                uses the fluid rheological parameters, density, mass flow rate, eccentricity, inner
+                and outer pipe diameters, and predicts the pressure drop (ΔP) in the pipe in the
+                flow direction. The evolutionary programming model uses basic mathematical
+                operators, logarithm and sine functions. The results are compared with some
+                experimental data obtained in literature and some Matlab CFD simulations.
+                Preliminary studies indicate the neural network model performed better than the
+                other models, evolutionary programming model can predict comparable pressure
+                drop results, but not as effectively as the other models."
             />
             <Paper 
                 name="Neural based Technical Analysis in Stock Market Forecasting." 
