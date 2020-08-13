@@ -124,8 +124,22 @@ import OptionPairOptPrev1 from '../assets/img/pdf_preview/OptionPairOpt/prev1.pn
 import OptionPairOptPrev2 from '../assets/img/pdf_preview/OptionPairOpt/prev2.png';
 import OptionPairOptPrev3 from '../assets/img/pdf_preview/OptionPairOpt/prev3.png';
 import OptionPairOptPrev4 from '../assets/img/pdf_preview/OptionPairOpt/prev4.png';
+import CoveredCall from './pdfs/CoveredCall.pdf';
+import CoveredCallPrev1 from '../assets/img/pdf_preview/CoveredCall/prev1.png';
+import CoveredCallPrev2 from '../assets/img/pdf_preview/CoveredCall/prev2.png';
+import CoveredCallPrev3 from '../assets/img/pdf_preview/CoveredCall/prev3.png';
+import CoveredCallPrev4 from '../assets/img/pdf_preview/CoveredCall/prev4.png';
+import InsParamPrediction from './pdfs/InsParamPrediction.pdf';
+import InsParamPredictionPrev1 from '../assets/img/pdf_preview/InsParamPrediction/prev1.png';
+import InsParamPredictionPrev2 from '../assets/img/pdf_preview/InsParamPrediction/prev2.png';
+import InsParamPredictionPrev3 from '../assets/img/pdf_preview/InsParamPrediction/prev3.png';
+import InsParamPredictionPrev4 from '../assets/img/pdf_preview/InsParamPrediction/prev4.png';
+import CoalGasification from './pdfs/CoalGasification.pdf';
+import CoalGasificationPrev1 from '../assets/img/pdf_preview/CoalGasification/prev1.png';
+import CoalGasificationPrev2 from '../assets/img/pdf_preview/CoalGasification/prev2.png';
+import CoalGasificationPrev3 from '../assets/img/pdf_preview/CoalGasification/prev3.png';
+import CoalGasificationPrev4 from '../assets/img/pdf_preview/CoalGasification/prev4.png';
 
- 
 const Publications = () => {
     return (
         <section className="page-section bg-dark mt-4 pb-0" id="team">
@@ -191,8 +205,17 @@ const Publications = () => {
                 name="Neural Network based Instant Parameter Prediction for Wireless Sensor Network Optimization Models" 
                 writers="Murat Ozbayoglu, Ayhan Akbas, Huseyin Ugur Yildiz, Bulent Tavli"
                 date="Wireless Networks, pp. 1-14" 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={InsParamPrediction} 
+                pdflink={InsParamPredictionPrev1} pdflink2={InsParamPredictionPrev2} pdflink3={InsParamPredictionPrev3} pdflink4={InsParamPredictionPrev4}
+                abstract="Optimal operation configuration of a Wireless Sensor Network (WSN)
+                can be determined by utilizing exact mathematical programming techniques such
+                as Mixed Integer Programming (MIP). However, computational complexities of such
+                techniques are high. As a remedy, learning algorithms such as Neural Networks (NNs)
+                can be utilized to predict the WSN settings with high accuracy with much lower computational cost than the MIP solutions. We focus on predicting network lifetime,
+                transmission power level, and internode distance which are interrelated WSN parameters and are vital for optimal WSN operation. To facilitate an efficient solution for predicting these parameters without explicit optimizations, we built NN based
+                models employing data obtained from an MIP model. The NN based scalable prediction model yields a maximum of 3% error for lifetime, 6% for transmission power
+                level error, and internode distances within an accuracy of 3 meters in prediction
+                outcomes."
             />
             <Paper 
                 name="Computational Intelligence Models for PIV based Particle (Cuttings) Direction and Velocity Estimation in Multi-Phase Flows" 
@@ -916,8 +939,17 @@ const Publications = () => {
                 name="A Two-Level Cascade Evolutionary Computation Based Covered Call Trading Model." 
                 writers="Ucar, Mustafa, Ilknur Bayram, and Ozbayoglu, A Murat."
                 date="Procedia Computer Science, Complex Adaptive Systems Conference. ASME." 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={CoveredCall} 
+                pdflink={CoveredCallPrev1} pdflink2={CoveredCallPrev2} pdflink3={CoveredCallPrev3} pdflink4={CoveredCallPrev4}
+                abstract="In this study, a two-level cascade stock trading model is proposed. In the first level, the buy/sell signals are created by optimizing
+                the RSI technical indicator parameters with evolutionary computation techniques. Then using the selected parameters, in the
+                second level actual trading is performed using an optimized covered call strategy. Again, the optimization is implemented with
+                evolutionary computation. In this particular study, genetic algorithms (GA) and Particle Swarm Optimization (PSO) are chosen
+                as the soft computing methods for optimization. Historical end-of-day close values and options data for the S&P 500 Spider ETF
+                (SPY) and 4 other ETFs (EWZ, XLE, IWM, XLF) between years 2005-2009 are used. The system is trained using the data
+                between 2005 and 2008; the testing is done with 2009 data. The results indicate that the proposed model outperformed not only
+                the buy and hold strategy, but also buying and selling the ETF alone without the options. In future work different stock/ETF data
+                and different combined options strategies will be included in the model to identify performances of different techniques."
             />
             <Paper 
                 name="Note and Timbre Classification by Local Features of Spectrogram." 
@@ -1017,8 +1049,9 @@ const Publications = () => {
                 name="Determination of Air/Fuel and Steam/Fuel Ratio for Coal Gasification Process to Produce Synthesis Gas." 
                 writers="A. Güngör, A.M Ozbayoglu, C. Kasnakoglu, A. Biyikoglu, and B.Z Uysal."
                 date="Journal of Environmental Science and Engineering vol. 5.5, pp. 799–804, June 2011." 
-                link={Pdf} 
-                pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                link={CoalGasification} 
+                pdflink={CoalGasificationPrev1} pdflink2={CoalGasificationPrev2} pdflink3={CoalGasificationPrev3} pdflink4={CoalGasificationPrev4}
+                abstract="In this study, a coal gasiﬁcation model is developed based on nine simultaneous reactions. For given gasiﬁcation temperature and pressure, the air/fuel and water vapor/fuel ratio are optimized for maximum Hz/CO ratio by parametric study. Furthermore, the cold gas efﬁciency and higher heating value of the synthesis gas produced are computed for each case. Optimum locations of investigated parameters are also searched for maximizing cold gas efﬁciency and higher heating value of the synthesis gas."
             />
             <Paper 
                 name="Estimation of Multiphase Flow Properties using Computational Intelligence Models." 
@@ -1026,6 +1059,9 @@ const Publications = () => {
                 date="Procedia Computer Science, Complex Adaptive Systems, CAS 2011. Vol. 6, pp. 493–498." 
                 link={Pdf} 
                 pdflink={PdfPrev} pdflink2={PdfPrev2} pdflink3={PdfPrev} pdflink4={PdfPrev2}
+                abstract="Estimation of flow properties is essential in terms of the efficient usage of resources in drilling 
+                operations. Meanwhile, hydraulic characteristics of liquid-gas flow is analyzed using experimental data obtained from 
+                an eccentric pipe configuration. A high speed digital camera is used for recording the flow; in addition liquid holdup values are calculated using digital image processing techniques instead of empirical correlations or mechanistic measurements. At the same time through the acquired images, corresponding flow patterns are observed. Using the acquired images, estimation models are developed for air-water flow in horizontal eccentric annulus. This is conducted by using computational intelligence rather than conventional mechanistic models. The chosen models are nearest neighbor, backpropagation, decision trees and SVM. Input attributes are superficial Reynolds numbers for both liquid and gas phase. The output is the classified flow pattern and the liquid holdup value. SVM model turned out to be the best estimator for flow pattern identification process (%92.49 success rate for classifying 7 different flow patterns) whereas regression decision tree had the best performance for liquid holdup determination (RMSE of 0.0777)"
             />
             <Paper 
                 name="Effect of Operation Parameters on Gasification For The Production of Synthesis Gas." 
