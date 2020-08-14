@@ -4,7 +4,7 @@ import '../css/styles.css';
 const Paper = (props) => {
     return (
         <div className="card bg-light border-0 m-5">
-            <header className="card-header bg-paper medium-2 bl-1"><a className="text-white btn-link" href={props.link}>{props.name}</a></header>
+            <header className="card-header bg-paper medium-2 bl-1"><a target="_blank" rel="noopener noreferrer" className="text-white btn-link" href={props.link}>{props.name}</a></header>
             <div className="card-body medium-1">{props.writers}
                 <a target="_blank" rel="noopener noreferrer" href={props.link}><i class="fas fa-download float-right text-dark btn-link display-5"></i></a>
             </div>
