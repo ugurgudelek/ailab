@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/ailab/static/css/main.e54b5e27.chunk.css",
-    "main.js": "/ailab/static/js/main.d3a301e1.chunk.js",
-    "main.js.map": "/ailab/static/js/main.d3a301e1.chunk.js.map",
+    "main.js": "/ailab/static/js/main.107289c8.chunk.js",
+    "main.js.map": "/ailab/static/js/main.107289c8.chunk.js.map",
     "runtime-main.js": "/ailab/static/js/runtime-main.09ab5ebe.js",
     "runtime-main.js.map": "/ailab/static/js/runtime-main.09ab5ebe.js.map",
-    "static/js/2.e926b0eb.chunk.js": "/ailab/static/js/2.e926b0eb.chunk.js",
-    "static/js/2.e926b0eb.chunk.js.map": "/ailab/static/js/2.e926b0eb.chunk.js.map",
+    "static/js/2.c617b109.chunk.js": "/ailab/static/js/2.c617b109.chunk.js",
+    "static/js/2.c617b109.chunk.js.map": "/ailab/static/js/2.c617b109.chunk.js.map",
     "index.html": "/ailab/index.html",
-    "precache-manifest.8dc70bf416389594dab3db1206b6b5c7.js": "/ailab/precache-manifest.8dc70bf416389594dab3db1206b6b5c7.js",
+    "precache-manifest.54d0cda5d45a7be89df9b9c88002fafe.js": "/ailab/precache-manifest.54d0cda5d45a7be89df9b9c88002fafe.js",
     "service-worker.js": "/ailab/service-worker.js",
     "static/css/main.e54b5e27.chunk.css.map": "/ailab/static/css/main.e54b5e27.chunk.css.map",
-    "static/js/2.e926b0eb.chunk.js.LICENSE.txt": "/ailab/static/js/2.e926b0eb.chunk.js.LICENSE.txt",
+    "static/js/2.c617b109.chunk.js.LICENSE.txt": "/ailab/static/js/2.c617b109.chunk.js.LICENSE.txt",
     "static/media/1560578401_E11311-e-tarjome.pdf": "/ailab/static/media/1560578401_E11311-e-tarjome.9879c6fb.pdf",
     "static/media/1712.09592.pdf": "/ailab/static/media/1712.09592.a919a753.pdf",
     "static/media/2.jpg": "/ailab/static/media/2.cc41e47b.jpg",
@@ -89,8 +89,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.09ab5ebe.js",
-    "static/js/2.e926b0eb.chunk.js",
+    "static/js/2.c617b109.chunk.js",
     "static/css/main.e54b5e27.chunk.css",
-    "static/js/main.d3a301e1.chunk.js"
+    "static/js/main.107289c8.chunk.js"
   ]
 }
