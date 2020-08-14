@@ -10747,7 +10747,13 @@ section#contact form#contactForm :-ms-input-placeholder {
   }
 
   .project-member img{
-    width: 22rem;
+    width: 90%;
+  }
+
+  .w-20-paper{
+    width: 60% !important;
+    height: 18rem;
+    margin-bottom: 0.5rem;
   }
 
 }
@@ -10780,12 +10786,30 @@ section#contact form#contactForm :-ms-input-placeholder {
   background-color: #e9ecef;
 }
 
+.w-20-paper{
+  width: 20%;
+  height: 18rem;
+  margin-bottom: 0.5rem;
+}
+
 .project-header{
   color: #081c15;
 }
 
-.w-20-paper{
-  width: %20;
-  height: 18rem;
-  margin-bottom: 0.5rem;
+.dropdown-own{
+  display: none !important;
+}
+
+@media (max-width: 991px) {
+  .dropdown-own{
+    display: inline-block !important;
+  }
+  .nav-item{
+    display: none;
+  }
+  .w-20-paper{
+    width: 35%;
+    height: 18rem;
+    margin-bottom: 0.5rem;
+  }
 }
