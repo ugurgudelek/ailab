@@ -12,11 +12,11 @@ const Navigation = () => {
                     <div className="collapse navbar-collapse" id="navbarResponsive">
                         <ul className="navbar-nav text-uppercase ml-auto">
                             <li className="nav-item"><NavLink exact className="nav-link js-scroll-trigger text-dark-2" to="/">Home</NavLink></li>
-                            <li className="nav-item"><NavLink className="nav-link js-scroll-trigger text-dark-2" to="/About">About</NavLink></li>
-                            <li className="nav-item"><NavLink className="nav-link js-scroll-trigger text-dark-2" to="/Team">Team</NavLink></li>
-                            <li className="nav-item"><NavLink className="nav-link js-scroll-trigger text-dark-2" to="/Projects">Projects</NavLink></li>
-                            <li className="nav-item"><NavLink className="nav-link js-scroll-trigger text-dark-2" to="/Publications">Publications</NavLink></li>
-                            <li className="nav-item"><NavLink className="nav-link js-scroll-trigger text-dark-2" to="/Contact">Contact</NavLink></li>
+                            <li className="nav-item"><NavLink className="nav-link js-scroll-trigger text-dark-2" to="/about">About</NavLink></li>
+                            <li className="nav-item"><NavLink className="nav-link js-scroll-trigger text-dark-2" to="/team">Team</NavLink></li>
+                            <li className="nav-item"><NavLink className="nav-link js-scroll-trigger text-dark-2" to="/projects">Projects</NavLink></li>
+                            <li className="nav-item"><NavLink className="nav-link js-scroll-trigger text-dark-2" to="/publications">Publications</NavLink></li>
+                            <li className="nav-item"><NavLink className="nav-link js-scroll-trigger text-dark-2" to="/contact">Contact</NavLink></li>
                         </ul>
                     </div>
                 </div>
