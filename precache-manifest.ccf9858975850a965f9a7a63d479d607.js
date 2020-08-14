@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7927b00a627b1af91e583d0c421c4039",
+    "revision": "abe1f472657055d5c9b0adb2511161ab",
     "url": "/ailab/index.html"
   },
   {
-    "revision": "99406504f3eb9cd93737",
-    "url": "/ailab/static/css/main.8b77ccfc.chunk.css"
+    "revision": "dbf2d22220a81690d776",
+    "url": "/ailab/static/css/main.c133c420.chunk.css"
   },
   {
-    "revision": "14b6dbed6c0021a5a508",
-    "url": "/ailab/static/js/2.c617b109.chunk.js"
+    "revision": "e6c8ac52dbeb60184d28",
+    "url": "/ailab/static/js/2.d55d362f.chunk.js"
   },
   {
-    "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/ailab/static/js/2.c617b109.chunk.js.LICENSE.txt"
+    "revision": "d2966845b94a3318bf32eecc7af8015d",
+    "url": "/ailab/static/js/2.d55d362f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "99406504f3eb9cd93737",
-    "url": "/ailab/static/js/main.435b8dfd.chunk.js"
+    "revision": "dbf2d22220a81690d776",
+    "url": "/ailab/static/js/main.cfce62b4.chunk.js"
   },
   {
     "revision": "55c9edd5316f614bebcd",
