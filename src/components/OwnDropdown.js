@@ -14,12 +14,12 @@ const OwnDropdown = (props) => {
         Menu
         </DropdownToggle>
       <DropdownMenu>
-        <DropdownItem> <Link className="text-dark" to="/">Home</Link></DropdownItem>
-        <DropdownItem> <Link className="text-dark" to="/about">About</Link> </DropdownItem>
-        <DropdownItem> <Link className="text-dark" to="/team">Team</Link></DropdownItem>
-        <DropdownItem> <Link className="text-dark" to="/projects">Projects</Link> </DropdownItem>
-        <DropdownItem> <Link className="text-dark" to="/publications">Publications</Link></DropdownItem>
-        <DropdownItem> <Link className="text-dark" to="/contact">Contact</Link> </DropdownItem>
+        <DropdownItem> <Link className="menu-item" to="/">Home</Link></DropdownItem>
+        <DropdownItem> <Link className="menu-item" to="/about">About</Link> </DropdownItem>
+        <DropdownItem> <Link className="menu-item" to="/team">Team</Link></DropdownItem>
+        <DropdownItem> <Link className="menu-item" to="/projects">Projects</Link> </DropdownItem>
+        <DropdownItem> <Link className="menu-item" to="/publications">Publications</Link></DropdownItem>
+        <DropdownItem> <Link className="menu-item" to="/contact">Contact</Link> </DropdownItem>
       </DropdownMenu>
     </Dropdown>
   );
