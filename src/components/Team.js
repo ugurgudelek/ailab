@@ -18,42 +18,42 @@ const Team = () => {
                     <h3 className="team-header mb-5 project-header-bg">Professors</h3>
                 </div>
                 <div className="row">
-                    <Member name="Murat Ozbayoglu" title="Associate Professor" link="MuratOzbayoglu" img={MuratOzbayogluImg}/>
-                    <Member name="M.Fatih Demirci" title="Associate Professor" link="MFatihDemirci" img={MFatihImg}/>
+                    <Member name="Murat Ozbayoglu" title="Associate Professor" link="team-murat-ozbayoglu" img={MuratOzbayogluImg}/>
+                    <Member name="M.Fatih Demirci" title="Associate Professor" link="team-muhammed-fatih-demirci" img={MFatihImg}/>
                 </div>
                 <div className="text-left">
                     <h3 className="team-header mb-5 project-header-bg">PhD Students</h3>
                 </div>
                 <div className="row">
-                    <Member name="Ugur Gudelek" title="PhD Student" link="UgurGudelek" img={UgurGudelekImg}/>
-                    <Member name="Mustafa Ucar" title="PhD Student" link="MustafaUcar"/>
-                    <Member name="Selim Sefa Sarikan" title="PhD Student" link="SelimSefaSarikan"/>
-                    <Member name="Muhammed Yilmaz" title="PhD Student" link="MuhammedYilmaz"/>
-                    <Member name="Omer Berat Sezer" title="PhD Student (Graduation: May 2018)" link="OmerBeratSezer"/>
-                    <Member name="Ayhan Akbas" title="PhD Student (Graduation: April 2016)" link="AyhanAkbas"/>
+                    <Member name="Ugur Gudelek" title="PhD Student" link="team-ugur-gudelek" img={UgurGudelekImg}/>
+                    <Member name="Mustafa Ucar" title="PhD Student" link="team-mustafa-ucar"/>
+                    <Member name="Selim Sefa Sarikan" title="PhD Student" link="team-selim-sefa-sarikan"/>
+                    <Member name="Muhammed Yilmaz" title="PhD Student" link="team-muhammed-yilmaz"/>
+                    <Member name="Omer Berat Sezer" title="PhD Student (Graduation: May 2018)" link="team-omer-berat-sezer"/>
+                    <Member name="Ayhan Akbas" title="PhD Student (Graduation: April 2016)" link="team-ayhan-akbas"/>
                 </div>
                 <div className="text-left">
                     <h3 className="team-header mb-5 project-header-bg">MSc Students</h3>
                 </div>
                 <div className="row">
-                    <Member name="Izzet Baris Ozturk" title="MSc Student" link="IzzetBarisOzturk" img={izzetBarisImg}/>
-                    <Member name="Baris Guney Ozdilli" title="MSc Student" link="BarisGuneyOzdilli" img={BarisGuneyOzdilliImg}/>
-                    <Member name="Mustafa Mert Keskin" title="MSc Student" link="MustafaMertKeskin"/>
-                    <Member name="Erdem Karaosmanoglu" title="MSc Student" link="ErdemKaraosmanoglu"/>
-                    <Member name="Furkan Koc" title="MSc Student" link="FurkanKoc"/>
-                    <Member name="Ozgenil Meric" title="MSc Student" link="OzgenilMeric"/>
-                    <Member name="Dervis Utku Ufuk" title="MSc Student (Graduation: March 2019)" link="DervisUtkuUfuk"/>
-                    <Member name="Aras Can Onal" title="MSc Student (Graduation: March 2019)" link="ArasCanOnal"/>
-                    <Member name="Mustafa Sari" title="MSc Student (Graduation: December 2018)" link="MustafaSari"/>
-                    <Member name="Gokhan Kucukayan" title="MSc Student (Graduation: April 2016)" link="GokhanKucukayan"/>
-                    <Member name="Jeyhun Karimov" title="MSc Student (Graduation: December 2015)" link="JeyhunKarimov"/>
+                    <Member name="Izzet Baris Ozturk" title="MSc Student" link="team-izzet-baris-ozturk" img={izzetBarisImg}/>
+                    <Member name="Baris Guney Ozdilli" title="MSc Student" link="team-baris-guney-ozdilli" img={BarisGuneyOzdilliImg}/>
+                    <Member name="Mustafa Mert Keskin" title="MSc Student" link="team-mustafa-mert-keskin"/>
+                    <Member name="Erdem Karaosmanoglu" title="MSc Student" link="team-erdem-karaosmanoglu"/>
+                    <Member name="Furkan Koc" title="MSc Student" link="team-furkan-koc"/>
+                    <Member name="Ozgenil Meric" title="MSc Student" link="team-ozgenil-meric"/>
+                    <Member name="Dervis Utku Ufuk" title="MSc Student (Graduation: March 2019)" link="team-dervis-utku-ufuk"/>
+                    <Member name="Aras Can Onal" title="MSc Student (Graduation: March 2019)" link="team-aras-can-onal"/>
+                    <Member name="Mustafa Sari" title="MSc Student (Graduation: December 2018)" link="team-mustafa-sari"/>
+                    <Member name="Gokhan Kucukayan" title="MSc Student (Graduation: April 2016)" link="team-gokhan-kucukayan"/>
+                    <Member name="Jeyhun Karimov" title="MSc Student (Graduation: December 2015)" link="team-jeyhun-karimov"/>
                 </div>
                 <div className="text-left">
                     <h3 className="team-header mb-5 project-header-bg">Undergraduate Students</h3>
                 </div>
                 <div className="row">
-                    <Member name="Furkan Dolasik" title="Student" link="FurkanDolasik" img={FurkanDolasikImg}/>
-                    <Member name="Nehir Idil Yuksel" title="Student" link="NehirIdilYuksel" img={NehirIdilYukselImg}/>
+                    <Member name="Furkan Dolasik" title="Student" link="team-furkan-dolasik" img={FurkanDolasikImg}/>
+                    <Member name="Nehir Idil Yuksel" title="Student" link="team-nehir-idil-yuksel" img={NehirIdilYukselImg}/>
                 </div>
                 <div className="text-left">
                     <h3 className="team-header mb-5 project-header-bg">Alumni</h3>

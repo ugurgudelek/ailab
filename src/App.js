@@ -50,27 +50,27 @@ class App extends Component {
                     <Route path="/projects" component={Projects}/>
                     <Route path="/publications" component={Publications}/>
                     <Route path="/contact" component={Contact}/>
-                    <Route path="/muratozbayoglu" component={MuratOzbayoglu}/>
-                    <Route path="/mfatihdemirci" component={MFatihDemirci}/>
-                    <Route path="/furkandolasik" component={FurkanDolasik}/>
-                    <Route path="/ugurgudelek" component={UgurGudelek}/>
-                    <Route path="/mustafaucar" component={MustafaUcar}/>
-                    <Route path="/selimsefasarikan" component={SelimSefaSarikan}/>
-                    <Route path="/muhammedyilmaz" component={MuhammedYilmaz}/>
-                    <Route path="/izzetbarisozturk" component={IzzetBarisOzturk}/>
-                    <Route path="/barisguneyozdilli" component={BarisGuneyOzdilli}/>
-                    <Route path="/mustafamertkeskin" component={MustafaMertKeskin}/>
-                    <Route path="/erdemkaraosmanoglu" component={ErdemKaraosmanoglu}/>
-                    <Route path="/furkankoc" component={FurkanKoc}/>
-                    <Route path="/ozgenilmeric" component={OzgenilMeric}/>
-                    <Route path="/nehiridilyuksel" component={NehirIdilYuksel}/>
-                    <Route path="/omerberatsezer" component={OmerBeratSezer}/>
-                    <Route path="/ayhanakbas" component={AyhanAkbas}/>
-                    <Route path="/dervisutkuufuk" component={DervisUtkuUfuk}/>
-                    <Route path="/arascanonal" component={ArasCanOnal}/>
-                    <Route path="/mustafasari" component={MustafaSari}/>
-                    <Route path="/gokhankucukayan" component={GokhanKucukayan}/>
-                    <Route path="/jeyhunkarimov" component={JeyhunKarimov}/>
+                    <Route path="/team-murat-ozbayoglu" component={MuratOzbayoglu}/>
+                    <Route path="/team-muhammed-fatih-demirci" component={MFatihDemirci}/>
+                    <Route path="/team-furkan-dolasik" component={FurkanDolasik}/>
+                    <Route path="/team-ugur-gudelek" component={UgurGudelek}/>
+                    <Route path="/team-mustafa-ucar" component={MustafaUcar}/>
+                    <Route path="/team-selim-sefa-sarikan" component={SelimSefaSarikan}/>
+                    <Route path="/team-muhammed-yilmaz" component={MuhammedYilmaz}/>
+                    <Route path="/team-izzet-baris-ozturk" component={IzzetBarisOzturk}/>
+                    <Route path="/team-baris-guney-ozdilli" component={BarisGuneyOzdilli}/>
+                    <Route path="/team-mustafa-mert-keskin" component={MustafaMertKeskin}/>
+                    <Route path="/team-erdem-karaosmanoglu" component={ErdemKaraosmanoglu}/>
+                    <Route path="/team-furkan-koc" component={FurkanKoc}/>
+                    <Route path="/team-ozgenil-meric" component={OzgenilMeric}/>
+                    <Route path="/team-nehir-idil-yuksel" component={NehirIdilYuksel}/>
+                    <Route path="/team-omer-berat-sezer" component={OmerBeratSezer}/>
+                    <Route path="/team-ayhan-akbas" component={AyhanAkbas}/>
+                    <Route path="/team-dervis-utku-ufuk" component={DervisUtkuUfuk}/>
+                    <Route path="/team-aras-can-onal" component={ArasCanOnal}/>
+                    <Route path="/team-mustafa-sari" component={MustafaSari}/>
+                    <Route path="/team-gokhan-kucukayan" component={GokhanKucukayan}/>
+                    <Route path="/team-jeyhun-karimov" component={JeyhunKarimov}/>
                     <Route component={Error}/>
                 </Switch>
                 <Footer/>
