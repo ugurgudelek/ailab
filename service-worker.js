@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ailab/precache-manifest.2ef2103a466e82a1975531f18de9241c.js"
+  "/ailab/precache-manifest.8dc70bf416389594dab3db1206b6b5c7.js"
 );
 
 self.addEventListener('message', (event) => {
