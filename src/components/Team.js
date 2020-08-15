@@ -23,7 +23,6 @@ const Team = () => {
                         title="Associate Professor" 
                         link="team-murat-ozbayoglu" 
                         img={MuratOzbayogluImg}
-                        facebook="https://tr-tr.facebook.com/murat.ozbayoglu.7"
                         linkedin="https://www.linkedin.com/in/mozbayoglu"
                     />
                     <Member 
@@ -85,6 +84,7 @@ const Team = () => {
                         title="MSc Student" 
                         link="team-baris-guney-ozdilli" 
                         img={BarisGuneyOzdilliImg}
+                        linkedin="https://www.linkedin.com/in/bar%C4%B1%C5%9F-g%C3%BCney-%C3%B6zdilli-11938ab1/"
                     />
                     <Member 
                         name="Mustafa Mert Keskin" 
@@ -141,12 +141,14 @@ const Team = () => {
                         title="Student" 
                         link="team-furkan-dolasik" 
                         img={FurkanDolasikImg}
+                        linkedin="https://www.linkedin.com/in/furkan-dola%C5%9F%C4%B1k-82a563153/"
                     />
                     <Member 
                         name="Nehir Idil Yuksel" 
                         title="Student" 
                         link="team-nehir-idil-yuksel" 
                         img={NehirIdilYukselImg}
+                        linkedin="https://www.linkedin.com/in/nehir-idil-y%C3%BCksel-32b413153/"
                     />
                 </div>
                 <div className="text-left">
