@@ -17,7 +17,7 @@ const About = () => {
                                     <h4>2009-2011</h4>
                                     <h4 className="subheading">Our Humble Beginnings</h4>
                                 </div>
-                                <div className="timeline-body"><p className="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div>
+                                <div className="timeline-body"><p className="text-muted">We are working on Artificial Intelligience researches in TOBB ETU's TM-204 class.</p></div>
                             </div>
                         </li>
                         <li className="timeline-inverted">
