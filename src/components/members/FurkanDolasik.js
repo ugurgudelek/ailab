@@ -13,7 +13,7 @@ const FurkanDolasik = () => {
             </div>
             <div className="bg-light">
                 <p className="w-50 text-left inline mt-3 pl-5 mobile-info">furkandol0640@gmail.com <br/></p>
-                <p className="w-50 text-left inline mt-3 border-left pl-3 border-dark pr-3 mobile-about"> ABOUT!! Lorem nt eveniet porro sint, minus praesentium d ipulpa sequi eveniet et enim esse delectus ipsam aspernatur labore? Odio sit minima explicabo perferendis itaque. Laborum debitis saepe at! Lorem ipsum dolor sit, amet consectetur adipisicing elit. At dicta repellat cupiditate a, maxime quibusdam veniam deleniti nostrum illo? Atque deserunt totam porro aspernatur asperiores voluptate. Distinctio provident ad atque.</p>
+                <p className="w-50 text-left inline mt-3 border-left pl-3 border-dark pr-3 mobile-about">Furkan Dolasik is currently continuing his undergraduate studies in Computer Engineering department at TOBB University of Economics and Technology. He worked as a intern for 3 months at TOBB ETU about web development. His skills about web development are: <br/> -Html, Css <br/> -Javascript <br/> -React.</p>
             </div>
         </section>
     );
