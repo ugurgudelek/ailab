@@ -59,11 +59,6 @@ const Team = () => {
                         link="team-muhammed-yilmaz"
                     />
                     <Member 
-                        name="Omer Berat Sezer" 
-                        title="PhD Student (Graduation: May 2018)" 
-                        link="team-omer-berat-sezer"
-                    />
-                    <Member 
                         name="Ayhan Akbas" 
                         title="PhD Student (Graduation: April 2016)" 
                         link="team-ayhan-akbas"
@@ -108,28 +103,18 @@ const Team = () => {
                     />
                     <Member 
                         name="Dervis Utku Ufuk" 
-                        title="MSc Student (Graduation: March 2019)" 
+                        title="Graduation: March 2019" 
                         link="team-dervis-utku-ufuk"
                     />
                     <Member 
-                        name="Aras Can Onal" 
-                        title="MSc Student (Graduation: March 2019)" 
-                        link="team-aras-can-onal"
-                    />
-                    <Member 
                         name="Mustafa Sari" 
-                        title="MSc Student (Graduation: December 2018)" 
+                        title="Graduation: December 2018" 
                         link="team-mustafa-sari"
                     />
-                    <Member 
-                        name="Gokhan Kucukayan" 
-                        title="MSc Student (Graduation: April 2016)" 
+                    <Member
+                      name="Gokhan Kucukayan" 
+                        title="Graduation: April 2016" 
                         link="team-gokhan-kucukayan"
-                    />
-                    <Member 
-                        name="Jeyhun Karimov" 
-                        title="MSc Student (Graduation: December 2015)" 
-                        link="team-jeyhun-karimov"
                     />
                 </div>
                 <div className="text-left">
@@ -155,9 +140,21 @@ const Team = () => {
                     <h3 className="team-header mb-5 project-header-bg">Alumni</h3>
                 </div>
                 <div className="row">
-                    <Member/>
-                    <Member/>
-                    <Member/>
+                <Member 
+                    name="Omer Berat Sezer" 
+                    title="Graduation: May 2018" 
+                    link="team-omer-berat-sezer"
+                />
+                <Member 
+                    name="Jeyhun Karimov" 
+                    title="Graduation: December 2015" 
+                    link="team-jeyhun-karimov"
+                />
+                <Member 
+                    name="Aras Can Onal" 
+                    title="Graduation: March 2019" 
+                    link="team-aras-can-onal"
+                />
                 </div>
             </div>
         </section>
