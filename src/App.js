@@ -33,6 +33,7 @@ import ArasCanOnal from './components/members/ArasCanOnal';
 import MustafaSari from './components/members/MustafaSari';
 import GokhanKucukayan from './components/members/GokhanKucukayan';
 import JeyhunKarimov from './components/members/JeyhunKarimov';
+import AllNews from './components/AllNews';
 
  
 class App extends Component {
@@ -50,6 +51,7 @@ class App extends Component {
                     <Route path="/projects" component={Projects}/>
                     <Route path="/publications" component={Publications}/>
                     <Route path="/contact" component={Contact}/>
+                    <Route path="/news" component={AllNews}/>
                     <Route path="/team-murat-ozbayoglu" component={MuratOzbayoglu}/>
                     <Route path="/team-muhammed-fatih-demirci" component={MFatihDemirci}/>
                     <Route path="/team-furkan-dolasik" component={FurkanDolasik}/>
