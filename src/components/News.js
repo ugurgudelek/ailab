@@ -9,10 +9,10 @@ const News = () => {
         <section className="page-section bg-light" id="team">
             <div className="container">
                 <h2>News</h2>
-                <Report/>
-                <Report/>
-                <Report/>
-                <Report/>
+                <Report info="Lorem ipsum detur Lorem ipsum dol sit amet. adipisicing elit. Aspernatur, modi? lorem lorem lorem lorem lorem lorem"/>
+                <Report info="Lorem ipsum detur Lorem ipsum dol sit amet. adipisicing elit. Aspernatur, modi? lorem lorem lorem lorem lorem lorem"/>
+                <Report info="Lorem ipsum detur Lorem ipsum dol sit amet. adipisicing elit. Aspernatur, modi? lorem lorem lorem lorem lorem lorem"/>
+                <Report info="Lorem ipsum detur Lorem ipsum dol sit amet. adipisicing elit. Aspernatur, modi? lorem lorem lorem lorem lorem lorem"/>
                 <Link className="text-dark text-uppercase h5 non-under" to="/news"> <i class="fas fa-angle-double-right"></i> See all news</Link>
             </div>
         </section>
