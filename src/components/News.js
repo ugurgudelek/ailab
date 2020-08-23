@@ -7,13 +7,13 @@ import { Link } from 'react-router-dom'
 const News = () => {
     return (
         <section className="page-section bg-light" id="team">
-            <div class="container">
+            <div className="container">
                 <h2>News</h2>
                 <Report/>
                 <Report/>
                 <Report/>
                 <Report/>
-                <Link className="text-dark text-uppercase h5 non-under" to="#!"> <i class="fas fa-angle-double-right"></i> See all news</Link>
+                <Link className="text-dark text-uppercase h5 non-under" to="/news"> <i class="fas fa-angle-double-right"></i> See all news</Link>
             </div>
         </section>
     );
