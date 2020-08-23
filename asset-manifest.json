@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ailab/static/css/main.c133c420.chunk.css",
-    "main.js": "/ailab/static/js/main.de24311a.chunk.js",
-    "main.js.map": "/ailab/static/js/main.de24311a.chunk.js.map",
-    "runtime-main.js": "/ailab/static/js/runtime-main.09ab5ebe.js",
-    "runtime-main.js.map": "/ailab/static/js/runtime-main.09ab5ebe.js.map",
-    "static/js/2.d55d362f.chunk.js": "/ailab/static/js/2.d55d362f.chunk.js",
-    "static/js/2.d55d362f.chunk.js.map": "/ailab/static/js/2.d55d362f.chunk.js.map",
+    "main.css": "/ailab/static/css/main.3734da37.chunk.css",
+    "main.js": "/ailab/static/js/main.5f8c3462.chunk.js",
+    "main.js.map": "/ailab/static/js/main.5f8c3462.chunk.js.map",
+    "runtime-main.js": "/ailab/static/js/runtime-main.4bc7d8f4.js",
+    "runtime-main.js.map": "/ailab/static/js/runtime-main.4bc7d8f4.js.map",
+    "static/js/2.fde39896.chunk.js": "/ailab/static/js/2.fde39896.chunk.js",
+    "static/js/2.fde39896.chunk.js.map": "/ailab/static/js/2.fde39896.chunk.js.map",
     "index.html": "/ailab/index.html",
-    "precache-manifest.92d0e0b31963709f05523875fac38a71.js": "/ailab/precache-manifest.92d0e0b31963709f05523875fac38a71.js",
+    "precache-manifest.ba53f6d15ea5aa434fd6077209eac4e7.js": "/ailab/precache-manifest.ba53f6d15ea5aa434fd6077209eac4e7.js",
     "service-worker.js": "/ailab/service-worker.js",
-    "static/css/main.c133c420.chunk.css.map": "/ailab/static/css/main.c133c420.chunk.css.map",
-    "static/js/2.d55d362f.chunk.js.LICENSE.txt": "/ailab/static/js/2.d55d362f.chunk.js.LICENSE.txt",
+    "static/css/main.3734da37.chunk.css.map": "/ailab/static/css/main.3734da37.chunk.css.map",
+    "static/js/2.fde39896.chunk.js.LICENSE.txt": "/ailab/static/js/2.fde39896.chunk.js.LICENSE.txt",
     "static/media/1560578401_E11311-e-tarjome.pdf": "/ailab/static/media/1560578401_E11311-e-tarjome.9879c6fb.pdf",
     "static/media/1712.09592.pdf": "/ailab/static/media/1712.09592.a919a753.pdf",
     "static/media/2.jpg": "/ailab/static/media/2.cc41e47b.jpg",
@@ -88,9 +88,9 @@
     "static/media/ugurgudelek.jpeg": "/ailab/static/media/ugurgudelek.5d91e83a.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.09ab5ebe.js",
-    "static/js/2.d55d362f.chunk.js",
-    "static/css/main.c133c420.chunk.css",
-    "static/js/main.de24311a.chunk.js"
+    "static/js/runtime-main.4bc7d8f4.js",
+    "static/js/2.fde39896.chunk.js",
+    "static/css/main.3734da37.chunk.css",
+    "static/js/main.5f8c3462.chunk.js"
   ]
 }
