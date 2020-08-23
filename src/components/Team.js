@@ -60,7 +60,7 @@ const Team = () => {
                     />
                     <Member 
                         name="Ayhan Akbas" 
-                        title="PhD Student (Graduation: April 2016)" 
+                        title="Graduation: April 2016" 
                         link="team-ayhan-akbas"
                     />
                 </div>
