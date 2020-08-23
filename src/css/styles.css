@@ -10657,6 +10657,10 @@ section#contact form#contactForm :-ms-input-placeholder {
   }
 }
 
+.report-p{
+  font-size: 1.1rem;
+}
+
 .center{
   margin: auto;
   display: flex;
